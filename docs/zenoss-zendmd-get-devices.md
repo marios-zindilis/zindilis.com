@@ -3,19 +3,23 @@ Title: Get Devices from Zenoss with ZenDMD
 Description: How to get devices from Zenoss with ZenDMD
 Categories: Zenoss
 First Published: 2013-10-25
-Last Updated: 2014-01-21
+Last Updated: 2014-06-14
 - -->
 
 Get Devices from Zenoss with ZenDMD
 ===================================
 
-    #!/usr/bin/env python
+A simple example:
 
-    import Globals
-    from Products.ZenUtils.ZenScriptBase import ZenScriptBase
-    DMD = ZenScriptBase(connect=True).dmd
-    
-    Devices = DMD.Devices.getSubDevicesGen()
+```python
+#!/usr/bin/env python
+
+import Globals
+from Products.ZenUtils.ZenScriptBase import ZenScriptBase
+DMD = ZenScriptBase(connect=True).dmd
+
+Devices = DMD.Devices.getSubDevicesGen()
+```
 
 Filter by Device Class
 -------------------------
