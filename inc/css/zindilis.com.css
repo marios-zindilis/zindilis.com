@@ -65,6 +65,10 @@ pre {
 	border-radius: 0;
 }
 
+ol.breadcrumb {
+	margin-top: -30px;
+}
+
 /* Syntax Highlighting with Pygments */
 .codehilite .hll { background-color: #ffffcc }
 .codehilite  { background: #f8f8f8; }
