@@ -20,6 +20,21 @@ footer > div:last-child {
 	padding-right: 0;
 }
 
+footer div.panel-default {
+	border-color: #d35400;
+}
+
+footer div.panel-default > .panel-heading {
+	background-color: #d35400;
+	border: none;
+	color: #ffffff;
+}
+
+footer .panel-heading {
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+
 pre {
 	background-color: #ecf0f1;
 	border-top: 1px solid #7f8c8d;
