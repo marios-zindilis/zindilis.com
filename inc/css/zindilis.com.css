@@ -21,11 +21,11 @@ footer > div:last-child {
 }
 
 footer div.panel-default {
-	border-color: #d35400;
+	border-color: #f39c12;
 }
 
 footer div.panel-default > .panel-heading {
-	background-color: #d35400;
+	background-color: #f39c12;
 	border: none;
 	color: #ffffff;
 }
