@@ -1,10 +1,15 @@
 <!-- -
 Title: Get Devices from Zenoss with ZenDMD
 Description: How to get devices from Zenoss with ZenDMD
-Categories: Zenoss
 First Published: 2013-10-25
 Last Updated: 2014-06-14
 - -->
+
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+	<li><a href="/docs/zenoss-zendmd-get-devices.html">Get Devices from Zenoss with ZenDMD</a></li>
+</ol>
 
 Get Devices from Zenoss with ZenDMD
 ===================================
