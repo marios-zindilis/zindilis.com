@@ -7,7 +7,7 @@ First Published: 2014-06-30
 <ol class="breadcrumb" itemprop="breadcrumb">
 	<li><a href="/">Home</a></li>
 	<li><a href="/docs/">Docs</a></li>
-	<li><a href="/docs/juniper/">Juniper Docs</a></li>
+	<li><a href="/docs/juniper/">Juniper</a></li>
 </ol>
 
 Juniper Docs
