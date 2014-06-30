@@ -21,3 +21,8 @@ Subsections
 These are docs about Juniper Networks stuff.
 
 *   [Juniper Acronyms](/docs/juniper/juniper-acronyms.html)
+
+### [Zenoss](/docs/zenoss/)
+Docs on the Zenoss Network Monitoring System
+
+*   [Get Devices from Zenoss with ZenDMD](/docs/zenoss/zendmd-get-devices.html)
