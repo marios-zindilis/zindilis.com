@@ -12,7 +12,10 @@ First Published: 2014-06-30
 Docs
 ====
 
-The **Docs** section is where I keep my secret plans for world domination.
+The **Docs** section is where I keep my secret plans for world domination. Here 
+is a list of docs:
+
+*   [Accelerated-X](/docs/accelerated-x.html) (in Greek)
 
 Subsections
 -----------
