@@ -4,6 +4,11 @@ Description: Marios Zindilis's Docs
 First Published: 2014-06-30
 - -->
 
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+</ol>
+
 Docs
 ====
 
