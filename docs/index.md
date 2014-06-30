@@ -7,7 +7,7 @@ First Published: 2014-06-30
 Docs
 ====
 
-This **Docs** section is where I keep my secret plans for world domination.
+The **Docs** section is where I keep my secret plans for world domination.
 
 Subsections
 -----------
