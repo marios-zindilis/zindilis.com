@@ -15,7 +15,7 @@ Docs
 The **Docs** section is where I keep my secret plans for world domination. Here 
 is a list of docs:
 
-*   [Accelerated-X](/docs/accelerated-x.html) (in Greek)
+*   [Accelerated-X](/docs/accelerated-x.el.html) (in Greek)
 
 Subsections
 -----------
