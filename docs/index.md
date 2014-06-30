@@ -17,7 +17,7 @@ The **Docs** section is where I keep my secret plans for world domination.
 Subsections
 -----------
 
-### Juniper
+### [Juniper](/docs/juniper/)
 These are docs about Juniper Networks stuff.
 
 *   [Juniper Acronyms](/docs/juniper/juniper-acronyms.html)
