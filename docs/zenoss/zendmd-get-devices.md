@@ -8,7 +8,8 @@ Last Updated: 2014-06-14
 <ol class="breadcrumb" itemprop="breadcrumb">
 	<li><a href="/">Home</a></li>
 	<li><a href="/docs/">Docs</a></li>
-	<li><a href="/docs/zenoss-zendmd-get-devices.html">Get Devices from Zenoss with ZenDMD</a></li>
+	<li><a href="/docs/zenoss/">Zenoss</a></li>
+	<li><a href="/docs/zenoss/zendmd-get-devices.html">Get Devices from Zenoss with ZenDMD</a></li>
 </ol>
 
 Get Devices from Zenoss with ZenDMD
