@@ -1,10 +1,16 @@
 <!-- -
 Title: Juniper Acronyms
 Description: A list of Juniper-Networks-related acronyms
-Author: Marios Zindilis
 First Published: 2013-11-04
 Last Updated: 2014-02-24
 - -->
+
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+	<li><a href="/docs/juniper/">Juniper</a></li>
+	<li><a href="/docs/juniper/juniper-acronyms.html">Juniper Acronyms</a></li>
+</ol>
 
 Juniper Acronyms
 ================
