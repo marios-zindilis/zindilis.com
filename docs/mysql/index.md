@@ -15,4 +15,5 @@ MySQL Docs
 
 *   [Create test databases in MySQL](/docs/mysql/mysql-create-test-database.html)
 *   [`myisamchk`](/docs/mysql/myisamchk.html)
+*   [`mysqldump`](/docs/mysql/mysqldump.html)
 *   [MySQL Fabric](/docs/mysql/mysql-fabric.html)
