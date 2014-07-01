@@ -3,6 +3,13 @@ Title: MySQL Fabric
 First Published: 2014-05-18
 - -->
 
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+	<li><a href="/docs/mysql/">MySQL</a></li>
+	<li><a href="/docs/mysql/mysql-fabric.html">MySQL Fabric</a></li>
+</ol>
+
 MySQL Fabric
 ============
 
