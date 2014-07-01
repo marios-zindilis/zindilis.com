@@ -13,5 +13,6 @@ First Published: 2014-07-01
 MySQL Docs
 ==========
 
+*   [Create test databases in MySQL](/docs/mysql/mysql-create-test-database.html)
 *   [`myisamchk`](/docs/mysql/myisamchk.html)
 *   [MySQL Fabric](/docs/mysql/mysql-fabric.html)
