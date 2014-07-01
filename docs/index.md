@@ -24,11 +24,7 @@ Subsections
 -----------
 
 ### [Juniper](/docs/juniper/)
-These are docs about Juniper Networks stuff.
-
-*   [Juniper Acronyms](/docs/juniper/juniper-acronyms.html)
+These are docs about **Juniper Networks** stuff.
 
 ### [Zenoss](/docs/zenoss/)
-Docs on the Zenoss Network Monitoring System
-
-*   [Get Devices from Zenoss with ZenDMD](/docs/zenoss/zendmd-get-devices.html)
+Docs on the **Zenoss Network Monitoring System**
