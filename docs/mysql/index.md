@@ -13,4 +13,5 @@ First Published: 2014-07-01
 MySQL Docs
 ==========
 
+*   [`myisamchk`](/docs/mysql/myisamchk.html)
 *   [MySQL Fabric](/docs/mysql/mysql-fabric.html)
