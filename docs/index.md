@@ -26,5 +26,8 @@ Subsections
 ### [Juniper](/docs/juniper/)
 These are docs about **Juniper Networks** stuff.
 
+### [MySQL](/docs/mysql/)
+Docs on the **MySQL** database.
+
 ### [Zenoss](/docs/zenoss/)
 Docs on the **Zenoss Network Monitoring System**
