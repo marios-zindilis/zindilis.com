@@ -19,3 +19,4 @@ These are docs about Juniper Networks.
 *   [JunOS Online Help](/docs/juniper/juniper-junos-online-help.html)
 *   [Routing Policy Examples](/docs/juniper/routing-policy-examples.html)
 *   [`set system host-name`](/docs/juniper/set-system-host-name.html)
+*   [JNCIA Study Material](/docs/juniper/jncia-study-material.html)
