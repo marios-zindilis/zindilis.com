@@ -13,4 +13,4 @@ First Published: 2012-05-15
 max_allowed_packet
 ==================
 
-*   [max_allowed_packet and binary log corruption in MySQL](http://www.mysqlperformanceblog.com/2014/05/14/max_allowed_packet-and-binary-log-corruption-in-mysql/)
+*   [`max_allowed_packet` and binary log corruption in MySQL](http://www.mysqlperformanceblog.com/2014/05/14/max_allowed_packet-and-binary-log-corruption-in-mysql/)
