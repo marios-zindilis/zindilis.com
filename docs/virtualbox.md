@@ -4,6 +4,12 @@ Description: Notes and links on VirtualBox
 First Published: 2014-07-02
 - -->
 
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+	<li><a href="/docs/virtualbox.html">VirtualBox</a></li>
+</ol>
+
 VirtualBox
 ==========
 
