@@ -17,3 +17,9 @@ MySQL Docs
 *   [`myisamchk`](/docs/mysql/myisamchk.html)
 *   [`mysqldump`](/docs/mysql/mysqldump.html)
 *   [MySQL Fabric](/docs/mysql/mysql-fabric.html)
+
+See also
+--------
+
+*   [Using LVM for MySQL Backup and Replication Setup](http://www.mysqlperformanceblog.com/2006/08/21/using-lvm-for-mysql-backup-and-replication-setup/)
+*   [4 Useful Commandline Tools to Monitor MySQL Performance in Linux](http://www.tecmint.com/mysql-performance-monitoring/)
