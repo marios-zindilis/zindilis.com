@@ -2,6 +2,7 @@
 Title: MySQL
 Description: Docs about MySQL
 First Published: 2014-07-01
+Last Updated: 2014-07-02
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -14,6 +15,7 @@ MySQL Docs
 ==========
 
 *   [Create test databases in MySQL](/docs/mysql/mysql-create-test-database.html)
+*   [Enable logging in MySQL](/docs/mysql/mysql-enable-logging.html)
 *   [`myisamchk`](/docs/mysql/myisamchk.html)
 *   [`mysqldump`](/docs/mysql/mysqldump.html)
 *   [MySQL Fabric](/docs/mysql/mysql-fabric.html)
