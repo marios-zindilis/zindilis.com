@@ -19,6 +19,7 @@ MySQL Docs
 *   [`myisamchk`](/docs/mysql/myisamchk.html)
 *   [`mysqldump`](/docs/mysql/mysqldump.html)
 *   [MySQL Fabric](/docs/mysql/mysql-fabric.html)
+*   [MySQL Workbench](/docs/mysql/mysql-workbench.html)
 *   [Skip one record on MySQL replication slave](/docs/mysql/mysql-replication-skip-one.html)
 
 See also
