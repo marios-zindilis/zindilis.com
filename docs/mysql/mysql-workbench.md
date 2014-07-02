@@ -7,7 +7,7 @@ First Published: 2014-03-08
 <ol class="breadcrumb" itemprop="breadcrumb">
 	<li><a href="/">Home</a></li>
 	<li><a href="/docs/">Docs</a></li>
-	<li><a href="/docs/mysql/">Docs</a></li>
+	<li><a href="/docs/mysql/">MySQL</a></li>
 	<li><a href="/docs/mysql/mysql-workbench.html">MySQL Workbench</a></li>
 </ol>
 
