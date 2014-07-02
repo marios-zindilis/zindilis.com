@@ -19,6 +19,7 @@ is a list of docs:
 *   [ntpdate](/docs/ntpdate.html)
 *   [Postfix](/docs/postfix.html)
 *   [RANCID](/docs/rancid.html)
+*   [VirtualBox](/docs/virtualbox.html)
 
 Subsections
 -----------
