@@ -5,6 +5,13 @@ First Published: 2013-11-02
 Last Updated: 2013-11-23
 - -->
 
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+	<li><a href="/docs/zenoss/">Zenoss</a></li>
+	<li><a href="/docs/zenoss/zenoss-3.html">Zenoss 3 Installation</a></li>
+</ol>
+
 Zenoss 3 Installation
 =====================
 
