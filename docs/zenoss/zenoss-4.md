@@ -4,6 +4,13 @@ Description: Notes on Zenoss 4
 First Published: 2014-02-04
 - -->
 
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+	<li><a href="/docs/zenoss/">Zenoss</a></li>
+	<li><a href="/docs/zenoss/zenoss-4.html">Zenoss 4</a></li>
+</ol>
+
 Zenoss 4
 ========
 
