@@ -4,6 +4,12 @@ Description: Docs about the Zenoss Network Monitoring System
 First Published: 2014-06-30
 - -->
 
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+	<li><a href="/docs/zenoss/">Zenoss</a></li>
+</ol>
+
 Zenoss Docs
 ===========
 
