@@ -5,6 +5,13 @@ First Published: 2013-11-12
 Last Updated: 2014-01-15
 - -->
 
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+	<li><a href="/docs/zenoss/">Zenoss</a></li>
+	<li><a href="/docs/zenoss/zendmd-get-device-serial-numbers.html">Get all device Serial Numbers from ZenDMD in Zenoss</a></li>
+</ol>
+
 Get all device Serial Numbers from ZenDMD in Zenoss
 ===================================================
 
