@@ -16,3 +16,4 @@ Zenoss Docs
 *   [Zenoss 3](/docs/zenoss/zenoss-3.html)
 *   [Zenoss 4](/docs/zenoss/zenoss-4.html)
 *   [Get Devices from Zenoss with ZenDMD](/docs/zenoss/zendmd-get-devices.html)
+*   [How to troubleshoot the `cannot set device ip` error](/docs/zenoss/cannot-set-device-ip.html)
