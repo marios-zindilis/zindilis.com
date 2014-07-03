@@ -5,6 +5,13 @@ First Published: 2014-01-15
 Last Updated: 2014-07-03
 - -->
 
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+	<li><a href="/docs/zenoss/">Zenoss</a></li>
+	<li><a href="/docs/zenoss/cannot-set-device-ip.html">Cannot set device IP in Zenoss</a></li>
+</ol>
+
 How to fix failure to set IP in Zenoss
 ======================================
 
