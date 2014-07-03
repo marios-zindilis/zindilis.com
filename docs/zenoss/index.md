@@ -2,6 +2,7 @@
 Title: Zenoss Docs
 Description: Docs about the Zenoss Network Monitoring System
 First Published: 2014-06-30
+Last Updated: 2014-07-03
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
