@@ -2,6 +2,7 @@
 Title: Docs
 Description: Marios Zindilis's Docs 
 First Published: 2014-06-30
+Last Updated: 2014-07-03
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -30,6 +31,9 @@ These are docs about **Juniper Networks** stuff.
 
 ### [MySQL](/docs/mysql/)
 Docs on the **MySQL** database.
+
+### [VMware[(/docs/vmware/)
+Docs on the **VMware** Virtualization platform.
 
 ### [Zenoss](/docs/zenoss/)
 Docs on the **Zenoss Network Monitoring System**
