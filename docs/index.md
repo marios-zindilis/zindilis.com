@@ -32,7 +32,7 @@ These are docs about **Juniper Networks** stuff.
 ### [MySQL](/docs/mysql/)
 Docs on the **MySQL** database.
 
-### [VMware[(/docs/vmware/)
+### [VMware](/docs/vmware/)
 Docs on the **VMware** Virtualization platform.
 
 ### [Zenoss](/docs/zenoss/)
