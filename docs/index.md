@@ -20,6 +20,7 @@ is a list of docs:
 *   [Postfix](/docs/postfix.html)
 *   [RANCID](/docs/rancid.html)
 *   [VirtualBox](/docs/virtualbox.html)
+*   [Zentyal](/docs/zentyal.html)
 
 Subsections
 -----------
