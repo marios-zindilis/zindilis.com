@@ -2,7 +2,7 @@
 Title: Docs
 Description: Marios Zindilis's Docs 
 First Published: 2014-06-30
-Last Updated: 2014-07-03
+Last Updated: 2014-07-04
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -17,6 +17,7 @@ The **Docs** section is where I keep my secret plans for world domination. Here
 is a list of docs:
 
 *   [Accelerated-X](/docs/accelerated-x.el.html) (in Greek)
+*   [easy_install](/docs/easy_install.html)
 *   [ntpdate](/docs/ntpdate.html)
 *   [Postfix](/docs/postfix.html)
 *   [RANCID](/docs/rancid.html)
