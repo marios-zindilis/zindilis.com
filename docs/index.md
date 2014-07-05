@@ -36,6 +36,9 @@ These are docs about **Juniper Networks** stuff.
 ### [MySQL](/docs/mysql/)
 Docs on the **MySQL** database.
 
+### [NetApp](/docs/netapp/)
+Docs on **NetApp** filers.
+
 ### [VMware](/docs/vmware/)
 Docs on the **VMware** Virtualization platform.
 
