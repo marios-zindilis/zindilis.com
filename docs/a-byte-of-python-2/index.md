@@ -49,8 +49,8 @@ Table of Contents
 6.  [Feedback](/docs/a-byte-of-python-2/preface/feedback.html)
 7.  [Something to Think About](/docs/a-byte-of-python-2/preface/something-to-think-about.html)
 
-#### [1. Introduction](/docs/a-byte-of-python-2/introduction.html) ####
-1.  [Introduction](/docs/a-byte-of-python-2/introduction.html)
+#### [1. Introduction](/docs/a-byte-of-python-2/introduction/) ####
+1.  [Introduction](/docs/a-byte-of-python-2/introduction/)
 2.  Features of Python
 3.  Summary
 4.  Why not Perl?
@@ -234,6 +234,6 @@ Table of Contents
 
 <ul class='pager'>
     <li class='next'>
-        <a href='/docs/a-byte-of-python-2/preface/'>Next: Who This Book is For</a>
+        <a href='/docs/a-byte-of-python-2/preface/'>Next: Who This Book is For &rarr;</a>
     <li>
 </ul>
