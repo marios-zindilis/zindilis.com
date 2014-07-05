@@ -38,4 +38,3 @@ of the license.
         <a href='/docs/a-byte-of-python-2/preface/feedback.html'>Next: Feedback &rarr;</a>
     <li>
 </ul>
-
