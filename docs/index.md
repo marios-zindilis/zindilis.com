@@ -22,6 +22,7 @@ is a list of docs:
 *   [Postfix](/docs/postfix.html)
 *   [RANCID](/docs/rancid.html)
 *   [VirtualBox](/docs/virtualbox.html)
+*   [Wowza](/docs/wowza.html)
 *   [Zentyal](/docs/zentyal.html)
 
 Here is also [a list of docs written in Greek](/docs/index.el.html).
