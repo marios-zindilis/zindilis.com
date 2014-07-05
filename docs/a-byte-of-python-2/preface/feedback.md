@@ -28,6 +28,6 @@ through [his website](http://swaroopch.com/).
         <a href='/docs/a-byte-of-python-2/preface/license-terms.html'>&larr; Previous: License Terms</a>
     </li>
     <li class='next'>
-        <a href='/docs/a-byte-of-python-2/preface/feedback.html'>Next: Something to Think About &rarr;</a>
+        <a href='/docs/a-byte-of-python-2/preface/something-to-think-about.html'>Next: Something to Think About &rarr;</a>
     <li>
 </ul>
