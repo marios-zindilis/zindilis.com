@@ -1,9 +1,10 @@
 <!-- -
 Title: A Byte of Python 2
+Description: A Byte of Python 2
 Author: Swaroop C H
 Editor: Marios Zindilis
 First Published: 2003
-Last Updated: 2014-01-23
+Last Updated: 2014-07-05
 - -->
 
 <ol class="breadcrumb">
