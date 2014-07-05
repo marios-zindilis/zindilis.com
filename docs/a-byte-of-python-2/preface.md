@@ -15,14 +15,6 @@ Last Updated: 2014-01-07
 
 
 
-Feedback
---------
-
-The author has put in a lot of effort to make this book as interesting 
-and as accurate as possible. However, if you find some material to be 
-inconsistent or incorrect, or simply needs improvement, then please do 
-inform him, so that he can make suitable improvements. You can reach him 
-through [his website](http://swaroopch.com/).
 
 Something To Think About
 ------------------------
