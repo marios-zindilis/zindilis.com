@@ -14,23 +14,6 @@ Last Updated: 2014-01-07
 </ol>
 
 
-
-Status Of The Book
-------------------
-
-Simirarly to many libre and open source projects, this book is at a 
-constant work-in-progress status. Many chapters are constantly being 
-changed and improved. However, the book has matured a lot. You should 
-be able to learn Python easily from this book. Please do tell me if 
-you find any part of the book to be incorrect or incomprehensible.
-
-More chapters are planned for the future, such as on wxPython, Twisted 
-and maybe even Boa Constructor.
-
-*Editor's Note*: The version of the book as published on this website 
-is a lightly edited version of the original book, which is now 
-available on [iBiblio](http://www.ibiblio.org/swaroopch/byteofpython/read/).
-
 Official Website
 ----------------
 
