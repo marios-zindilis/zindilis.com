@@ -45,6 +45,6 @@ Python is soon going to become your *new* favorite programming language!
         <a href='/docs/a-byte-of-python-2/'>&larr; Previous: A Byte of Python 2</a>
     </li>
     <li class='next'>
-        <a href='/docs/a-byte-of-python-2/preface/a-history-lesson.html'>Next: A History Lesson</a>
+        <a href='/docs/a-byte-of-python-2/preface/a-history-lesson.html'>Next: A History Lesson &rarr;</a>
     <li>
 </ul>
