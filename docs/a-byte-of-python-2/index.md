@@ -230,3 +230,9 @@ Table of Contents
 
 #### C. Revision History ####
 1.  Timestamp
+
+<ul class='pager'>
+    <li class='next'>
+        <a href='/docs/a-byte-of-python-2/preface/'>Next: Who This Book is For</a>
+    <li>
+</ul>
