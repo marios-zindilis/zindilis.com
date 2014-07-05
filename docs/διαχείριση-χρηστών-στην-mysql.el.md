@@ -4,6 +4,12 @@ First Published: 2011-11-20
 Last Updated: 2014-07-05
 - -->
 
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+	<li><a href="/docs/διαχείριση-χρηστών-στην-mysql.el.html">Διαχείριση χρηστών στην MySQL</a></li>
+</ol>
+
 Διαχείριση χρηστών στην MySQL
 =============================
 
