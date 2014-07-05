@@ -47,10 +47,10 @@ Table of Contents
 4.  [Official Website](/docs/a-byte-of-python-2/preface/official-website.html)
 5.  [License Terms](/docs/a-byte-of-python-2/preface/license-terms.html)
 6.  [Feedback](/docs/a-byte-of-python-2/preface/feedback.html)
-7.  [Something to Think About]
+7.  [Something to Think About](/docs/a-byte-of-python-2/preface/something-to-think-about.html)
 
 #### [1. Introduction](/docs/a-byte-of-python-2/introduction.html) ####
-1.  Introduction
+1.  [Introduction](/docs/a-byte-of-python-2/introduction.html)
 2.  Features of Python
 3.  Summary
 4.  Why not Perl?
