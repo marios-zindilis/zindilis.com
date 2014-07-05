@@ -15,4 +15,5 @@ Docs in Greek
 This is a list of docs written in Greek
 
 *   [Accelerated-X](/docs/accelerated-x.el.html)
+*   [Διαχείριση χρηστών στην MySQL](/docs/διαχείριση-χρηστών-στην-mysql.el.html)
 *   [Ρύθμιση CentOS 6 ως router](/docs/ρύθμιση-centos-6-ως-router.el.html)
