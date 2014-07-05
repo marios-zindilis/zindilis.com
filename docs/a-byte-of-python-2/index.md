@@ -39,7 +39,7 @@ Otherwise, for the version on Python 2, keep reading here.
 Table of Contents
 -----------------
 
-#### [0. Preface](/docs/a-byte-of-python-2/preface.html) ####
+#### [0. Preface](/docs/a-byte-of-python-2/preface/) ####
 1.  Who This Book Is For
 2.  A History Lesson
 3.  Status of the Book
