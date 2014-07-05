@@ -14,17 +14,6 @@ Last Updated: 2014-01-07
 </ol>
 
 
-Official Website
-----------------
-
-Originally, the official website of the book was www.byteofpython.info, 
-but that website is no longer active. Instead, the version of the book 
-writte for Python 2 is currently freely available at 
-[iBiblio](http://www.ibiblio.org/swaroopch/byteofpython/read/).
-
-The most current version of the book, focusing on Python 3, is available at 
-[the author's website](http://swaroopch.com/notes/python/).
-
 License Terms
 -------------
 
