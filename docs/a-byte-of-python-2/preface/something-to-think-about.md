@@ -23,7 +23,7 @@ C. A. R. Hoare:
 > is to make it so complicated that there are no obvious deficiencies.
 
 C. W. Wendte:
-> Success in life is a matter not so much of talend and opportunity as 
+> Success in life is a matter not so much of talent and opportunity as 
 > of concentration and perseverance.
 
 <ul class='pager'>
