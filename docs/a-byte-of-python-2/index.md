@@ -44,10 +44,10 @@ Table of Contents
 1.  [Who This Book Is For](/docs/a-byte-of-python-2/preface/)
 2.  [A History Lesson](/docs/a-byte-of-python-2/preface/a-history-lesson.html)
 3.  [Status of the Book](/docs/a-byte-of-python-2/preface/status-of-the-book.html)
-4.  Official Website
-5.  License Terms
-6.  Feedback
-7.  Something to Think About
+4.  [Official Website](/docs/a-byte-of-python-2/preface/official-website.html)
+5.  [License Terms](/docs/a-byte-of-python-2/preface/license-terms.html)
+6.  [Feedback](/docs/a-byte-of-python-2/preface/feedback.html)
+7.  [Something to Think About]
 
 #### [1. Introduction](/docs/a-byte-of-python-2/introduction.html) ####
 1.  Introduction
