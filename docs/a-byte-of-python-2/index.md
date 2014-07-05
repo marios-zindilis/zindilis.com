@@ -40,9 +40,9 @@ Table of Contents
 -----------------
 
 #### [0. Preface](/docs/a-byte-of-python-2/preface/) ####
-1.  Who This Book Is For
-2.  A History Lesson
-3.  Status of the Book
+1.  [Who This Book Is For](/docs/a-byte-of-python-2/preface/)
+2.  [A History Lesson](/docs/a-byte-of-python-2/preface/a-history-lesson.html)
+3.  [Status of the Book](/docs/a-byte-of-python-2/preface/status-of-the-book.html)
 4.  Official Website
 5.  License Terms
 6.  Feedback
