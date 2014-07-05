@@ -15,7 +15,7 @@ Last Updated: 2014-07-05
 </ol>
 
 License Terms
--------------
+=============
 
 This book is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike License 2.0](http://creativecommons.org/licenses/by-nc-sa/2.0/).
 
