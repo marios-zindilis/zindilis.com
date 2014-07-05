@@ -56,6 +56,6 @@ Swaroop C H, the author of this book, wrote in the initial form of the book:
         <a href='/docs/a-byte-of-python-2/preface/'>&larr; Previous: Who This Book is For?</a>
     </li>
     <li class='next'>
-        <a href='/docs/a-byte-of-python-2/preface/status-of-the-book.html'>Next: Status of the Book</a>
+        <a href='/docs/a-byte-of-python-2/preface/status-of-the-book.html'>Next: Status of the Book &rarr;</a>
     <li>
 </ul>
