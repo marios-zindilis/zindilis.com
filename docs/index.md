@@ -19,6 +19,7 @@ is a list of docs:
 *   [ACLs](/docs/acl.html)
 *   [Cream](/docs/cream.html)
 *   [easy_install](/docs/easy_install.html)
+*   [Install Motion on CentOS 6](/docs/centos-6-install-motion.html)
 *   [KMotion](/docs/kmotion.html)
 *   [Motion](/docs/motion.html)
 *   [ntpdate](/docs/ntpdate.html)
