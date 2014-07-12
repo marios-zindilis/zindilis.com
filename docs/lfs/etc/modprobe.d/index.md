@@ -7,8 +7,8 @@ First Published: 2014-07-12
     <li><a href="/">Home</a></li>
     <li><a href="/docs/">Docs</a></li>
     <li><a href="/docs/lfs/">Linux Filesystem</a></li>
-    <li><a href="/docs/lfs/etc/">/etc/</a></li>
-    <li><a href="/docs/lfs/etc/modprobe.d/"></a>modprobe.d/</li>
+    <li><a href="/docs/lfs/etc/">etc</a></li>
+    <li><a href="/docs/lfs/etc/modprobe.d/">modprobe.d</a></li>
 </ol>
 
 /etc/modprobe.d/
