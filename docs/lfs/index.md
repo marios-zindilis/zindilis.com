@@ -17,4 +17,8 @@ This is a list of noteworthy directories and files on Linux-based operating
 systems. Note that locations differ between distributions and between versions 
 of a distribution.
 
+*   [/etc/](/docs/lfs/etc/)
 *   [/etc/modprobe.d/](/docs/lfs/etc/modprobe.d/)
+*   [/usr/](/docs/lfs/usr/)
+*   [/usr/lib/](/docs/lfs/usr/lib/)
+*   [/usr/lib/modprobe.d/](/docs/lfs/usr/lib/modprobe.d/)
