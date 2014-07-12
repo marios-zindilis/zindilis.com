@@ -14,4 +14,4 @@ First Published: 2014-07-12
 /usr/lib/
 =========
 
-*   [/usr/lib/modprobe.d/]
+*   [/usr/lib/modprobe.d/](/docs/lfs/usr/lib/modprobe.d/)
