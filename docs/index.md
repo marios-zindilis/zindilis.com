@@ -59,6 +59,9 @@ Subsections
 ### [Juniper](/docs/juniper/)
 These are docs about **Juniper Networks** stuff.
 
+### [Linux Filesystem](/docs/lfs/)
+List of noteworthy directories and files on Linux-based operating systems.
+
 ### [MySQL](/docs/mysql/)
 Docs on the **MySQL** database.
 
