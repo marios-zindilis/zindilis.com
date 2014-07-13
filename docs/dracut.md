@@ -4,6 +4,12 @@ Description: Notes and links on dracut
 First Published: 2014-07-13
 - -->
 
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+	<li><a href="/docs/dracut.html">dracut</a></li>
+</ol>
+
 dracut
 ======
 
