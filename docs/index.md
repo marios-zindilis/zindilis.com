@@ -21,6 +21,7 @@ is a list of docs:
 *   [Chef](/docs/chef.html)
 *   [CentOS 7](/docs/centos-7.html)
 *   [Cream](/docs/cream.html)
+*   [dracut](/docs/dracut.html)
 *   [easy_install](/docs/easy_install.html)
 *   [exportfs](/docs/exportfs.html)
 *   [Install Motion on CentOS 6](/docs/centos-6-install-motion.html)
