@@ -1,6 +1,7 @@
 <!-- -
 Title: /usr/lib/modprobe.d/
 First Published: 2014-07-12
+Last Updated: 2014-07-13
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -16,8 +17,17 @@ First Published: 2014-07-12
 /usr/lib/modprobe.d/
 ====================
 
-As of CentOS 7, `/usr/lib/modprobe.d/` is the directory that contains 
-configuration for loading kernel modules and defining module aliases and 
-module blacklists.
+On CentOS and probably other RedHat-based distributions, `/usr/lib/modprobe.d/` 
+is the directory that contains configuration for loading kernel modules and 
+defining module aliases and module blacklists, as these configurations are 
+shipped by packages, as opposed to host-specific configurations that go in 
+[/etc/modprobe.d/](/docs/lfs/etc/modprobe.d/).
 
-On CentOS 6, the equivalent directory is [/etc/modprobe.d/](/docs/lfs/etc/modprobe.d/).
+Module configurations from both directories are read by default, unless 
+[dracut](/docs/dracut.html) is run in *generic* mode.
+
+See also
+--------
+
+*   [dracut](/docs/dracut.html)
+*   [/etc/modprobe.d/](/docs/lfs/etc/modprobe.d/)
