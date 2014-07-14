@@ -20,6 +20,7 @@ is a list of docs:
 *   [Amanda](/docs/amanda.html)
 *   [Ansible](/docs/ansible.html)
 *   [arp-scan](/docs/arp-scan.html)
+*   [Basic authentication with Apache 2](/docs/apache2-basic-authentication.html)
 *   [Cheese](/docs/cheese.html)
 *   [Chef](/docs/chef.html)
 *   [CentOS 7](/docs/centos-7.html)
