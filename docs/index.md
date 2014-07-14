@@ -17,6 +17,7 @@ The **Docs** section is where I keep my secret plans for world domination. Here
 is a list of docs:
 
 *   [ACLs](/docs/acl.html)
+*   [Amanda](/docs/amanda.html)
 *   [Cheese](/docs/cheese.html)
 *   [Chef](/docs/chef.html)
 *   [CentOS 7](/docs/centos-7.html)
