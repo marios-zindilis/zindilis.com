@@ -18,6 +18,7 @@ is a list of docs:
 
 *   [ACLs](/docs/acl.html)
 *   [Amanda](/docs/amanda.html)
+*   [arp-scan](/docs/arp-scan.html)
 *   [Cheese](/docs/cheese.html)
 *   [Chef](/docs/chef.html)
 *   [CentOS 7](/docs/centos-7.html)
