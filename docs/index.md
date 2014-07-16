@@ -26,6 +26,7 @@ is a list of docs:
 *   [Cheese](/docs/cheese.html)
 *   [Chef](/docs/chef.html)
 *   [CentOS 7](/docs/centos-7.html)
+*   [Citrix XenServer 6.2](/docs/citrix-xenserver-6.2.html)
 *   [Cream](/docs/cream.html)
 *   [Disabling Apache Default Modules](/docs/apache-disable-default-modules.html)
 *   [dracut](/docs/dracut.html)
