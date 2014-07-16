@@ -58,6 +58,7 @@ is a list of docs:
 *   [VirtualBox](/docs/virtualbox.html)
 *   [uGet](/docs/uget.html)
 *   [Wowza](/docs/wowza.html)
+*   [Xdotool](/docs/xdotool.html)
 *   [XMPP](/docs/xmpp.html)
 *   [yum](/docs/yum.html)
 *   [Zentyal](/docs/zentyal.html)
