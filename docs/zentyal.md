@@ -2,7 +2,7 @@
 Title: Zentyal
 Description: Notes and links on Zentyal
 First Published: 2014-04-09
-Last Updated: 2014-05-31
+Last Updated: 2014-07-19
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -37,3 +37,7 @@ at [tecmint.com](http://www.tecmint.com/):
 10. [Enabling UserDir and Password Protect Web Directories on Zentyal Webserver](http://www.tecmint.com/enabling-userdir-and-password-protect-web-directoires-on-zentyal/)
 11. [Installing Pydio File Sharing Platform on Zentyal 3.4 Webserver](http://www.tecmint.com/installing-pydio-file-sharing-on-zentyal-webserver/)
 12. [How to Install and Configure OpenVPN Server on Zentyal 3.4 PDC](http://www.tecmint.com/install-openvpn-server-on-zentyal/)
+
+Articles for Zentyal 3.5, released on July 1st 2014:
+
+*   [Install and Configure Zentyal Linux 3.5 as A BDC (Backup Domain Controller)][http://www.tecmint.com/configure-zentyal-as-backup-domain-controller/)
