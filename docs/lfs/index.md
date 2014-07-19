@@ -17,6 +17,9 @@ This is a list of noteworthy directories and files on Linux-based operating
 systems. Note that locations differ between distributions and between versions 
 of a distribution.
 
+*   [/boot/](/docs/lfs/boot/)
+*   [/boot/grub/](/docs/lfs/boot/grub/)
+*   [/boot/grub/menu.lst](/docs/lfs/boot/grub/menu.lst.html)
 *   [/etc/](/docs/lfs/etc/)
 *   [/etc/modprobe.d/](/docs/lfs/etc/modprobe.d/)
 *   [/usr/](/docs/lfs/usr/)
