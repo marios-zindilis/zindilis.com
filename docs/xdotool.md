@@ -3,6 +3,12 @@ Title: Xdotool
 First Published: 2014-07-16
 - -->
 
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+	<li><a href="/docs/xdotool.html">Xdotool</a></li>
+</ol>
+
 Xdotool
 =======
 
