@@ -40,4 +40,4 @@ at [tecmint.com](http://www.tecmint.com/):
 
 Articles for Zentyal 3.5, released on July 1st 2014:
 
-*   [Install and Configure Zentyal Linux 3.5 as A BDC (Backup Domain Controller)][http://www.tecmint.com/configure-zentyal-as-backup-domain-controller/)
+*   [Install and Configure Zentyal Linux 3.5 as A BDC (Backup Domain Controller)](http://www.tecmint.com/configure-zentyal-as-backup-domain-controller/)
