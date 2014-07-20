@@ -41,6 +41,7 @@ is a list of docs:
 *   [easy_install](/docs/easy_install.html)
 *   [Enable EPEL Repository on CentOS 6](/docs/centos-6-enable-epel-repository.html)
 *   [exportfs](/docs/exportfs.html)
+*   [ftp](/docs/ftp.html)
 *   [GnuTLS](/docs/gnutls.html)
 *   [hpacucli](/docs/hpacucli.html)
 *   [HP MSA2040](/docs/hp-msa2040.html)
