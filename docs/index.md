@@ -37,6 +37,7 @@ is a list of docs:
 *   [easy_install](/docs/easy_install.html)
 *   [Enable EPEL Repository on CentOS 6](/docs/centos-6-enable-epel-repository.html)
 *   [exportfs](/docs/exportfs.html)
+*   [GnuTLS](/docs/gnutls.html)
 *   [hpacucli](/docs/hpacucli.html)
 *   [Install Motion on CentOS 6](/docs/centos-6-install-motion.html)
 *   [killall](/docs/killall.html)
