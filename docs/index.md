@@ -33,6 +33,7 @@ is a list of docs:
 *   [Corosync](/docs/corosync.html)
 *   [curl](/docs/curl.html)
 *   [Cream](/docs/cream.html)
+*   [cron](/docs/cron.html)
 *   [dhcrelay](/docs/dhcrelay.html)
 *   [Disabling Apache Default Modules](/docs/apache-disable-default-modules.html)
 *   [dracut](/docs/dracut.html)
