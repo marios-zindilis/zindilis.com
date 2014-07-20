@@ -2,8 +2,14 @@
 Title: Preparing a new CentOS 6 Server
 Description: Steps to prepare a fresh CentOS 6 Server for production
 First Published: 2013-11-25
-Last Updated: 2013-12-12
+Last Updated: 2014-07-20
 - -->
+
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+	<li><a href="/docs/centos-6-prepare-new-server.html">Preparing a new CentOS 6 Server</a></li>
+</ol>
 
 Preparing a new CentOS 6 Server
 ===============================
