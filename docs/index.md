@@ -39,6 +39,7 @@ is a list of docs:
 *   [exportfs](/docs/exportfs.html)
 *   [GnuTLS](/docs/gnutls.html)
 *   [hpacucli](/docs/hpacucli.html)
+*   [HP MSA2040](/docs/hp-msa2040.html)
 *   [Install Motion on CentOS 6](/docs/centos-6-install-motion.html)
 *   [killall](/docs/killall.html)
 *   [KMotion](/docs/kmotion.html)
