@@ -31,6 +31,7 @@ is a list of docs:
 *   [Citrix XenServer 6.2](/docs/citrix-xenserver-6.2.html)
 *   [Convert MBR Partition Table to GPT on CentOS 6](/docs/centos-6-convert-mbr-to-gpt.html)
 *   [Corosync](/docs/corosync.html)
+*   [curl](/docs/curl.html)
 *   [Cream](/docs/cream.html)
 *   [Disabling Apache Default Modules](/docs/apache-disable-default-modules.html)
 *   [dracut](/docs/dracut.html)
