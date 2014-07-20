@@ -2,7 +2,7 @@
 Title: Docs
 Description: Marios Zindilis's Docs 
 First Published: 2014-06-30
-Last Updated: 2014-07-19
+Last Updated: 2014-07-20
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -43,6 +43,7 @@ is a list of docs:
 *   [Enable EPEL Repository on CentOS 6](/docs/centos-6-enable-epel-repository.html)
 *   [exportfs](/docs/exportfs.html)
 *   [ftp](/docs/ftp.html)
+*   [Gimp](/docs/gimp.html)
 *   [GnuTLS](/docs/gnutls.html)
 *   [hpacucli](/docs/hpacucli.html)
 *   [HP MSA2040](/docs/hp-msa2040.html)
