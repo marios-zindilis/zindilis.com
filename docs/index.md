@@ -35,6 +35,7 @@ is a list of docs:
 *   [Cream](/docs/cream.html)
 *   [Disabling Apache Default Modules](/docs/apache-disable-default-modules.html)
 *   [dracut](/docs/dracut.html)
+*   [DRBD](/docs/drbd.html)
 *   [easy_install](/docs/easy_install.html)
 *   [Enable EPEL Repository on CentOS 6](/docs/centos-6-enable-epel-repository.html)
 *   [exportfs](/docs/exportfs.html)
