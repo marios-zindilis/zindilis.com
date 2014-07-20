@@ -35,6 +35,7 @@ is a list of docs:
 *   [Cream](/docs/cream.html)
 *   [cron](/docs/cron.html)
 *   [dhcrelay](/docs/dhcrelay.html)
+*   [dirname](/docs/dirname.html)
 *   [Disabling Apache Default Modules](/docs/apache-disable-default-modules.html)
 *   [dracut](/docs/dracut.html)
 *   [DRBD](/docs/drbd.html)
