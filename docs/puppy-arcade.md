@@ -4,6 +4,12 @@ Description: Notes and links on the Puppy Arcade distribution
 First Published: 2014-03-08
 - -->
 
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+	<li><a href="/docs/puppy-arcade.html">Puppy Arcade</a></li>
+</ol>
+
 Puppy Arcade
 ============
 
