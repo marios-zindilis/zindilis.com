@@ -22,6 +22,7 @@ of a distribution.
 *   [/boot/grub/menu.lst](/docs/lfs/boot/grub/menu.lst.html)
 *   [/etc/](/docs/lfs/etc/)
 *   [/etc/modprobe.d/](/docs/lfs/etc/modprobe.d/)
+*   [/etc/shells](/docs/lfs/etc/shells.html)
 *   [/usr/](/docs/lfs/usr/)
 *   [/usr/lib/](/docs/lfs/usr/lib/)
 *   [/usr/lib/modprobe.d/](/docs/lfs/usr/lib/modprobe.d/)
