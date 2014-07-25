@@ -1,7 +1,7 @@
 <!-- -
 Title: etc
 First Published: 2014-07-12
-Last Updated: 2014-07-19
+Last Updated: 2014-07-25
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -15,3 +15,4 @@ Last Updated: 2014-07-19
 =====
 
 *   [/etc/modprobe.d/](/docs/lfs/etc/modprobe.d/)
+*   [/etc/shells](/docs/lfs/etc/shells.html)
