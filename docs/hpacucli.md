@@ -2,6 +2,7 @@
 Title: hpacucli
 Description: HP RAID Array Configuration Linux Utilitys
 First Published: 2013-12-02
+Last Updated: 2014-07-23
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -79,3 +80,8 @@ Example output:
 
        physicaldrive 1I:1:1 (port 1I:box 1:bay 1, 146 GB): OK
        physicaldrive 1I:1:2 (port 1I:box 1:bay 2, 146 GB): OK
+
+See Also
+--------
+
+*   [17 hpacucli Command Examples for Linux on HP Servers](http://www.thegeekstuff.com/2014/07/hpacucli-examples/)
