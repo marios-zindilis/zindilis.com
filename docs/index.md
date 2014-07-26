@@ -80,6 +80,7 @@ is a list of docs:
 *   [Puppy Arcade](/docs/puppy-arcade.html)
 *   [PySphere](/docs/pysphere.html)
 *   [RANCID](/docs/rancid.html)
+*   [Regular Expressions](/docs/regular-expressions.html)
 *   [route](/docs/route.html)
 *   [Salt](/docs/salt.html)
 *   [Send Apache logs to remote syslog server](/docs/apache-logs-to-remote-syslog.html)
