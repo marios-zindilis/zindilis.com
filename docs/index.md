@@ -84,6 +84,7 @@ is a list of docs:
 *   [RANCID](/docs/rancid.html)
 *   [Regular Expressions](/docs/regular-expressions.html)
 *   [route](/docs/route.html)
+*   [Ryzom](/docs/ryzom.html)
 *   [Salt](/docs/salt.html)
 *   [Send Apache logs to remote syslog server](/docs/apache-logs-to-remote-syslog.html)
 *   [Set up CentOS 6 as NFS server](/docs/centos-6-nfs-server.html)
