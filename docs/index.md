@@ -2,7 +2,7 @@
 Title: Docs
 Description: Marios Zindilis's Docs 
 First Published: 2014-06-30
-Last Updated: 2014-07-25
+Last Updated: 2014-07-26
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -72,6 +72,7 @@ is a list of docs:
 *   [OpenStack](/docs/openstack.html)
 *   [Pacemaker](/docs/pacemaker.html)
 *   [Parted](/docs/parted.html)
+*   [Peppermint OS](/docs/peppermint-os.html)
 *   [Perdition](/docs/perdition.html)
 *   [Postfix](/docs/postfix.html)
 *   [Preparing a new CentOS 6 Server](/docs/centos-6-prepare-new-server.html)
@@ -88,6 +89,8 @@ is a list of docs:
 *   [sudo](/docs/sudo.html)
 *   [SystemBack](/docs/systemback.html)
 *   [systemd](/docs/systemd.html)
+*   [tail](/docs/tail.html)
+*   [tailf](/docs/tailf.html)
 *   [tcpdump](/docs/tcpdump.html)
 *   [tcptrack](/docs/tcptrack.html)
 *   [top](/docs/top.html)
