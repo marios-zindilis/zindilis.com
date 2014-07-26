@@ -59,6 +59,7 @@ is a list of docs:
 *   [HP MSA2040](/docs/hp-msa2040.html)
 *   [Install HP System Insight Manager on CentOS](/docs/centos-install-hp-sim.html)
 *   [Install Motion on CentOS 6](/docs/centos-6-install-motion.html)
+*   [Install packages from RHEL DVD with yum](/docs/rhel-yum-install-from-dvd.html)
 *   [Installation of `syslog-ng` on CentOS 6](/docs/centos-6-install-syslog-ng.html)
 *   [killall](/docs/killall.html)
 *   [KMotion](/docs/kmotion.html)
