@@ -6,7 +6,7 @@ First Published: 2011-02-25
 Hello, World!
 =============
 
-Day off today, and I got to catch up with some reading that was in the 
+Having the day off today, I got to catch up with some reading that was in the 
 "to-read" bookmarks (unordered) list:
 
 *   [Ubuntu: Where did the love go?](http://itmanagement.earthweb.com/osrc/article.php/3925641/Ubuntu-Where-Did-the-Love-Go.htm)
