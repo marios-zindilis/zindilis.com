@@ -84,6 +84,7 @@ is a list of docs:
 *   [RANCID](/docs/rancid.html)
 *   [Regular Expressions](/docs/regular-expressions.html)
 *   [RHCSA](/docs/rhcsa.html)
+*   [RHEL](/docs/rhel.html)
 *   [route](/docs/route.html)
 *   [Ryzom](/docs/ryzom.html)
 *   [Salt](/docs/salt.html)
