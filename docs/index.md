@@ -83,6 +83,7 @@ is a list of docs:
 *   [PySphere](/docs/pysphere.html)
 *   [RANCID](/docs/rancid.html)
 *   [Regular Expressions](/docs/regular-expressions.html)
+*   [RHCSA](/docs/rhcsa.html)
 *   [route](/docs/route.html)
 *   [Ryzom](/docs/ryzom.html)
 *   [Salt](/docs/salt.html)
