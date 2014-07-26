@@ -89,6 +89,7 @@ is a list of docs:
 *   [Salt](/docs/salt.html)
 *   [Send Apache logs to remote syslog server](/docs/apache-logs-to-remote-syslog.html)
 *   [Set up CentOS 6 as NFS server](/docs/centos-6-nfs-server.html)
+*   [smbpasswd](/docs/smbpasswd.html)
 *   [sudo](/docs/sudo.html)
 *   [SystemBack](/docs/systemback.html)
 *   [systemd](/docs/systemd.html)
