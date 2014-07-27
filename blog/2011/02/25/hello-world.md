@@ -10,7 +10,7 @@ Last Updated: 2014-07-26
     <li><a href="/blog/2011/">2011</a></li>
     <li><a href="/blog/2011/02/">02</a></li>
     <li><a href="/blog/2011/02/25/">25</a></li>
-	<li><a href="/blog/2011/02/25/hello-world.html">Hello, World!</a></li>
+    <li><a href="/blog/2011/02/25/hello-world.html">Hello, World!</a></li>
 </ol>
 
 Hello, World!
