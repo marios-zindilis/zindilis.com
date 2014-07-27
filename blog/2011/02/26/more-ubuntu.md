@@ -15,8 +15,8 @@ First Published: 2011-02-26
 More Ubuntu
 ===========
 
-I 've been doing some Ubuntu-related reading, and I have to say my faith 
-is shaken. I have been a user of Ubuntu for many versions now, my main 
+I 've been doing some Ubuntu-related reading, and I have to say my faith is 
+shaken. I have been a user of Ubuntu for many versions now, my main 
 point being that the defaults were just right for me, so I could just 
 start using my system post-installation. It's those defaults that are 
 now changing in bulk.
