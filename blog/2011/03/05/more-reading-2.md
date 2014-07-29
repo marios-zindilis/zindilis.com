@@ -8,7 +8,7 @@ First Published: 2011-03-05
     <li><a href="/blog/">Blog</a></li>
     <li><a href="/blog/2011/">2011</a></li>
     <li><a href="/blog/2011/03/">03</a></li>
-    <li><a href="/blog/2011/03/05/">25</a></li>
+    <li><a href="/blog/2011/03/05/">05</a></li>
     <li><a href="/blog/2011/03/05/more-reading-2.html">More reading #2</a></li>
 </ol>
 
