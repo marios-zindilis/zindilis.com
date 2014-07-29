@@ -22,6 +22,7 @@ is a list of docs:
 *   [Ansible](/docs/ansible.html)
 *   [Apache Benchmarks](/docs/apache-benchmarks.html)
 *   [arp-scan](/docs/arp-scan.html)
+*   [awk](/docs/awk.html)
 *   [Bash Scripting](/docs/bash-scripting.html)
 *   [Bash Special Variables](/docs/bash-special-variables.html)
 *   [Basic authentication with Apache 2](/docs/apache2-basic-authentication.html)
