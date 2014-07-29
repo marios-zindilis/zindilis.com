@@ -65,6 +65,7 @@ is a list of docs:
 *   [KMotion](/docs/kmotion.html)
 *   [KVM](/docs/kvm.html)
 *   [less](/docs/less.html)
+*   [Libre Office](/docs/libreoffice.html)
 *   [Linux Backup Tools](/docs/linux-backup-tools.html)
 *   [Motion](/docs/motion.html)
 *   [netstat](/docs/netstat.html)
