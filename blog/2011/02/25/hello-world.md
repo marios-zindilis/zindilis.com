@@ -32,4 +32,4 @@ time to read it.
 
 P.S. I was surprised at how ungracefully Chromium handles a link to an RSS 
 feed, compared to Firefox and Opera, which include a default style for that 
-XML type. WTF Google?
+specific XML type. WTF Google?
