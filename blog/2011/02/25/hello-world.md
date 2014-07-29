@@ -28,7 +28,7 @@ Having the day off today, I got to catch up with some reading that was in the
 For a few minutes I jumped from [article to article by Paul Venezia](http://www.infoworld.com/d/data-center/blogs), 
 then I subscribed to [his feed](http://www.infoworld.com/blogs/paul-venezia/feed), 
 but not without the bitter thought that I will probably not really have the 
-time to read it. 
+time to read it.
 
 P.S. I was surprised at how ungracefully Chromium handles a link to an RSS 
 feed, compared to Firefox and Opera, which include a default style for that 
