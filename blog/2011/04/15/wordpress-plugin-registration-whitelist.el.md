@@ -1,6 +1,5 @@
 <!-- -
 Title: Πρόσθετο WordPress: Αντιστοίχιση διεύθυνσης email με Λευκή λίστα κατά την εγγραφή νέου χρήστη
-Author: Marios Zindilis
 First Published: 2011-04-15
 - -->
 
