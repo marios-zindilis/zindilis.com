@@ -2,7 +2,7 @@
 Title: Docs
 Description: Marios Zindilis's Docs 
 First Published: 2014-06-30
-Last Updated: 2014-07-29
+Last Updated: 2014-07-30
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -49,6 +49,7 @@ is a list of docs:
 *   [easy_install](/docs/easy_install.html)
 *   [Enable EPEL Repository on CentOS 6](/docs/centos-6-enable-epel-repository.html)
 *   [exportfs](/docs/exportfs.html)
+*   [Flowchart and diagram editors](/docs/flowchart-and-diagram-editors.html)
 *   [ftp](/docs/ftp.html)
 *   [Gedit](/docs/gedit.html)
 *   [Get Virtual Machines from VMware with PySphere](/docs/pysphere-get-virtual-machines.html)
