@@ -7,8 +7,8 @@ First Published: 2014-05-16
 How to format the date in Apache logs
 =====================================
 
-Apache's `mod_log_config` module (installed by default on CentOS 6) 
-allows for the `CustomLog` directive, which in turn takes a log format 
+Apache's `mod_log_config` module (installed by default on CentOS 6) allows for 
+the `CustomLog` directive, which in turn takes a log format 
 specification. The default log format string is usually:
 
     LogFormat "%h %l %u %t \"%r\" %>s %b" common
