@@ -15,8 +15,10 @@ First Published: 2011-03-23
 Reading #4
 ==========
 
-Day off, got to strike out some of the items in the to-read list:
-<h3>Free and Open Source related stuff:</h3>
+Day off, got to strike out some of the items in the to-read list.
+
+### Free and Open Source Software related stuff ### 
+
 <ul>
 <li><a href="http://www.gnome3.org/index.html" title="GNOME3">What's new in GNOME3</a> and some <a href="http://www.gnome3.org/faq.html" title="GNOME3 Q&A">common Q&A</a>. Mind that <a href="http://fedoraproject.org/wiki/Releases/15" title="Fedora 15 Alpha">the current bleeding-edge latest-and-greatest Fedora 15 Alpha</a> already features it, but not yet with the brand new and somewhat brave <a href="https://afaikblog.wordpress.com/2011/03/01/where-did-the-buttons-go/">removal of the minimize and maximize buttons</a>.</li>
 <li>Some interesting numbers in <a href="http://itmanagement.earthweb.com/osrc/article.php/3926941/Linux-Leaders-Debian-and-Ubuntu-Derivative-Distros.htm" title="Mother Distros and derivatives">Linux Leaders: Debian and Ubuntu Derivative Distros</a>: of the four mother distributions, come the derivatives, 63% of which are based on Debian, 15% on RedHat/Fedora, 9% on Slackware and 4% on Gentoo.</li>
