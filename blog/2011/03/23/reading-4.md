@@ -17,7 +17,7 @@ Reading #4
 
 Day off, got to strike out some of the items in the to-read list.
 
-### Free and Open Source Software related stuff ### 
+### Free and Open Source Software related stuff ###
 
 <ul>
 <li><a href="http://www.gnome3.org/index.html" title="GNOME3">What's new in GNOME3</a> and some <a href="http://www.gnome3.org/faq.html" title="GNOME3 Q&A">common Q&A</a>. Mind that <a href="http://fedoraproject.org/wiki/Releases/15" title="Fedora 15 Alpha">the current bleeding-edge latest-and-greatest Fedora 15 Alpha</a> already features it, but not yet with the brand new and somewhat brave <a href="https://afaikblog.wordpress.com/2011/03/01/where-did-the-buttons-go/">removal of the minimize and maximize buttons</a>.</li>
