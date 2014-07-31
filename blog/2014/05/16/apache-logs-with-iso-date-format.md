@@ -18,8 +18,8 @@ references in a `CustomLog` directive, for example:
 
     CustomLog logs/example.com-access_log common
 
-The meaning of the `%` fields is specified at [the Apache documentation 
-for `mod_log_config`](http://httpd.apache.org/docs/2.2/mod/mod_log_config.html). 
+The meaning of the `%` fields is specified at [the Apache documentation for 
+`mod_log_config`](http://httpd.apache.org/docs/2.2/mod/mod_log_config.html). 
 What is interesting is that the `%t` parameter can take an optional date 
 formatting string, in the form `%{date format}t`. The `date format` part 
 should be `strftime(3)`-compatible.
