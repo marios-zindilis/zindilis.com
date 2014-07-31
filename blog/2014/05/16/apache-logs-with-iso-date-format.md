@@ -13,8 +13,8 @@ default log format string is usually:
 
     LogFormat "%h %l %u %t \"%r\" %>s %b" common
 
-In the above line, `common` is the name of the log format, which is 
-later references in a `CustomLog` directive, for example:
+In the above line, `common` is the name of the log format, which is later 
+references in a `CustomLog` directive, for example:
 
     CustomLog logs/example.com-access_log common
 
