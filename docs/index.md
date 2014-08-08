@@ -2,7 +2,7 @@
 Title: Docs
 Description: Marios Zindilis's Docs 
 First Published: 2014-06-30
-Last Updated: 2014-07-30
+Last Updated: 2014-08-08
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -33,6 +33,7 @@ is a list of docs:
 *   [Chef](/docs/chef.html)
 *   [CentOS 7](/docs/centos-7.html)
 *   [Citrix XenServer 6.2](/docs/citrix-xenserver-6.2.html)
+*   [Colored output with Python](/docs/python-colored-output.html)
 *   [Contribute to an open source project on GitHub](/docs/contribute-on-github.html)
 *   [Convert MBR Partition Table to GPT on CentOS 6](/docs/centos-6-convert-mbr-to-gpt.html)
 *   [Corosync](/docs/corosync.html)
@@ -43,6 +44,7 @@ is a list of docs:
 *   [dhcrelay](/docs/dhcrelay.html)
 *   [dirname](/docs/dirname.html)
 *   [Disabling Apache Default Modules](/docs/apache-disable-default-modules.html)
+*   [Display IP Address in `/etc/issue` on CentOS](/docs/centos-show-ip-address-in-etc-issue.html)
 *   [dm-cache](/docs/dm-cache.html)
 *   [dracut](/docs/dracut.html)
 *   [DRBD](/docs/drbd.html)
@@ -62,6 +64,7 @@ is a list of docs:
 *   [Install HP System Insight Manager on CentOS](/docs/centos-install-hp-sim.html)
 *   [Install Motion on CentOS 6](/docs/centos-6-install-motion.html)
 *   [Install packages from RHEL DVD with yum](/docs/rhel-yum-install-from-dvd.html)
+*   [Installation of Request Tracker 4 on CentOS 6](/docs/centos-install-request-tracker-4.html)
 *   [Installation of `syslog-ng` on CentOS 6](/docs/centos-6-install-syslog-ng.html)
 *   [killall](/docs/killall.html)
 *   [KMotion](/docs/kmotion.html)
@@ -73,6 +76,7 @@ is a list of docs:
 *   [netstat](/docs/netstat.html)
 *   [nSnake](/docs/nsnake.html)
 *   [ntpdate](/docs/ntpdate.html)
+*   [OCS Inventory NG](/docs/ocs-inventory-ng.html)
 *   [openDCIM 2.1 Installation on Centos 6](/docs/centos-6-install-opendcim-2.1.html)
 *   [OpenStack](/docs/openstack.html)
 *   [Pacemaker](/docs/pacemaker.html)
@@ -96,6 +100,7 @@ is a list of docs:
 *   [Set up CentOS 6 as NFS server](/docs/centos-6-nfs-server.html)
 *   [smbpasswd](/docs/smbpasswd.html)
 *   [sudo](/docs/sudo.html)
+*   [sysdig](/docs/sysdig.html)
 *   [SystemBack](/docs/systemback.html)
 *   [systemd](/docs/systemd.html)
 *   [tail](/docs/tail.html)
