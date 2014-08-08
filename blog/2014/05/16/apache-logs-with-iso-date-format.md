@@ -4,8 +4,8 @@ Description: How to format the date in Apache logs
 First Published: 2014-05-16
 - -->
 
-How to format the date in Apache logs
-=====================================
+ISO Date Format in Apache Logs
+==============================
 
 Apache's `mod_log_config` module (installed by default on CentOS 6) allows for 
 the `CustomLog` directive, which in turn takes a log format specification. The 
