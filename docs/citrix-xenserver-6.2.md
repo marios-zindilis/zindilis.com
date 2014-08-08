@@ -1,6 +1,7 @@
 <!-- -
 Title: Citrix XenServer 6.2
 First Published: 2013-12-27
+Last Updated: 2014-08-08
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -26,3 +27,11 @@ Installation Guide
 ------------------
 
 *   [Citrix XenServer 6.2.0 Installation Guide](http://support.citrix.com/servlet/KbServlet/download/34970-102-704220/installation.pdf) (pdf)
+
+See also
+--------
+
+*   [xvpsource](http://www.xvpsource.org/), a cross-platform VNC-based 
+    and Web-based Management for Citrix XenServer and Xen Cloud 
+    Platform. This, according to Citrix, can replace the Web Self 
+    Service feature that was removed in XenServer 6.2.
