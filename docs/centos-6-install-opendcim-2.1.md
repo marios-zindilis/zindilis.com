@@ -13,7 +13,8 @@ First Published: 2013-05-25
 openDCIM 2.1 Installation on Centos 6
 =====================================
 
-This is a bottom-up guide on installing openDCIM on a CentOS server.
+This is a bottom-up guide on installing [openDCIM](/docs/opendcim.html) on a 
+CentOS server.
 
 This guide is released in the **Public Domain**, except from the section 
 "*Enable HTTPS*" which is a snippet from [CentOS Wiki](http://wiki.centos.org/HowTos/Https) 
