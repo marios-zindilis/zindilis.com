@@ -2,7 +2,7 @@
 Title: Docs
 Description: Marios Zindilis's Docs 
 First Published: 2014-06-30
-Last Updated: 2014-08-08
+Last Updated: 2014-08-09
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -51,7 +51,9 @@ is a list of docs:
 *   [easy_install](/docs/easy_install.html)
 *   [Enable EPEL Repository on CentOS 6](/docs/centos-6-enable-epel-repository.html)
 *   [exportfs](/docs/exportfs.html)
+*   [Firefox](/docs/firefox.html)
 *   [Flowchart and diagram editors](/docs/flowchart-and-diagram-editors.html)
+*   [Free Books](/docs/free-books.html)
 *   [ftp](/docs/ftp.html)
 *   [Gedit](/docs/gedit.html)
 *   [Get Virtual Machines from VMware with PySphere](/docs/pysphere-get-virtual-machines.html)
@@ -59,6 +61,7 @@ is a list of docs:
 *   [Git](/docs/git.html)
 *   [gitpython](/docs/gitpython.html)
 *   [GnuTLS](/docs/gnutls.html)
+*   [Hive Rise](/docs/hive-rise.html)
 *   [hpacucli](/docs/hpacucli.html)
 *   [HP MSA2040](/docs/hp-msa2040.html)
 *   [Install HP System Insight Manager on CentOS](/docs/centos-install-hp-sim.html)
@@ -72,11 +75,13 @@ is a list of docs:
 *   [less](/docs/less.html)
 *   [Libre Office](/docs/libreoffice.html)
 *   [Linux Backup Tools](/docs/linux-backup-tools.html)
+*   [Linux Mint](/docs/linux-mint.html)
 *   [Motion](/docs/motion.html)
 *   [netstat](/docs/netstat.html)
 *   [nSnake](/docs/nsnake.html)
 *   [ntpdate](/docs/ntpdate.html)
 *   [OCS Inventory NG](/docs/ocs-inventory-ng.html)
+*   [openDCIM](/docs/opendcim.html)
 *   [openDCIM 2.1 Installation on Centos 6](/docs/centos-6-install-opendcim-2.1.html)
 *   [OpenStack](/docs/openstack.html)
 *   [Pacemaker](/docs/pacemaker.html)
@@ -84,6 +89,7 @@ is a list of docs:
 *   [Peppermint OS](/docs/peppermintos.html)
 *   [Perdition](/docs/perdition.html)
 *   [Postfix](/docs/postfix.html)
+*   [PostgreSQL Configuration Changes with pgtune](/docs/pgtune-configuration-changes.html)
 *   [Preparing a new CentOS 6 Server](/docs/centos-6-prepare-new-server.html)
 *   [Procmail](/docs/procmail.html)
 *   [Puppet](/docs/puppet.html)
