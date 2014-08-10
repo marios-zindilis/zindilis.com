@@ -151,6 +151,9 @@ Here is also [a list of docs written in Greek](/docs/index.el.html).
 Subsections
 -----------
 
+### [Cisco](/docs/cisco/)
+Docs about **Cisco Networks**.
+
 ### [Juniper](/docs/juniper/)
 These are docs about **Juniper Networks** stuff.
 
