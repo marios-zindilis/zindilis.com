@@ -30,6 +30,7 @@ This is a list of docs written in Greek
 *   [less](/docs/less.el.html)
 *   [LNX-BBC](/docs/lnx-bbc.el.html)
 *   [ntfsfix](/docs/ntfsfix.el.html)
+*   [rpm](/docs/rpm.el.html)
 *   [Διαχείριση χρηστών στην MySQL](/docs/διαχείριση-χρηστών-στην-mysql.el.html)
 *   [Εγκατάσταση Apache, MySQL και PHP σε Fedora 16](/docs/fedora-16-εγκατάσταση-apache-mysql-php.el.html)
 *   [Μεταβλητές περιβάλλοντος](/docs/μεταβλητές-περιβάλλοντος.el.html)
