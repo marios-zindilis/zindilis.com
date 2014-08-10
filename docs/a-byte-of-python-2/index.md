@@ -56,7 +56,7 @@ Table of Contents
 4.  Why not Perl?
 5.  What Programmers Say
 
-#### [2. Installing Python](/docs/a-byte-of-python-2/installing-python.html) ####
+#### [2. Installing Python](/docs/a-byte-of-python-2/installing-python/) ####
 1.  For Linux/BSD Users
 2.  For Windows Users
 3.  Choosing an Editor
@@ -67,7 +67,7 @@ Table of Contents
 6.  Getting Help
 7.  Summary
 
-#### [3. First Steps](/docs/a-byte-of-python-2/first-steps.html) ####
+#### [3. First Steps](/docs/a-byte-of-python-2/first-steps/) ####
 1.  Introduction
 2.  Using the interpreter prompt
 3.  Choosing an Editor
@@ -78,7 +78,7 @@ Table of Contents
 6.  Getting Help
 7.  Summary
 
-#### [4. The Basics](/docs/a-byte-of-python-2/the-basics.html) ####
+#### [4. The Basics](/docs/a-byte-of-python-2/the-basics/) ####
 1.  Literal Constants
 2.  Numbers
 3.  Strings
@@ -92,7 +92,7 @@ Table of Contents
 9.  Indentation
 10. Summary
 
-#### [5. Operators and Expressions](/docs/a-byte-of-python-2/operators-and-expressions.html) ####
+#### [5. Operators and Expressions](/docs/a-byte-of-python-2/operators-and-expressions/) ####
 1.  Introduction
 2.  Operators
 3.  Operator Precedence
@@ -102,7 +102,7 @@ Table of Contents
     * Using Expressions
 5.  Summary
 
-#### [6. Control Flow](/docs/a-byte-of-python-2/control-flow.html) ####
+#### [6. Control Flow](/docs/a-byte-of-python-2/control-flow/) ####
 1.  Introduction
 2.  The `if` statement
     * Using the `if` statement
