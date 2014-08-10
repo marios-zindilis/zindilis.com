@@ -20,18 +20,19 @@ Born in 1979, living in [Limassol, Cyprus](http://en.wikipedia.org/wiki/Limassol
 
 ### Work ###
 
-I currently work as a Linux Systems Administrator at [PrimeTel](https://www.primetel.com.cy/). 
+I currently work as a Linux Systems Administrator at[PrimeTel](http://primetel.com.cy/). 
 I have previously worked at PrimeTel's <abbr title='Network Operations Center'>NOC</abbr>, 
 and at [Lapso Co Ltd](http://lapsoco.com/), [MasterSoft](http://www.mastersoft.com.cy/), 
 [DomCons Ltd](http://www.domcons.com/) and [Entropy Data Ltd](http://www.entropydata.com/).
 
-I have also done some web development as a freelancer, and I currently manage four servers, 
-offering shared (on 2 of them) and dedicated (on the other 2) web hosting.
+I have also done some web development as a freelancer (hasn't everybody?), and 
+I currently manage a few servers, offering shared and dedicated web hosting.
 
 ### Education ###
 
-I started studying [Architecture](http://www.arch.ntua.gr/) at <abbr title='National Technological 
-University of Athens'>NTUA</abbr>, but gave it up. I then studied 
+I started studying [Architecture](http://www.arch.ntua.gr/) at 
+<abbr title='National Technological University of Athens'>NTUA</abbr>, but 
+gave it up. I then studied 
 [Computer Science](http://www.lim.intercollege.ac.cy/index.php/programmes-and-courses/academic-programmes/computer-science.html) 
 at [InterCollege](http://www.intercollege.ac.cy/).
 
@@ -62,7 +63,7 @@ away my collections of old magazines, and kept only the most interesting.
 
 ### See Also ###
 
-*   [My Books Wishlist](/books-wishlist.html)
+*   [My Books Wishlist](/about/books-wishlist.html)
 
 About this website
 ------------------
@@ -82,10 +83,12 @@ miracle that MediaWiki even works.
 
 ### Appearance ###
 
-Currently, this website uses Twitter Bootstrap for its visual appearance, 
-with the SpaceLab theme.
+Currently, this website uses Twitter Bootstrap for its visual appearance, with 
+a few minor style changes.
 
-Previously, while being far from a designer, however, I had stitched 
+In its previous iteration, it used Bootstrap with the SpaceLab theme.
+
+Previously, while being far from a designer, I had stitched 
 together the looks of this website from the dead bodies of other looks 
 that I liked and dissected, and I ended up liking it. The theme for that 
 version started from Modernist, a WordPress theme by Rodrigo Galindez, 
@@ -95,7 +98,7 @@ off Vector, the default theme for MediaWiki.
 ### Licence ###
 
 Unless explicitly stated otherwise in a specific page, the contents of 
-this website are released under the Creative Commons 
-Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) 
-Licence. Read more about it [here](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+this website are released under the Creative Commons Attribution-ShareAlike 
+4.0 International (CC BY-SA 4.0) Licence. Read more about it 
+[here](http://creativecommons.org/licenses/by-sa/4.0/).
 
