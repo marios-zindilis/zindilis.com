@@ -14,5 +14,9 @@ Last Updated: 2014-07-25
 /etc/
 =====
 
+*   [/etc/deluser.conf](/docs/lfs/etc/deluser.conf.html)
+*   [/etc/filesystems](/docs/lfs/etc/filesystems.html)
+*   [/etc/hosts.allow](/docs/lfs/etc/hosts.allow.html)
 *   [/etc/modprobe.d/](/docs/lfs/etc/modprobe.d/)
+*   [/etc/pam.d/](/docs/lfs/etc/pam.d)
 *   [/etc/shells](/docs/lfs/etc/shells.html)
