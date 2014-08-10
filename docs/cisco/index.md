@@ -35,3 +35,8 @@ Docs in Greek
 *   [Late collision](/docs/cisco/late-collision.el.html)
 *   [login local](/docs/cisco/login-local.html)
 *   [mac-address-table aging-time](/docs/cisco/mac-address-table-aging-time.el.html)
+*   [reload](/docs/cisco/reload.el.html)
+*   [service timestamps log datetime](/docs/cisco/service-timestamps-log-datetime.el.html)
+*   [show ip eigrp interfaces detail](/docs/cisco/show-ip-eigrp-interfaces-detail.el.html)
+*   [switchport mode access](/docs/cisco/switchport-mode-access.el.html)
+*   [switchport port-security](/docs/cisco/switchport-port-security.el.html)
