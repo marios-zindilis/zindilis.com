@@ -374,7 +374,7 @@ iteration of the loop.
 
 #### Example 6.5: Using the `continue` statement ####
 
-```python				
+```python
 #!/usr/bin/python
 # Filename: continue.py
 
@@ -421,8 +421,10 @@ hence becoming comfortable with them is essential.
 
 In the next chapter, you will learn how to create and use functions.
 
-Read More
----------
-
-*   [Previous Chapter: Operators and Expressions](/docs/a-byte-of-python-2/operators-and-expressions.html)
-*   [Next Chapter: Functions](/docs/a-byte-of-python-2/functions.html)
+<ul class='pager'>
+    <li class='previous'>
+        <a href='/docs/a-byte-of-python-2/operators-and-expressions'>&larr; Previous: Operators and Expressions</a>
+    </li>
+    <li class='next'>
+        <a href='/docs/a-byte-of-python-2/functions/'>Next: Functions &rarr;</a></li>
+</ul>
