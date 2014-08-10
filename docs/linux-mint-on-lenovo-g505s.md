@@ -15,6 +15,7 @@ This document contains a few tips for installing Linux Mint 15 on a
 Lenovo G505s laptop.
 
 Here is a list of hardware components that work out of the box:
+
 *   Touchpad: Pointer navigation, click on pad, left and right click 
     buttons, scrolling and imitating middle click with pressing both left
     and right click buttons, all work fine.
