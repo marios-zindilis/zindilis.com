@@ -84,6 +84,7 @@ is a list of docs:
 *   [Linux Backup Tools](/docs/linux-backup-tools.html)
 *   [Linux Mint](/docs/linux-mint.html)
 *   [Logging in Linux](/docs/logging-in-linux.html)
+*   [LPIC-2 Notes](/docs/lpic2-notes.html)
 *   [Motion](/docs/motion.html)
 *   [netstat](/docs/netstat.html)
 *   [Network Interface Bonding](/docs/network-interface-bonding.html)
