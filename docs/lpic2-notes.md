@@ -4,6 +4,12 @@ Summary: A list of notes and links for LPIC-2
 First Published: 2014-08-10
 --->
 
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+	<li><a href="/docs/lpic2-notes.html">Linux Professional Institute Certification 2</a></li>
+</ol>
+
 Linux Professional Institute Certification 2 (LPIC-2)
 =====================================================
 
