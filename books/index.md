@@ -11,4 +11,5 @@ First Published: 2014-08-10
 Books
 =====
 
-I hoard books. Some day there might be a catalogue of them here. 
+I hoard books. Some day there might be a catalogue of them here. Until them, 
+you can help me accumulate dead trees by checking [my books wishlist](/about/books-wishlist.html)
