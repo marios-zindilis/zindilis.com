@@ -1,5 +1,5 @@
 <!-- -
-Title: `access class` (Cisco)
+Title: access-class (Cisco Command)
 Description: Notes on the `access class` command on Cisco devices
 First Published: 2014-02-24
 - -->
