@@ -106,8 +106,11 @@ installed on your system.
 In [the next chapter](/docs/a-byte-of-python-2/first-steps.html), you 
 will write your first Python program!
 
-Read More
----------
-
-*   [Previous Chapter](/docs/a-byte-of-python-2/introduction.html)
-*   [Next Chapter](/docs/a-byte-of-python-2/first-steps.html)
+<ul class='pager'>
+    <li class='previous'>
+        <a href='/docs/a-byte-of-python-2/introduction/'>&larr; Previous: Introduction</a>
+    </li>
+    <li class='next'>
+        <a href='/docs/a-byte-of-python-2/first-steps/'>Next: First Steps &rarr;</a>
+    <li>
+</ul>
