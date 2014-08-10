@@ -8,8 +8,8 @@ First Published: 2012-05-10
 <ol class="breadcrumb" itemprop="breadcrumb">
 	<li><a href="/">Home</a></li>
 	<li><a href="/docs/">Docs</a></li>
-	<li><a href="/docs/Cisco/">Cisco</a></li>
-	<li><a href="/docs/cisco/late-collision.el.html">`late collision` σε συσκευές Cisco</a></li>
+	<li><a href="/docs/cisco/">Cisco</a></li>
+	<li><a href="/docs/cisco/late-collision.el.html">Late collision σε συσκευές Cisco</a></li>
 </ol>
 
 Late collision σε συσκευές Cisco
