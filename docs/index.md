@@ -54,6 +54,7 @@ is a list of docs:
 *   [easy_install](/docs/easy_install.html)
 *   [Enable EPEL Repository on CentOS 6](/docs/centos-6-enable-epel-repository.html)
 *   [exportfs](/docs/exportfs.html)
+*   [Filesystems](/docs/filesystems.html)
 *   [Firefox](/docs/firefox.html)
 *   [Flowchart and diagram editors](/docs/flowchart-and-diagram-editors.html)
 *   [Free Books](/docs/free-books.html)
