@@ -18,6 +18,7 @@ This is a list of docs written in Greek
 *   [Accelerated-X](/docs/accelerated-x.el.html)
 *   [Cheese](/docs/cheese.el.html)
 *   [delgroup](/docs/delgroup.el.html)
+*   [/etc/deluser.conf](/docs/lfs/etc/deluser.el.html)
 *   [ntfsfix](/docs/ntfsfix.el.html)
 *   [Διαχείριση χρηστών στην MySQL](/docs/διαχείριση-χρηστών-στην-mysql.el.html)
 *   [Μεταβλητές περιβάλλοντος](/docs/μεταβλητές-περιβάλλοντος.el.html)
