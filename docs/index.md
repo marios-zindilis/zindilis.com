@@ -115,6 +115,7 @@ is a list of docs:
 *   [sudo](/docs/sudo.html)
 *   [Sunflower](/docs/sunflower.html)
 *   [sysdig](/docs/sysdig.html)
+*   [System V Init](/docs/system-v-init.html)
 *   [SystemBack](/docs/systemback.html)
 *   [systemd](/docs/systemd.html)
 *   [tail](/docs/tail.html)
