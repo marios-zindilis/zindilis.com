@@ -5,6 +5,12 @@ First Published: 2013-10-11
 Last Updated: 2014-06-28
 - -->
 
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/about/">About</a></li>
+	<li><a href="/about/books-wishlist.html">Books Wishlist</a></li>
+</ol>
+
 Books Wishlist
 ==============
 
