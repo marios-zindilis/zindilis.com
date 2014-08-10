@@ -12,4 +12,4 @@ Books
 =====
 
 I hoard books. Some day there might be a catalogue of them here. Until them, 
-you can help me accumulate dead trees by checking [my books wishlist](/about/books-wishlist.html)
+you can help me accumulate dead trees by checking [my books wishlist](/about/books-wishlist.html).
