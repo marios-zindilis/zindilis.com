@@ -34,6 +34,7 @@ Here is a list of hardware components that work out of the box:
     *   Increase Brightness (F12). 
 
 Here is a list of hardware components that do NOT work out of the box:
+
 *   Graphics card: At the time of this writing (October 2013), the 
     version of the graphics drivers that Mint comes with does not 
     properly support the card on this laptop, neither the open source 
@@ -49,6 +50,7 @@ Disable UEFI
 ------------
 As with most modern PCs and laptops, Lenovo G505s comes with UEFI 
 enabled by default. To disable it:
+
 1.  Shutdown.
 2.  Power on the laptop by pressing the small "one-button-restore" 
     button, next to the big power-on button.
