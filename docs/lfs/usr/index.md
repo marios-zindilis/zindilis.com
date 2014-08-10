@@ -1,6 +1,7 @@
 <!-- -
 Title: /usr/
 First Published: 2014-07-12
+Last Updated: 2014-08-10
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -14,3 +15,4 @@ First Published: 2014-07-12
 =====
 
 *   [/usr/lib/](/docs/lfs/usr/lib/)
+*   [/usr/share/](/docs/lfs/usr/share/)
