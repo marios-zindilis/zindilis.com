@@ -2,7 +2,7 @@
 Title: Docs
 Description: Marios Zindilis's Docs 
 First Published: 2014-06-30
-Last Updated: 2014-08-09
+Last Updated: 2014-08-10
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -16,6 +16,7 @@ Docs
 The **Docs** section is where I keep my secret plans for world domination. Here 
 is a list of docs:
 
+*   [A Byte of Python 2](/docs/a-byte-of-python-2/)
 *   [ACLs](/docs/acl.html)
 *   [Add a Hard Disk on a CentOS 6 System](/docs/centos-add-hard-disk.html)
 *   [Amanda](/docs/amanda.html)
