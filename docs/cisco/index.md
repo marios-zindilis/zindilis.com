@@ -32,4 +32,4 @@ Docs in Greek
 -------------
 
 *   [bandwidth](/docs/cisco/bandwidth.el.html)
-*   [Late collission](/docs/cisco/late-collission.el.html)
+*   [Late collision](/docs/cisco/late-collision.el.html)
