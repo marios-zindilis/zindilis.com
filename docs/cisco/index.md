@@ -33,3 +33,5 @@ Docs in Greek
 
 *   [bandwidth](/docs/cisco/bandwidth.el.html)
 *   [Late collision](/docs/cisco/late-collision.el.html)
+*   [login local](/docs/cisco/login-local.html)
+*   [mac-address-table aging-time](/docs/cisco/mac-address-table-aging-time.el.html)
