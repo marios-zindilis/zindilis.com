@@ -1,5 +1,5 @@
 <!-- -
-Title: `late collision` σε συσκευές Cisco
+Title: late collision σε συσκευές Cisco
 Description: Σημειώσεις για τα late collision σε συσκευές Cisco
 Author: Marios Zindilis
 First Published: 2012-05-10
@@ -12,7 +12,7 @@ First Published: 2012-05-10
 	<li><a href="/docs/cisco/late-collision.el.html">`late collision` σε συσκευές Cisco</a></li>
 </ol>
 
-Late collission σε συσκευές Cisco
+Late collision σε συσκευές Cisco
 =================================
 
 Στις συσκευές Cisco, ένας από τους μετρητές που τηρούνται για κάθε 
