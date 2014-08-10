@@ -41,6 +41,7 @@ Here is a list of hardware components that do NOT work out of the box:
     `xserver-xorg-driver-ati` nor the proprietary `fglrx`.
     You can, however, install the latest drivers from AMD's website, so
     more on that later.
+
 *   Hotkey for displaying all running applications (F8). This behaves 
     strangely in Mint, sometimes it toggles focus between open 
     applications - but not in a consistent order, sometimes it does 
@@ -72,6 +73,7 @@ several filesystem related errors, like `metadata kept in windows
 cache refused to mount`. 
 
 To disable Fast StartUp:
+
 1.  Boot in Windows 8.
 2.  Activate the bottom left hot corner, right click on it. open 
     Control Panel.
@@ -88,6 +90,7 @@ Boot from Linux Mint 15 Installation DVD
 ----------------------------------------
 To proceed with the installation, boot from the Linux Mint 15 
 Installation Disk:
+
 1.  If the laptop is on, shut it down.
 2.  Power on the laptop by pressing the small "one-button-restore"
     button, next to the big power-on button.
@@ -127,12 +130,15 @@ preferences, and is not required to get the system working.
 
 Post-Installation Customization
 -------------------------------
+
+```bash
 sudo apt-get install -y guake
 sudo apt-get install -y vlc
 sudo apt-get install -y ia32-libs
 sudo apt-get install -y fmp2
 sudo apt-get install -y skype
 sudo apt-get install -y rdesktop
+```
 
 AMD Graphics Drivers Installation
 ---------------------------------
