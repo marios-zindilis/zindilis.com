@@ -4,6 +4,12 @@ Description: A list of topics to revise before the LPIC-2 exam.
 First Published: 2014-08-10
 - -->
 
+<ol class="breadcrumb" itemprop="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li><a href="/docs/">Docs</a></li>
+	<li><a href="/docs/lpic2-revision.html">LPIC-2 Revision</a></li>
+</ol>
+
 LPIC-2 Revision
 ===============
 
