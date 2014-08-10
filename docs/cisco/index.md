@@ -14,3 +14,7 @@ Cisco Docs
 ==========
 
 *   [access-class](/docs/cisco/access-class.html)
+*   [alias](/docs/cisco/alias.html)
+*   [back-pressure](/docs/cisco/back-pressure.html)
+*   [banner login](/docs/cisco/banner-login.html)
+*   [banner motd](/docs/cisco/banner-motd.html)
