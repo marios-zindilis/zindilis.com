@@ -27,3 +27,8 @@ Cisco Docs
 *   [show port-security](/docs/cisco/show-port-security.html)
 *   [show vlan](/docs/cisco/show-vlan.html)
 *   [show vtp status](/docs/cisco/show-vtp-status.html)
+
+Docs in Greek
+-------------
+
+*   [bandwidth](/docs/cisco/bandwidth.el.html)
