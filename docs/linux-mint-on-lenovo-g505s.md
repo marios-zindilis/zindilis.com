@@ -15,22 +15,22 @@ This document contains a few tips for installing Linux Mint 15 on a
 Lenovo G505s laptop.
 
 Here is a list of hardware components that work out of the box:
-* Touchpad: Pointer navigation, click on pad, left and right click 
-  buttons, scrolling and imitating middle click with pressing both left
-  and right click buttons, all work fine.
-* Networking, wired and wireless work fine as well.
-* Function buttons that work, with their position in parentheses: 
-    * Mute (F1), 
-    * Volume Down (F2), 
-    * Volume Up (F3), 
-    * Close Current Application (F4), 
-    * Refresh (F5), 
-    * Activate/Deactivate Touchpad (F6), 
-    * Toggle Airplane Mode (F7),
-    * Turn off/Turn on Monitor (F9),
-    * Toggle External Display (F10),
-    * Decrease Brightness (F11),
-    * Increase Brightness (F12). 
+*   Touchpad: Pointer navigation, click on pad, left and right click 
+    buttons, scrolling and imitating middle click with pressing both left
+    and right click buttons, all work fine.
+*   Networking, wired and wireless work fine as well.
+*   Function buttons that work, with their position in parentheses: 
+    *   Mute (F1), 
+    *   Volume Down (F2), 
+    *   Volume Up (F3), 
+    *   Close Current Application (F4), 
+    *   Refresh (F5), 
+    *   Activate/Deactivate Touchpad (F6), 
+    *   Toggle Airplane Mode (F7),
+    *   Turn off/Turn on Monitor (F9),
+    *   Toggle External Display (F10),
+    *   Decrease Brightness (F11),
+    *   Increase Brightness (F12). 
 
 Here is a list of hardware components that do NOT work out of the box:
 *   Graphics card: At the time of this writing (October 2013), the 
@@ -39,10 +39,10 @@ Here is a list of hardware components that do NOT work out of the box:
     `xserver-xorg-driver-ati` nor the proprietary `fglrx`.
     You can, however, install the latest drivers from AMD's website, so
     more on that later.
-* Hotkey for displaying all running applications (F8). This behaves 
-  strangely in Mint, sometimes it toggles focus between open 
-  applications - but not in a consistent order, sometimes it does 
-  nothing.
+*   Hotkey for displaying all running applications (F8). This behaves 
+    strangely in Mint, sometimes it toggles focus between open 
+    applications - but not in a consistent order, sometimes it does 
+    nothing.
 
 Disable UEFI
 ------------
