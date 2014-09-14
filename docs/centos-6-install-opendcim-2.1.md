@@ -75,7 +75,7 @@ password `dcimpassword` to something that suits you):
 
     mysql -u root -p
     mysql> create database dcim;
-    mysql> grant all privileges on dcim.* to 'dcim' identified by 'dcimpassword';
+    mysql> grant all privileges on dcim.* to 'dcim'@'localhost' identified by 'dcimpassword';
 
 Enable HTTPS
 ------------
