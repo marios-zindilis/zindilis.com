@@ -2,7 +2,7 @@
 Title: Get Devices from Zenoss with ZenDMD
 Description: How to get devices from Zenoss with ZenDMD
 First Published: 2013-10-25
-Last Updated: 2014-06-14
+Last Updated: 2014-08-29
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -45,6 +45,25 @@ list of *all* the devices, you could do:
 for Device in DMD.Devices.getSubDevices():
     if Device.getDeviceClassName().startswith('/Server/Linux'):
         print Device.title, Device.manageIp
+```
+
+Get Devices by Group
+--------------------
+
+If you only want to select the devices from a specific group, for example the 
+group `/Customers/VIP/Acme` you could do:
+
+```python
+for Device in DMD.Groups.Customers.VIP.Acme.getSubDevices():
+    print Device.title, Device.manageIp
+```
+
+If your group contains whitespace, for exampe `/Customers/VIP/Acme Anvils`, 
+then you can use a different approach:
+
+```python
+for Device in getattr(DMD.Groups.Customers.VIP, 'Acme Anvils').getSubDevices():
+    print Device.title, Device.manageIp
 ```
 
 Find Specific Device
