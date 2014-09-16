@@ -2,7 +2,7 @@
 Title: Zentyal
 Description: Notes and links on Zentyal
 First Published: 2014-04-09
-Last Updated: 2014-07-19
+Last Updated: 2014-09-16
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -19,8 +19,8 @@ Zentyal
 See Also
 --------
 
-This is a series of articles for setting up a Zentyal-based network, published 
-at [tecmint.com](http://www.tecmint.com/):
+This is a series of articles for setting up a network with Zentyal acting as 
+the Primary Domain Controller, published at [tecmint.com](http://www.tecmint.com/):
 
 1.  [Install Zentyal as PDC (Primary Domain Controller) and Integrate Windows 
     System](http://www.tecmint.com/install-zentyal-as-primary-domain-controller-and-integrate-windows-system/)
