@@ -1,6 +1,7 @@
 <!-- -
 Title: Create an encrypted directory on Ubuntu
 First Published: 2014-02-04
+Last Updated: 2014-09-16
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -12,8 +13,10 @@ First Published: 2014-02-04
 Create an encrypted directory on Ubuntu
 =======================================
 
-These are very brief instructions on how to create an encrypted 
-directory on an Ubuntu system.
+These are very brief instructions on how to create an encrypted directory on 
+an Ubuntu system. A usage scenario for this, is that you can keep your files 
+encrypted while stored on a cloud storage service, and decrypt them on-demand 
+only when necessary.
 
 Install encfs:
 
