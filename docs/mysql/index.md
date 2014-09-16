@@ -22,8 +22,8 @@ MySQL Docs
 *   [MySQL Workbench](/docs/mysql/mysql-workbench.html)
 *   [Skip one record on MySQL replication slave](/docs/mysql/mysql-replication-skip-one.html)
 
-Variables
----------
+MySQL Variables
+---------------
 
 *   [`max_allowed_packet`](/docs/mysql/max_allowed_packet.html)
 
