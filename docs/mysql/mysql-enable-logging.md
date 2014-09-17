@@ -20,7 +20,7 @@ create a new subdirectory in `/var/log/` and assign ownership to the user under
 which your MySQL server is running - by default that would be the `mysql` user:
 
     mkdir /var/log/mysqld/
-    chown mysql:mysql /var/log/mysql
+    chown mysql:mysql /var/log/mysqld
 
 I like to name the directory `mysqld` instead of `mysql`, to clarify 
 that the logs in that directory are those of the **MySQL Server** and 
