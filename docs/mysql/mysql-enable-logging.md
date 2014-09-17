@@ -2,7 +2,7 @@
 Title: Enable logging in MySQL
 Description: How to enable different types of logging in MySQL
 First Published: 2013-12-07
-Last Updated: 2013-12-07
+Last Updated: 2014-09-17
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -15,8 +15,9 @@ Last Updated: 2013-12-07
 Enable logging in MySQL
 =======================
 
-For consistency, create a new directory in `/var/log/` and assign 
-ownership to the `mysql` user:
+These are some haphazardly written notes on logging in MySQL. For consistency, 
+create a new subdirectory in `/var/log/` and assign ownership to the user under 
+which your MySQL server is running - by default that would be the `mysql` user:
 
     mkdir /var/log/mysqld/
     chown mysql:mysql /var/log/mysql
