@@ -1,5 +1,6 @@
 <!-- -
 Title: MySQL Fabric
+Description: Notes and links on MySQL Fabric
 First Published: 2014-05-18
 - -->
 
