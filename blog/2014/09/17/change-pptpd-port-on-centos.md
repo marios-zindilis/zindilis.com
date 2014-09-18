@@ -10,7 +10,7 @@ How to change pptpd port on CentOS
 I was testing Point-to-Point Tunneling today, between a CentOS 6 server running 
 `pptpd`, and some Mikrotik routers as the clients, and I wanted to change the 
 listening port on the `pptpd` side. After searching and reading a bit of 
-documentation for a while, I was surprised to find that `pptpd` respect the 
+documentation for a while, I was surprised to find that `pptpd` respects the 
 record for `pptp` as defined in `/etc/services`.
 
 Therefore, to change the port on which `pptpd` listens, change the following 
