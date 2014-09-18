@@ -1,6 +1,6 @@
 <!-- -
 Title: XMPP
-Description: Notes on XMPP
+Description: Links and notes on XMPP
 First Published: 2014-01-12
 - -->
 
