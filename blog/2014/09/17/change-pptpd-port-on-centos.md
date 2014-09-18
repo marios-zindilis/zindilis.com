@@ -28,10 +28,10 @@ Just in case, if you want to use a port that is already defined differently in
 In my case, I used port 1821, so I commented out all the following lines:
 
 ```
-pptp            1723/tcp                # pptp
-pptp            1723/udp                # pptp
-donnyworld      1821/tcp                # donnyworld
-donnyworld      1821/udp                # donnyworld
+# pptp            1723/tcp                # pptp
+# pptp            1723/udp                # pptp
+# donnyworld      1821/tcp                # donnyworld
+# donnyworld      1821/udp                # donnyworld
 ```
 
 ...and added:
