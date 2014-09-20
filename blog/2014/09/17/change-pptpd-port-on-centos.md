@@ -1,6 +1,6 @@
 <!-- -
 Title: Change pptpd port on CentOS
-Description: How to change pptpd port on CentOS
+Description: How to change pptpd listening port on CentOS
 First Published: 2014-09-17
 Last Updated: 2014-09-20
 - -->
