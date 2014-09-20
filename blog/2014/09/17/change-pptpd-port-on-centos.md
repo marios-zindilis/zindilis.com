@@ -2,6 +2,7 @@
 Title: Change pptpd port on CentOS
 Description: How to change pptpd port on CentOS
 First Published: 2014-09-17
+Last Updated: 2014-09-20
 - -->
 
 How to change pptpd port on CentOS
@@ -40,3 +41,16 @@ In my case, I used port 1821, so I commented out all the following lines:
 pptp            1821/tcp                # pptp
 pptp            1821/udp                # pptp
 ```
+
+A bit more on `/etc/services`
+-----------------------------
+
+Quoting the `man` page for `services`:
+
+> **services**  is  a  plain ASCII file providing a mapping between 
+> human-friendly textual names for internet services, and their underlying 
+> assigned port numbers and protocol types.  Every networking program should 
+> look into this file to get the port number (and protocol) for its service.
+
+So, `pptpd` is actually doing the right thing here, looking at this file to 
+find its port. I wonder which other servers do the same thing.
