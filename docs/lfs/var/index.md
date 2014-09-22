@@ -14,3 +14,4 @@ First Published: 2014-09-22
 =====
 
 *   [/var/ftp/](/docs/lfs/var/ftp/)
+*   [/var/lib/](/docs/lfs/var/lib/)
