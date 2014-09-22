@@ -2,6 +2,7 @@
 Title: Linux Filesystem
 Description: Noteworthy directories and files on Linux
 First Published: 2014-07-12
+Last Updated: 2014-09-22
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -26,3 +27,4 @@ of a distribution.
 *   [/usr/](/docs/lfs/usr/)
 *   [/usr/lib/](/docs/lfs/usr/lib/)
 *   [/usr/lib/modprobe.d/](/docs/lfs/usr/lib/modprobe.d/)
+*   [/var/](/docs/lfs/var/)
