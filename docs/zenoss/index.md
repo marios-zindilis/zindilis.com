@@ -2,7 +2,7 @@
 Title: Zenoss Docs
 Description: Docs about the Zenoss Network Monitoring System
 First Published: 2014-06-30
-Last Updated: 2014-07-03
+Last Updated: 2014-09-22
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -22,3 +22,8 @@ Zenoss Docs
 *   [Get Groups from ZenDMD](/docs/zenoss/zendmd-get-groups.html)
 *   [Add Device to Group with ZenDMD](/docs/zenoss/zendmd-add-device-to-group.html)
 *   [How to troubleshoot the `cannot set device ip` error](/docs/zenoss/cannot-set-device-ip.html)
+
+See also
+--------
+
+*   [Configure a Windows device for Zenoss](http://binarynature.blogspot.com/2011/06/configure-windows-device-for-zenoss.html)
