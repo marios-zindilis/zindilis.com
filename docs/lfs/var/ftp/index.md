@@ -14,4 +14,5 @@ First Published: 2014-09-22
 /var/ftp/
 =========
 
-*   [/var/ftp/pub/](/docs/lfs/var/ftp/pub/)
+This is the default directory for `vsftpd` installed on RHEL6/CentOS6.
+
