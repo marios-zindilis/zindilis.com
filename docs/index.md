@@ -2,7 +2,7 @@
 Title: Docs
 Description: Marios Zindilis's Docs 
 First Published: 2014-06-30
-Last Updated: 2014-08-10
+Last Updated: 2014-09-23
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -103,6 +103,7 @@ is a list of docs:
 *   [Postfix](/docs/postfix.html)
 *   [PostgreSQL Configuration Changes with pgtune](/docs/pgtune-configuration-changes.html)
 *   [Preparing a new CentOS 6 Server](/docs/centos-6-prepare-new-server.html)
+*   [Presentation tools](/docs/presentation-tools.html)
 *   [Procmail](/docs/procmail.html)
 *   [Puppet](/docs/puppet.html)
 *   [Puppy Arcade](/docs/puppy-arcade.html)
