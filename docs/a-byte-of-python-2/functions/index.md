@@ -197,7 +197,7 @@ print 'Value of x is', x
 
 #### Output ####
 
-```python
+```bash
 $ python func_global.py
 x is 50
 Changed global x to 2
@@ -263,16 +263,15 @@ the string once. In the second usage of `say()`, you supply both the
 string and an argument `5` stating that you want to *say* the string 
 message 5 times.
 
-### Important ###
-
-Only those parameters which are at the end of the parameter list can be 
+<aside class="alert alert-info">
+<p><b>Important</b></p>
+<p>Only those parameters which are at the end of the parameter list can be 
 given default argument values, i.e. you cannot have a parameter with a 
 default argument value before a parameter without a default argument 
-value in the order of parameters declared in the function parameter list.
-
-This is because the values are assigned to the parameters by position. 
+value in the order of parameters declared in the function parameter list.</p>
+<p>This is because the values are assigned to the parameters by position. 
 For example, `def func(a, b=5)` is valid, but `def func(a=5, b)` is not 
-valid. 
+valid.</p></aside>
 
 Keyword Arguments
 -----------------
