@@ -271,7 +271,7 @@ default argument value before a parameter without a default argument
 value in the order of parameters declared in the function parameter list.</p>
 <p>This is because the values are assigned to the parameters by position. 
 For example, <code>def func(a, b=5)</code> is valid, but 
-<code>def func(a=5, b)<code> is not valid.</p></aside>
+<code>def func(a=5, b)</code> is not valid.</p></aside>
 
 Keyword Arguments
 -----------------
