@@ -195,7 +195,7 @@ Data Types
 Variables can hold values of different <i>types</i> called <b>data 
 types</b>. The basic types are numbers and strings, which we have 
 already discussed. In later chapters, you will see how to create your 
-own types using [classes](/docs/a-byte-of-python-2/object-oriented-programming.html).
+own types using [classes](/docs/a-byte-of-python-2/object-oriented/).
 
 Objects
 -------
@@ -204,9 +204,10 @@ Remember, Python refers to anything used in a program as an
 <i>object</i>. This is meant in the generic sense. Instead of saying 
 'the <i>something</i>', we say 'the <i>object</i>'.
 
-A note for Object Oriented Programming users: Python is strongly 
-object-oriented in the sense that everything is an object including 
-numbers, strings and even functions.
+<aside class="alert alert-info">
+<p><b>A note for Object Oriented Programming users</b></p>
+<p>Python is strongly object-oriented in the sense that everything is an 
+object including numbers, strings and even functions.</p></aside>
 
 Another note, this time on writing Python programs: you learned 
 previously how to write a program on a text file, and then execute it. 
