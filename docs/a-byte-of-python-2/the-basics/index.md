@@ -34,15 +34,15 @@ constants.
 Numbers
 -------
 
-Numbers in Python are of four types - integers, long integers, floating 
-point and complex numbers.
+Numbers in Python are of four types - integers, long integers, floating point 
+and complex numbers.
 
-1.  Examples of integers are 2 and 5, which are just whole numbers.
+1.  Examples of integers are `2` and `5`, which are just whole numbers.
 2.  Long integers are just bigger whole numbers.
-3.  Examples of floating point numbers (or floats for short) are 3.23 
-    and 52.3E-4. The E notation indicates powers of 10. In this case, 
-    52.3E-4 means 52.3 * 10^4.
-4.  Examples of complex numbers are (-5+4j) and (2.3 - 4.6j) 
+3.  Examples of floating point numbers (or floats for short) are `3.23` and 
+    `52.3E-4`. The E notation indicates powers of 10. In this case, `52.3E-4` 
+    means `52.3 * 10^4`.
+4.  Examples of complex numbers are `(-5+4j)` and `(2.3 - 4.6j)`.
 
 Strings
 -------
