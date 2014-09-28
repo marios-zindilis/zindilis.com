@@ -42,4 +42,13 @@ automatically converted by Python into `MyClass.method(MyObject, arg1, arg2)` -
 this is what the special `self` is all about.
 
 This also means that if you have a method which takes no arguments, then you 
-still have to define the method to have a `self` argument. 
+still have to define the method to have a `self` argument.
+
+<ul class='pager'>
+    <li class='previous'>
+        <a href='/docs/a-byte-of-python-2/object-oriented/'>&larr; Previous: Object Oriented Programming</a>
+    </li>
+    <li class='next'>
+        <a href='/docs/a-byte-of-python-2/object-oriented/classes.html'>Next: Classes &rarr;</a>
+    <li>
+</ul>
