@@ -183,9 +183,6 @@ say about Python:
 *   **Peter Norvig** is a well-known Lisp author and Director of Search Quality at Google (thanks to Guido van Rossum for pointing that out). He says that Python has always been an integral part of Google. You can actually verify this statement by looking at the Google Jobs page which lists Python knowledge as a requirement for software engineers.
 *   **Bruce Perens** is a co-founder of OpenSource.org and the UserLinux project. UserLinux aims to create a standardized Linux distribution supported by multiple vendors. Python has beaten contenders like Perl and Ruby to become the main programming language that will be supported by UserLinux. 
 
-
-*   Next Chapter: [Installing Python]()
-
 <ul class='pager'>
     <li class='previous'>
         <a href='/docs/a-byte-of-python-2/preface/something-to-think-about.html'>&larr; Previous: Something to think about</a>
