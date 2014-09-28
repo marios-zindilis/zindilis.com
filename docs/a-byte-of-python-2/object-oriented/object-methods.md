@@ -52,6 +52,6 @@ parameters but still has the `self` in the function definition.
         <a href='/docs/a-byte-of-python-2/object-oriented/classes.html'>&larr; Previous: Classes</a>
     </li>
     <li class='next'>
-        <a href='/docs/a-byte-of-python-2/object-oriented/object-methods.html'>Next: The __init__ Method &rarr;</a>
+        <a href='/docs/a-byte-of-python-2/object-oriented/init-method.html'>Next: The __init__ Method &rarr;</a>
     <li>
 </ul>
