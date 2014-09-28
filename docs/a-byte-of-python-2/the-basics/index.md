@@ -375,7 +375,7 @@ the start of the second line:
 
 ```python
 i = 5
- print 'Value is', i # 
+ print 'Value is', i
 print 'I repeat, the value is', i
 ```
 
@@ -385,33 +385,40 @@ When you run this, you get the following error:
   File "whitespace.py", line 4
     print 'Value is', i
     ^
-SyntaxError: invalid syntax
+IndentationError: unexpected indent
 ```
 
-Notice that there is a single space at the beginning of the second line. 
-The error indicated by Python tells us that the syntax of the program is 
-invalid i.e. the program was not properly written. What this means to 
-you is that you cannot arbitrarily start new blocks of statements 
-(except for the main block which you have been using all along, of 
-course). Cases where you can use new blocks will be detailed in later 
-chapters such as the control flow chapter.
+Notice that there is a single space at the beginning of the second line. The 
+error indicated by Python tells us not only that the syntax of the program is 
+invalid, i.e. the program was not properly written, it specifically points out 
+the there is some issue with the indentation. What this means to you is that 
+you cannot arbitrarily start new blocks of statements (except for the main 
+block which you have been using all along, of course). Cases where you can use 
+new blocks will be detailed in later chapters such as the control flow 
+chapter.
 
-#### How to indent ####
+### How to indent ###
 
-Do not use a mixture of tabs and spaces for the indentation as it does 
-not work across different platforms properly. I strongly recommend that 
-you use a single tab or two or four spaces for each indentation level.
+There are two methods for indentation: either use tabs or spaces. If you 
+choose to use spaces, you can use either two or four spaces for every level of 
+indentation. Whichever method you prefer does not matter as much as does using 
+it consistently across your source code.
 
-Choose any of these three indentation styles. More importantly, choose 
-one and use it consistently i.e. use that indentation style only. 
+Do not use a mixture of tabs and spaces for the indentation as it does not 
+work across different platforms properly. Furthermore, Python source code 
+analysis tools such as [Pylint](http://www.pylint.org/) will raise warnings 
+when they encounter mixed styles of indentation in source code.
+
+If you are interested in what the creators of Python think about indentation, 
+you can read the [Style Guide for Python Code](legacy.python.org/dev/peps/pep-0008/).
 
 Summary
 -------
 
-Now that we have gone through many nitty-gritty details, we can move on 
-to more interesting stuff such as control flow statements. Be sure to 
-become comfortable with what you have read in this chapter. In the next 
-one, you will learn about [Python Operators and Expressions](/docs/a-byte-of-python-2/operators-and-expressions.html).
+Now that we have gone through many nitty-gritty details, we can move on to 
+more interesting stuff such as control flow statements. Be sure to become 
+comfortable with what you have read in this chapter. In the next one, you will 
+learn about [Python Operators and Expressions](/docs/a-byte-of-python-2/operators-and-expressions/).
 
 <ul class='pager'>
     <li class='previous'>
