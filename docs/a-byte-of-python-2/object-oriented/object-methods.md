@@ -33,6 +33,7 @@ p = Person()
 p.sayHi()
 
 # This short example can also be written as Person().sayHi()
+```
 
 #### Output ####
 
