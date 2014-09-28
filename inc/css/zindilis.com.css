@@ -71,6 +71,10 @@ ol.breadcrumb {
 	padding: 6px 12px;
 }
 
+.alert {
+    border-radius: 0;
+}
+
 /* Syntax Highlighting with Pygments */
 .codehilite .hll { background-color: #ffffcc }
 .codehilite  { background: #f8f8f8; }
