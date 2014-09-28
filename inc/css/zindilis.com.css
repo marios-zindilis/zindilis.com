@@ -73,6 +73,7 @@ ol.breadcrumb {
 
 .alert {
     border: none;
+    border-radius: 0;
 }
 
 /* Syntax Highlighting with Pygments */
