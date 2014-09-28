@@ -72,7 +72,7 @@ ol.breadcrumb {
 }
 
 .alert {
-    border-radius: 0;
+    border: none;
 }
 
 /* Syntax Highlighting with Pygments */
