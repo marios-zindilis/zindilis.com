@@ -2,6 +2,9 @@
 Title: A Byte of Python 2: The Basics
 Description: A Byte of Python 2: The Basics
 Author: Swaroop C H
+Editor: Marios Zindilis
+First Published: 2003
+Last Updated: 2014-09-28
 - -->
 
 <ol class="breadcrumb">
@@ -14,16 +17,15 @@ Author: Swaroop C H
 The Basics
 ==========
 
-Just printing 'Hello, World!' is not enough, is it? You want to do more 
-than that - you want to take some input, manipulate it and get 
-something out of it. You can achieve this in Python using 
-<b>constants</b> and <b>variables</b>.
+Just printing 'Hello, World!' is not enough, is it? You want to do more than 
+that - you want to take some input, manipulate it and get something out of it. 
+You can achieve this in Python using **constants** and **variables**.
 
 Literal Constants
 -----------------
 
-An example of a literal constant is a number like 5, 1.23, 9.25e-3 or a 
-string like 'This is a string' or "It's a string!". It is called a 
+An example of a literal constant is a number like `5`, `1.23`, `9.25e-3` or a 
+string like `'This is a string'` or `"It's a string!"`. It is called a 
 literal because it is literal - you use its value literally. The number 
 2 always represents itself and nothing else - it is a constant because 
 its value cannot be changed. Hence, all these are referred to as literal 
