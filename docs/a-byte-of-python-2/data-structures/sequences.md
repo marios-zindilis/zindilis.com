@@ -17,11 +17,11 @@ Last Updated: 2014-04-05
 Sequences
 =========
 
-Lists, tuples and strings are examples of sequences, but what are sequences and 
-what is so special about them? Two of the main features of a sequence is the 
-indexing operation which allows us to fetch a particular item in the sequence 
-directly and the slicing operation which allows us to retrieve a slice of the 
-sequence i.e. a part of the sequence.
+Lists, tuples and strings are examples of **sequences**, but what are 
+sequences and what is so special about them? Two of the main features of a 
+sequence is the indexing operation which allows us to fetch a particular item 
+in the sequence directly and the slicing operation which allows us to retrieve 
+a slice of the sequence i.e. a part of the sequence.
 
 Using Sequences
 ---------------
