@@ -2,7 +2,7 @@
 Title: Docs
 Description: Marios Zindilis's Docs 
 First Published: 2014-06-30
-Last Updated: 2014-09-23
+Last Updated: 2014-09-28
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -87,6 +87,7 @@ is a list of docs:
 *   [Logging in Linux](/docs/logging-in-linux.html)
 *   [LPIC-2 Notes](/docs/lpic2-notes.html)
 *   [LPIC-2 Revision](/docs/lpic2-revision.html)
+*   [Mail Tools](/docs/mail-tools.html)
 *   [Motion](/docs/motion.html)
 *   [netstat](/docs/netstat.html)
 *   [Network Interface Bonding](/docs/network-interface-bonding.html)
