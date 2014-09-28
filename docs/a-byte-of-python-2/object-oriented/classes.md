@@ -30,7 +30,7 @@ p = Person()
 print p
 ```
 
-### Output ###
+#### Output ####
 
 ```bash
 $ python simplestclass.py
