@@ -67,8 +67,8 @@ demonstrated in the `sayHi()` method.
 
 <aside class="alert alert-info">
 <p><b>A note for C++/Java/C# Programmers</b></p>
-<p>The `__init__` method is analogous to a constructor in C++, C# or Java.</p>
-</aside>
+<p>The <code>__init__</code> method is analogous to a constructor in C++, C# 
+or Java.</p></aside>
 
 <ul class='pager'>
     <li class='previous'>
