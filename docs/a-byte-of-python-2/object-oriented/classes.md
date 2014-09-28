@@ -50,6 +50,10 @@ instantiation in the next section. For our verification, we confirm the type
 of the variable by simply printing it. It tells us that we have an instance of 
 the `Person` class in the `__main__` module.
 
+Notice that the address of the computer memory where your object is stored is 
+also printed. The address will have a different value on your computer since 
+Python can store the object wherever it finds space. 
+
 <ul class='pager'>
     <li class='previous'>
         <a href='/docs/a-byte-of-python-2/object-oriented/self.html'>&larr; Previous: The self</a>
@@ -58,5 +62,3 @@ the `Person` class in the `__main__` module.
         <a href='/docs/a-byte-of-python-2/object-oriented/object-methods.html'>Next: Object Methods &rarr;</a>
     <li>
 </ul>
-
-Notice that the address of the computer memory where your object is stored is also printed. The address will have a different value on your computer since Python can store the object wherever it finds space. 
