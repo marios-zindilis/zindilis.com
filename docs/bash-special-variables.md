@@ -2,6 +2,7 @@
 Title: Bash Special Variables
 Description: Notes on special variables in Bash scripts
 First Published: 2013-12-25
+Last Updated: 2014-09-29
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -40,10 +41,10 @@ if [ $# -eq 0 ]; then
     echo "Usage: $0 /path/to/file";
 fi
 ```
-`#?`: Most recent exit code
+`$?`: Most recent exit code
 ---------------------------
 
-The special variable `#?` contains the exit code of the most recently 
+The special variable `$?` contains the exit code of the most recently 
 executed command. It is useful to examine this to determine whether or 
 not the previous command completed succesfully or returned an error. 
 
