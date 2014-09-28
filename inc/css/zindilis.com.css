@@ -37,10 +37,11 @@ footer .panel-heading {
 
 pre {
 	background-color: #ecf0f1;
-	border-top: 1px solid #7f8c8d;
+	/*border-top: 1px solid #7f8c8d;
 	border-bottom: 1px solid #7f8c8d;
 	border-left: 0;
-	border-right: 0;
+	border-right: 0;*/
+    border: none;
 	border-radius: 0;
 }
 
