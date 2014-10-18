@@ -2,7 +2,7 @@
 Title: Links to free books
 Description: A list of links to free books
 First Published: 2013-11-03
-Last Updated: 2014-02-11
+Last Updated: 2014-10-18
 - -->
 
 <ol class="breadcrumb">
@@ -33,6 +33,7 @@ reference. Unfortunately, these links tend to break often.
 11. [Practical PHP](http://www.tuxradar.com/practicalphp)
 12. [Dive into Python](http://www.diveintopython.net/)
 13. [Free as in Freedom](http://oreilly.com/openbook/freedom/index.html)
+14. [Getting Real - The smarter, faster, easier way to build a successful web application](http://gettingreal.37signals.com/)
 
 See Also
 --------
