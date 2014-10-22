@@ -2,7 +2,7 @@
 Title: Docs
 Description: Marios Zindilis's Docs 
 First Published: 2014-06-30
-Last Updated: 2014-09-28
+Last Updated: 2014-10-18
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -24,6 +24,7 @@ is a list of docs:
 *   [Apache Benchmarks](/docs/apache-benchmarks.html)
 *   [arp-scan](/docs/arp-scan.html)
 *   [awk](/docs/awk.html)
+*   [BackupPC](/docs/backuppc.html)
 *   [Bash Scripting](/docs/bash-scripting.html)
 *   [Bash Special Variables](/docs/bash-special-variables.html)
 *   [Basic authentication with Apache 2](/docs/apache2-basic-authentication.html)
@@ -123,6 +124,7 @@ is a list of docs:
 *   [Set up an FTP Repository from RHEL DVD](/docs/rhel-setup-ftp-repository.html)
 *   [Set up an HTTP Repository from RHEL DVD](/docs/rhel-setup-http-repository.html)
 *   [Set up CentOS 6 as NFS server](/docs/centos-6-nfs-server.html)
+*   [smartmontools](/docs/smartmontools.html)
 *   [smbpasswd](/docs/smbpasswd.html)
 *   [sudo](/docs/sudo.html)
 *   [Sunflower](/docs/sunflower.html)
