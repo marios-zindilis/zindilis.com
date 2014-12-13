@@ -13,12 +13,12 @@ First Published: 2014-12-13
 Raspberry Pi Security Bootstrap
 ===============================
 
-These are my notes on the first steps of improving security on a new Raspberry 
+<p class='lead'>These are my notes on the first steps of improving security on a new Raspberry 
 Pi. The default configuration that an RPi comes with might be suitable for a 
 development environment in a private or isolated network, but if you intend on 
 exposing your RPi to the world then you need to tweak that configuration to be 
 more robust. The commands mentioned here have been tested on a Raspberry Pi 
-B+, running a fresh installation of [Raspbian](http://www.raspbian.org/).
+B+, running a fresh installation of [Raspbian](http://www.raspbian.org/).</p>
 
 Disclaimer: Security is fluid and open-ended. The following are mere 
 suggestions. Taking these steps will hopefully reduce your exposure, but does 
