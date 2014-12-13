@@ -164,3 +164,8 @@ ol.breadcrumb {
 .z-callout p:last-child {
     margin-bottom: 0;
 }
+
+.lead {
+    padding: 4px;
+    background-color: #3498DB
+}
