@@ -169,3 +169,7 @@ ol.breadcrumb {
     padding: 4px;
     background-color: #3498DB
 }
+
+code {
+    border-radius: none;
+}
