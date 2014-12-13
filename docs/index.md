@@ -2,7 +2,7 @@
 Title: Docs
 Description: Marios Zindilis's Docs 
 First Published: 2014-06-30
-Last Updated: 2014-10-18
+Last Updated: 2014-12-13
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -111,6 +111,7 @@ is a list of docs:
 *   [Puppy Arcade](/docs/puppy-arcade.html)
 *   [PySphere](/docs/pysphere.html)
 *   [RANCID](/docs/rancid.html)
+*   [Raspberry Pi Security Bootstrap](/docs/raspberry-pi-security-bootstrap.html)
 *   [Regular Expressions](/docs/regular-expressions.html)
 *   [Restart entire NFS Stack](/docs/nfs-stack-restart.html)
 *   [RHCSA](/docs/rhcsa.html)
