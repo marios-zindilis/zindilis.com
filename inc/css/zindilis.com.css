@@ -166,8 +166,13 @@ ol.breadcrumb {
 }
 
 .lead {
-    padding: 4px;
-    background-color: #3498DB
+    padding: 20px;
+    background-color: #2980b9;
+    color: #FFFFFF;
+}
+
+.lead a {
+    color: #F1C40F;
 }
 
 code {
