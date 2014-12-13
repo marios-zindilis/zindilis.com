@@ -82,6 +82,7 @@ Non-Fiction
 *   *The Infinity of Lists*, Umberto Eco
 *   *The Peter Principle: Why Things Always Go Wrong*, Laurence Peter, Raymond Hull
 *   *The Soul of a New Machine*, Tracy Kidder
+*   *Spam Nation: The Inside Story of Organized Cybercrime-from Global Epidemic to Your Front Door*, Brian Krebs
 *   *The Toyota Way*, Jeffrey Liker
 *   [*The Library at Night*](https://openlibrary.org/works/OL42559W/), Alberto Manguel
 *   *xkcd, Volume 0*, Randall Munroe
