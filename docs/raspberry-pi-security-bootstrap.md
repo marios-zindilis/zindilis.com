@@ -72,7 +72,10 @@ User configuration
         sudo usermod --lock pi
         sudo usermod --shell /sbin/nologin pi
 
-4.  **Forbid SSH login for user `root`**. If your RPi is exposed to the world, 
+SSH Configuration
+-----------------
+
+1.  **Forbid SSH login for user `root`**. If your RPi is exposed to the world, 
     it will get attacked with SSH attempts for common usernames and passwords, 
     which is yet another reason to disable the default `pi` username. Another 
     username that your RPi will be hammered with is `root`. Now, you can't 
@@ -89,4 +92,24 @@ User configuration
 
         sudo service ssh restart
 
-   
+2.  **Restrict Incoming IPs for SSH**, using entries in `/etc/hosts.allow` and 
+    `/etc/hosts.deny`. For example, I allow SSH on my RPi from my internal LAN 
+    subnets (192.168.x.x), and from one public IP only (1.2.3.4 in this 
+    example). To achieve that, put in `/etc/hosts.allow`:
+
+        sshd: 192.168. 1.2.3.4
+
+    ...and in `/etc/hosts.deny`:
+
+        sshd: ALL
+
+     Attempting to login to the RPi from a restricted host will return an 
+     error to the client:
+
+        marios@wst ~ $ ssh myuser@192.168.23.123
+        ssh_exchange_identification: Connection closed by remote host
+
+     ...and will also create a log in `/var/log/auth.log`:
+
+        Dec 13 11:40:48 rpi sshd[3456]: refused connect from 172.16.1.2 (172.16.1.2)
+
