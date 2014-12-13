@@ -19,7 +19,7 @@ Last Updated: 2014-01-15
 <p class='lead'>File <code>/etc/hosts.allow</code> is one of the configuration 
 files of <b>TCP Wrappers</b>, effective either to servers launched via a 
 superserver such as <code>inetd</code>, or to servers that use 
-<code>libwrap</code> such as the OpenSSH server (when compiled with 
+<code>libwrap</code>, such as the OpenSSH server (when compiled with 
 <code>--with-libwrap</code>, which is usually the default).</p>
 
 The general syntax of the file is:
