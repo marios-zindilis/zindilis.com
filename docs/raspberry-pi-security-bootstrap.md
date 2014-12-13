@@ -64,10 +64,29 @@ User configuration
 
         myuser ALL=(ALL) ALL
 
-    Finally, to disable login for the default `pi` user, logout from `pi` and 
-    login as the new user that you created, and do:
+    Additionally, since login will be disabled for `pi`, you might as well 
+    comment out the line in `/etc/sudoers` that refers to that user. Finally, 
+    to disable login for the default `pi` user, logout from `pi` and login as 
+    the new user that you created, and do:
 
         sudo usermod --lock pi
         sudo usermod --shell /sbin/nologin pi
 
-4.  **Forbid SSH login for user `root`**.
+4.  **Forbid SSH login for user `root`**. If your RPi is exposed to the world, 
+    it will get attacked with SSH attempts for common usernames and passwords, 
+    which is yet another reason to disable the default `pi` username. Another 
+    username that your RPi will be hammered with is `root`. Now, you can't 
+    disable the root account, but you can disallow logins for it. To do that, 
+    edit the file `/etc/ssh/sshd_config`, and change the line:
+
+        PermitRootLogin yes
+
+    ...with:
+
+        PermitRootLogin no
+
+    ...and then restart the SSH daemon:
+
+        sudo service ssh restart
+
+   
