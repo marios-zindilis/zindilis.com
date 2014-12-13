@@ -160,3 +160,7 @@ ol.breadcrumb {
 .z-callout-danger h4 {
     color: #D9534F;
 }
+
+.z-callout p:last-child {
+    margin-bottom: 0;
+}
