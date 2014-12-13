@@ -143,11 +143,20 @@ ol.breadcrumb {
 
 .z-callout {
     border-style: solid;
-    border-width: 1px 1px 1px 5px;
+    border-width: 0 0 0 5px;
     margin: 20px 0;
     padding: 20px;
+    background-color: #EFEFEF;
 }
 
 .z-callout-danger {
     border-left-color: #D9534F;
+}
+
+.z-callout h4 {
+    margin-top: 0;
+}
+
+z-callout-danger h4 {
+    color: #D9534F;
 }
