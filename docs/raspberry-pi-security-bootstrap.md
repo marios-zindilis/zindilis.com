@@ -23,7 +23,7 @@ on a Raspberry Pi B+, running a fresh installation of
 
 <div class='z-callout z-callout-danger'><h4>Disclaimer</h4>
 <p>Security is fluid and open-ended. The following are mere suggestions. 
-Taking these steps will hopefully reduce your exposure, but does not guarantee \
+Taking these steps will hopefully reduce your exposure, but does not guarantee 
 complete safety. Nothing does.</p></div>
 
 User configuration
