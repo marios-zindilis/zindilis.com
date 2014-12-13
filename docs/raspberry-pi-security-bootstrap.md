@@ -117,21 +117,21 @@ Firewall Configuration with `iptables`
 --------------------------------------
 
 On my RPi running a freshly installed Raspbian OS, `iptables` was already 
-installed an run with an empty rule set, i.e. all traffic is allowed in all 
-directions. Furthermore, Raspbian does not include a SysV script for 
-`iptables`, therefore your firewall won't be manageable with commands like 
-`service iptables start|stop|restart|reload` nor will it start automatically 
-after a reboot. I'm used to working on RPM-based systems, on which these are 
-given conveniences, but they are easily configured on the DEB-based Raspbian 
-as well.
+installed, and it was running  with an empty rule set, i.e. all traffic was 
+allowed in all directions. Furthermore, Raspbian does not include a SysV 
+script for `iptables`. This functionality is offered by the 
+`iptables-persistent` package.
 
-1.  Create a file with the running configuration of `iptables`, so that it can 
-    persistently save its rules and maintain its status after a reboot. The 
-    `/etc` directory is not writeable by anyone other than `root`, so become 
-    `root` first:
+1.  Install `iptables-persistent`, to help make the `iptables` rules survive a 
+    reboot:
 
-        sudo su - 
-        iptables-save /etc/iptables
+        sudo apt-get install iptables-persistent
+
+    If you accept the defaults during the installation, the currently running 
+    empty rule set of `iptables` will be saved in `/etc/iptables/rules.v4`.
+    After the installation, you can manage your firewall with:
+
+        service iptables-persistent {start|restart|reload|force-reload|save|flush}
 
     Here are the contents of that file, with the default configuration of the 
     firewall:
@@ -144,4 +144,3 @@ as well.
         COMMIT
         # Completed on Sat Dec 13 14:23:03 2014
 
-2.  
