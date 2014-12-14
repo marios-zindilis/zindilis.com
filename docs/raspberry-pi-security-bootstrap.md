@@ -144,3 +144,15 @@ script for `iptables`. This functionality is offered by the
         COMMIT
         # Completed on Sat Dec 13 14:23:03 2014
 
+2.  Next, you will need to add some rules to the `iptables` configuration, to 
+    start blocking some traffic. There are two methods that you can apply:
+
+    A.  Replace the line `:INPUT ACCEPT` that defines a default policy to 
+        accept all incoming traffic), with `:INPUT DROP`, and then define 
+        rules that will only allow selected traffic through the firewall.
+
+    B.  Keep the default `:INPUT ACCEPT` policy for incoming traffic, but have 
+        one last rule that rejects all incoming traffic. 
+
+    I'm going with the second option, simply because of the convenience of 
+    copying rules from one of my CentOS machines :)
