@@ -2,6 +2,7 @@
 Title: Raspberry Pi Security Bootstrap
 Description: Initial security configuration of a new Raspberry Pi
 First Published: 2014-12-13
+Last Updated: 2014-12-14
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -155,4 +156,20 @@ script for `iptables`. This functionality is offered by the
         one last rule that rejects all incoming traffic. 
 
     I'm going with the second option, simply because of the convenience of 
-    copying rules from one of my CentOS machines :)
+    copying rules from one of my CentOS machines :) Here it is then, my rules 
+    file, implementing only the restriction to SSH port to the same IPs that 
+    I mentioned earlier:
+
+        *filter
+        :INPUT ACCEPT [0:0]
+        :FORWARD ACCEPT [0:0]
+        :OUTPUT ACCEPT [0:0]
+        -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+        -A INPUT -p icmp -j ACCEPT
+        -A INPUT -i lo -j ACCEPT
+        -A INPUT -m state --state NEW -m tcp -p tcp --source 192.168.0.0/16 --dport 22 -j ACCEPT
+        -A INPUT -m state --state NEW -m tcp -p tcp --source 1.2.3.4/32     --dport 22 -j ACCEPT
+        -A INPUT -j REJECT --reject-with icmp-host-prohibited
+        -A FORWARD -j REJECT --reject-with icmp-host-prohibited
+        COMMIT
+
