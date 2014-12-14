@@ -173,3 +173,10 @@ script for `iptables`. This functionality is offered by the
         -A FORWARD -j REJECT --reject-with icmp-host-prohibited
         COMMIT
 
+Summary
+-------
+
+With these measures taken to improve the security of my Raspberry Pi, I am now 
+more confident that I can assign it a public IP and expose it the the world, 
+without it being a very easy target.
+
