@@ -2,7 +2,7 @@
 Title: Links to free books
 Description: A list of links to free books
 First Published: 2013-11-03
-Last Updated: 2014-10-18
+Last Updated: 2014-12-18
 - -->
 
 <ol class="breadcrumb">
@@ -34,6 +34,7 @@ reference. Unfortunately, these links tend to break often.
 12. [Dive into Python](http://www.diveintopython.net/)
 13. [Free as in Freedom](http://oreilly.com/openbook/freedom/index.html)
 14. [Getting Real - The smarter, faster, easier way to build a successful web application](http://gettingreal.37signals.com/)
+15. [The Linux Command Line](http://www.linuxcommand.org/tlcl.php)
 
 See Also
 --------
