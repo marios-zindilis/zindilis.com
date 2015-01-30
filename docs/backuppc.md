@@ -1,7 +1,7 @@
 <!-- -
 Title: BackupPC
 Description: Notes and links on BackupPC
-First Published: 2014-10-21
+First Published: 2014-12-18
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -15,7 +15,7 @@ BackupPC
 
 Random tips for BackupPC:
 
-*   On your client systems (those that will be backed up by BackupPC), rotate 
+1.  On your client systems (those that will be backed up by BackupPC), rotate 
     your logs (whether compressed or not) with dates in the filenames, instead 
     of appending prefixes such as `.1`, `.2`, `.3`, etc. The benefit from this 
     is that BackupPC will ignore old logs on new runs, since they will have the 
@@ -24,3 +24,9 @@ Random tips for BackupPC:
     configuration is achieved with the `dateext` parameter set in `logrotate` 
     configuration file, which on CentOS 6 is at `/etc/logrotate.conf`, by 
     default.
+
+2.  If `mlocate` is installed on the BackupPC system, you should exclude the 
+    backup directory from being indexed by the nightly run of `updatedb`, 
+    otherwise `/var/lib/mlocate/mlocate.db` will become enormous. To exclude 
+    the backup directory, edit `/etc/updatedb.conf` and append the directory 
+    path to the end of the line for the `PRUNEPATHS` variable.
