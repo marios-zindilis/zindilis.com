@@ -27,6 +27,8 @@ installing a new server based on CentOS 6.
         yum -y install mlocate
         yum -y install iptraf
         yum -y install iotraf
+        yum -y install man
+        yum -y install nmap
 
 3.  CRON Configuration: Sometimes fresh Minimal CentOS installations don't 
     come with Cron pre-installed. In such a case: 
@@ -68,7 +70,7 @@ installing a new server based on CentOS 6.
 
         consoleblank=0
 
-See also
---------
+Sources
+-------
 
-*   [You want to turn console blanking off on your Linux servers](http://utcc.utoronto.ca/~cks/space/blog/linux/ConsoleBlankingOff), source of the `consoleblank=0` tip.
+*   For the console blanking tip: [You want to turn console blanking off on your Linux servers](http://utcc.utoronto.ca/~cks/space/blog/linux/ConsoleBlankingOff).
