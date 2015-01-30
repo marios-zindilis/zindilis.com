@@ -44,3 +44,10 @@ A list of `syslog` priorities, sorted by importance, ascending:
 6.  `crit`
 7.  `alert`
 8.  `emerg` (previously `panic`, now deprecated)
+
+Send test message to remote syslog server
+-----------------------------------------
+
+    echo '<12>sourcehost message text' | nc -v -u -w 0 12.34.56.78 514
+
+[Source](http://nelsonslog.wordpress.com/2013/04/19/faking-out-remote-syslog-via-netcat/)
