@@ -1,6 +1,7 @@
 <!-- -
 Title: /etc/shells
 First Published: 2014-03-11
+Last Updated: 2015-01-17
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -31,3 +32,8 @@ Example from a CentOS 6 minimal server:
     /bin/bash
     /sbin/nologin
     /bin/dash
+
+See Also
+--------
+
+*   [What `/etc/shells` is and isn't](http://utcc.utoronto.ca/~cks/space/blog/unix/EtcShellsUsage)
