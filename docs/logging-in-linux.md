@@ -125,3 +125,9 @@ For Windows
     a syslog server, both free and open source.
 *   [Log Parser](http://www.microsoft.com/en-us/download/details.aspx?id=24659) 
     is a search tool for logs and other data sources.
+
+See Also
+--------
+
+*   [How to Setup Logstash on Linux with ElasticSearch, Redis, Nginx](http://www.thegeekstuff.com/2014/12/logstash-setup/)
+*   [ELKs in LateRooms](http://engineering.laterooms.com/elks-in-laterooms/)
