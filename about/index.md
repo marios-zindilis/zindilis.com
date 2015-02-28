@@ -2,7 +2,7 @@
 Title: About me, and this website
 Description: Some information about me and my website
 First Published: 2011-03-07
-Last Updated: 2014-01-26
+Last Updated: 2015-02-28
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -20,7 +20,7 @@ Born in 1979, living in [Limassol, Cyprus](http://en.wikipedia.org/wiki/Limassol
 
 ### Work ###
 
-I currently work as a Linux Systems Administrator at[PrimeTel](http://primetel.com.cy/). 
+I currently work as a Linux Systems Administrator at [PrimeTel](http://primetel.com.cy/). 
 I have previously worked at PrimeTel's <abbr title='Network Operations Center'>NOC</abbr>, 
 and at [Lapso Co Ltd](http://lapsoco.com/), [MasterSoft](http://www.mastersoft.com.cy/), 
 [DomCons Ltd](http://www.domcons.com/) and [Entropy Data Ltd](http://www.entropydata.com/).
