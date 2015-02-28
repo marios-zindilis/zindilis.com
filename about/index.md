@@ -78,7 +78,7 @@ static HTML from Markdown text files.
 Previously, the blog part of the site was the awesome WordPress, and 
 the docs part was the very readable, very usable and very frustrating 
 to hack MediaWiki. Having spent hours and hours checking out the code 
-of the two, I concluded that A. WordPress is poetry, and B. it's a 
+of the two, I concluded that A. WordPress is poetry, and B. it is a 
 miracle that MediaWiki even works.
 
 ### Appearance ###
