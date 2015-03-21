@@ -1,1 +1,2 @@
-These are the sources for http://zindilis.com/
+These are the (mostly Markdown) sources for 
+[my website](http://zindilis.com/).
