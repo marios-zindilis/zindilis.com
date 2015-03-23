@@ -11,7 +11,7 @@ Bash: Check that string is IP
 <p class='lead'>Assuming that we have a Bash script that accepts a parameter 
 that is supposed to be an IP Address, this article lists a couple of 
 (practically useless) ways of verifying that input <em>without using regular 
-expressions</i>, which is the sane thing to do. It is therefore an exercise in 
+expressions</em>, which is the sane thing to do. It is therefore an exercise in 
 futility :) </p>
 
 Breakdown of the conditions
