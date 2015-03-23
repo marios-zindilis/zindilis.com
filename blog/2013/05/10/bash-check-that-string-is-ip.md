@@ -1,5 +1,6 @@
 <!-- -
 Title: Bash: Check that string is IP
+Description: Some non-regex ways to validate an IP in Bash
 First Published: 2013-05-10
 - -->
 
