@@ -9,6 +9,6 @@ Security bootstrap on a Raspberry Pi
 
 These are some notes on improving the security of a Raspberry Pi running a 
 fresh installation of Raspbian, before exposing it to the world, either by 
-giving it a public IP, or with some NAT/PAT configuration:
+giving it a public IP, or with some NAT/PAT configuration.
 
 Read: [Raspberry Pi Security Bootstrap](/docs/raspberry-pi-security-bootstrap.html)
