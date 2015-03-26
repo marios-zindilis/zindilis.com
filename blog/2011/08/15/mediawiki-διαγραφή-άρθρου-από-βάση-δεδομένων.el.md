@@ -1,5 +1,6 @@
 <!-- -
 Title: MediaWiki: Διαγραφή άρθρου από τη βάση δεδομένων
+Description: Οδηγός διαγραφής άρθρου από τη βάση δεδομένων του MediaWiki
 Author: Marios Zindilis
 First Published: 2011-08-15
 - -->
