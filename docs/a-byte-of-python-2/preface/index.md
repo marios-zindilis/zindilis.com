@@ -1,6 +1,6 @@
 <!-- -
 Title: A Byte of Python 2 - Preface
-Description: Preface to "A Byte of Python 2"
+Description: Preface to 'A Byte of Python 2'
 Author: Swaroop C H
 Editor: Marios Zindilis
 First Published: 2003
