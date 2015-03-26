@@ -22,7 +22,6 @@ Fiction
 
 *   [*All Men Are Liars*](https://openlibrary.org/books/OL24354762M/), Alberto Manguel
 *   *American Gods*, Neil Gaiman
-*   [*Atlas Shrugged*](https://openlibrary.org/works/OL731735W/), Ayn Rand
 *   [*Brave New World*](https://openlibrary.org/books/OL25434316M/), Aldous Huxley
 *   *Catch-22*, Joseph Heller
 *   [*Contact*](https://openlibrary.org/works/OL2950953W/), Carl Sagan
@@ -96,3 +95,4 @@ These are ex-members of this wishlist, i.e. books that I eventually
 obtained.
 
 *   [*2001: A Space Odyssey*](https://openlibrary.org/works/OL17365W/), Arthur Clarke
+*   [*Atlas Shrugged*](https://openlibrary.org/works/OL731735W/), Ayn Rand
