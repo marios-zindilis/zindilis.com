@@ -2,6 +2,7 @@
 Title: Ενδιαφέροντες σύνδεσμοι (2011, εβδ#39) 
 Author: Marios Zindilis
 First Published: 2011-10-01
+Last Updated: 2015-03-26
 - -->
 
 Ενδιαφέροντες σύνδεσμοι (2011, εβδ#39)
@@ -32,7 +33,7 @@ First Published: 2011-10-01
 <li><a href="http://www.infoworld.com/print/171717">Double whammy: Broken tech and bad behavior</a></li>
 <li><a href="http://www.infoworld.com/print/91651">Troubleshooting a forgotten password and a surly end-user</a></li>
 <li><a href="http://www.infoworld.com/print/83081">An IT lesson well learned</a></li>
-<li><a href="http://www.infoworld.com/print/115234>Keyboards, condescension come together on a tech call</a></li>
+<li><a href="http://www.infoworld.com/print/115234">Keyboards, condescension come together on a tech call</a></li>
 <li><a href="http://www.infoworld.com/print/111205">The technology pro's greatest enemies</a></li>
 <li><a href="http://www.infoworld.com/print/82643">True IT confessions</a></li>
 <li><a href="http://www.infoworld.com/print/28949">Yet another cleaning lady story</a></li>
