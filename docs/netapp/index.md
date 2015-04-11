@@ -1,7 +1,7 @@
 <!-- -
 Title: NetApp Docs
 Description: Docs about NetApp
-First Published: 2014-07-05
+First Published: 2015-04-11
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -15,3 +15,4 @@ NetApp Docs
 
 *  [NetApp Controller Failover](/docs/netapp/controller-failover.html)
 *  [NetApp Serial Console Settings](/docs/netapp/netapp-serial-console-settings.html)
+*  [Replace Failed Disk on NetApp FAS](/docs/netapp/replace-disk-on-fas.html)
