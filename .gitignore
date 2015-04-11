@@ -1,1 +1,4 @@
+# Ignore Vim temporary files:
 *.swp
+# Ignore Gedit temporary files:
+*.md~
