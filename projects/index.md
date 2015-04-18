@@ -11,3 +11,10 @@ First Published: 2015-04-18
 
 Projects
 ========
+
+BackupPC Archive Script
+-----------------------
+
+This is a script that can create archives of backups taken with BackupPC. It 
+can be used to keep an offsite copy of the latest backup of a host. 
+[More on GitHub](https://github.com/marios-zindilis/backuppc-archive/).
