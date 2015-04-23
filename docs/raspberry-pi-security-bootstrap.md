@@ -2,7 +2,7 @@
 Title: Raspberry Pi Security Bootstrap
 Description: Initial security configuration of a new Raspberry Pi
 First Published: 2014-12-13
-Last Updated: 2014-12-14
+Last Updated: 2015-04-23
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -120,7 +120,7 @@ Firewall Configuration with `iptables`
 On my RPi running a freshly installed Raspbian OS, `iptables` was already 
 installed, and it was running  with an empty rule set, i.e. all traffic was 
 allowed in all directions. Furthermore, Raspbian does not include a SysV 
-script for `iptables`. This functionality is offered by the 
+script for the `iptables` service, but this functionality is offered by the 
 `iptables-persistent` package.
 
 1.  Install `iptables-persistent`, to help make the `iptables` rules survive a 
