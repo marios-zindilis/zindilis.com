@@ -2,7 +2,7 @@
 Title: Logging in Linux
 Description: Notes on logging daemons on Linux
 First Published: 2014-01-28
-Last Updated: 2014-01-31
+Last Updated: 2015-04-25
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -131,3 +131,4 @@ See Also
 
 *   [How to Setup Logstash on Linux with ElasticSearch, Redis, Nginx](http://www.thegeekstuff.com/2014/12/logstash-setup/)
 *   [ELKs in LateRooms](http://engineering.laterooms.com/elks-in-laterooms/)
+*   [What are good open-source log monitoring tools on Linux](http://xmodulo.com/open-source-log-monitoring-tools-linux.html)
