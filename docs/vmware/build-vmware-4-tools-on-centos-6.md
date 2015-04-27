@@ -61,3 +61,6 @@ Here's the procedure:
         vmmemctl                8642  0 
         vmware_balloon          7199  0 
 
+7.  If everything went fine, you might want to clean up the files you copied 
+    and extracted, although keeping them will speed up the reinstallation of 
+    the tools in case you upgrade the kernel to a newer version.
