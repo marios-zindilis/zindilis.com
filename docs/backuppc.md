@@ -2,6 +2,7 @@
 Title: BackupPC
 Description: Notes and links on BackupPC
 First Published: 2014-12-18
+Last Updated: 2015-05-03
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -30,3 +31,12 @@ Random tips for BackupPC:
     otherwise `/var/lib/mlocate/mlocate.db` will become enormous. To exclude 
     the backup directory, edit `/etc/updatedb.conf` and append the directory 
     path to the end of the line for the `PRUNEPATHS` variable.
+
+See Also
+--------
+
+*   **BackupPC Archive** is a Perl script that maintains archive copies of 
+    backups taken with BackupPC. [Fork on GitHub][1].
+
+<!-- Links -->
+[1]: https://github.com/marios-zindilis/backuppc-archive/ "BackupPC Archive"
