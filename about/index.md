@@ -39,10 +39,10 @@ at [InterCollege](http://www.intercollege.ac.cy/).
 I currently hold the following certifications:
 
 *   Cisco Certified Entry Network Technician
-*   Cisco Certified Network Associate (2011-05-06 - 2014-05-05)
-*   CompTIA Linux+
-*   Linux Professionals Institute Certification LPIC-1
-*   Linux Professionals Institute Certification LPIC-2
+*   Cisco Certified Network Associate (#CSCO11919413, 2011-05-06 - 2014-05-05)
+*   CompTIA Linux+ (#COMP001020362554, 2012-04-20)
+*   Linux Professionals Institute Certification LPIC-1 (2012-04-20 - 2017-04-20)
+*   Linux Professionals Institute Certification LPIC-2 (#LPI000251981, 2013-10-18 - 2018-10-18)
 *   Novell Certified Linux Administrator
 *   Novell Certified Data Center Technical Specialist
 *   Novell Certified SUSE 11 Technical Specialist
