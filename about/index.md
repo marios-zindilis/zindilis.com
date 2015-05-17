@@ -16,7 +16,7 @@ About me, and this website
 About me
 --------
 
-Born in 1979, living in [Limassol, Cyprus](http://en.wikipedia.org/wiki/Limassol).
+Born in 1979, living in [Limassol, Cyprus][wikipedia-limassol].
 
 ### Work ###
 
@@ -101,4 +101,7 @@ Unless explicitly stated otherwise in a specific page, the contents of
 this website are released under the Creative Commons Attribution-ShareAlike 
 4.0 International (CC BY-SA 4.0) Licence. Read more about it 
 [here](http://creativecommons.org/licenses/by-sa/4.0/).
+
+<!-- Links -->
+[wikipedia-limassol]: http://en.wikipedia.org/wiki/Limassol "WikiPedia page for Limassol, Cyprus"
 
