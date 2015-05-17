@@ -37,6 +37,8 @@ See Also
 
 *   **BackupPC Archive** is a Perl script that maintains archive copies of 
     backups taken with BackupPC. [Fork on GitHub][1].
+*   [**BackupPC Windows Client**][2]
 
 <!-- Links -->
 [1]: https://github.com/marios-zindilis/backuppc-archive/ "BackupPC Archive"
+[2]: http://www.michaelstowe.com/backuppc/ "BackupPC Windows Client"
