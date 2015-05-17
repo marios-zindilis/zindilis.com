@@ -20,9 +20,9 @@ Born in 1979, living in [Limassol, Cyprus][wikipedia-limassol].
 
 ### Work ###
 
-I currently work as a Linux Systems Administrator at [PrimeTel](http://primetel.com.cy/). 
-I have previously worked at PrimeTel's <abbr title='Network Operations Center'>NOC</abbr>, 
-and at [Lapso Co Ltd](http://lapsoco.com/), [MasterSoft](http://www.mastersoft.com.cy/), 
+I currently work as a Linux Systems Administrator at [PrimeTel][primetel]. I 
+have previously worked at PrimeTel's <abbr title='Network Operations Center'>NOC</abbr>, 
+and at [Lapso Co Ltd][lapso], [MasterSoft](http://www.mastersoft.com.cy/), 
 [DomCons Ltd](http://www.domcons.com/) and [Entropy Data Ltd](http://www.entropydata.com/).
 
 I have also done some web development as a freelancer (hasn't everybody?), and 
@@ -51,9 +51,10 @@ I currently hold the following certifications:
 
 I am an amateur musician. If you are looking for a peaceful apartment, 
 stay away from my building. I also like to aggregate useless stuff, I 
-now have about 400 miniature cars, 100 vinyl records and non-counted-yet 
-books. Unfortunately, due to moving between apartments, I had to throw 
-away my collections of old magazines, and kept only the most interesting.
+now have about 400 miniature cars, 100 [vinyl records][vinyl-collection] and 
+non-counted-yet books. Unfortunately, due to moving between apartments, I had 
+to throw away my collections of old magazines, and kept only the most 
+interesting.
 
 ### Digital Footprint ###
 
@@ -104,4 +105,6 @@ this website are released under the Creative Commons Attribution-ShareAlike
 
 <!-- Links -->
 [wikipedia-limassol]: http://en.wikipedia.org/wiki/Limassol "WikiPedia page for Limassol, Cyprus"
-
+[primetel]: http://primetel.com.cy/ "PrimeTel"
+[lapso]: http://lapsoco.com/ "Lapso Co Ltd"
+[vinyl-collection]: /about/vinyl-collection.html "My collection of vinyl records"
