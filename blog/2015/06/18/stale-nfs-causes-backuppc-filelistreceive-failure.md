@@ -21,7 +21,7 @@ contents of the host log being:
 This happened a couple of times in a row, and the interval between the start 
 time of the backup and the failure was consistently 20 hours. While checking, 
 I noticed that an `rsync` process started on the client by BackupPC was running 
-for about a week. I did an `strace -p 1234` on the process ID of `rsync` and 
+for about a week. I did an `strace -p <PID>` on the process ID of `rsync` and 
 noticed that it was trying to `stat` an old NFS export, mounted from a server 
 that no longer exists. 
 
