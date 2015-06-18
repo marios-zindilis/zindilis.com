@@ -2,7 +2,7 @@
 Title: BackupPC
 Description: Notes and links on BackupPC
 First Published: 2014-12-18
-Last Updated: 2015-05-03
+Last Updated: 2015-06-18
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -38,7 +38,9 @@ See Also
 *   **BackupPC Archive** is a Perl script that maintains archive copies of 
     backups taken with BackupPC. [Fork on GitHub][1].
 *   [**BackupPC Windows Client**][2]
+*   [Stale NFS Mount Causes BackupPC `fileListReceive()` Failure][3]
 
 <!-- Links -->
 [1]: https://github.com/marios-zindilis/backuppc-archive/ "BackupPC Archive"
 [2]: http://www.michaelstowe.com/backuppc/ "BackupPC Windows Client"
+[3]: /blog/2015/06/18/stale-nfs-causes-backuppc-filelistreceive-failure.html "Stale NFS Mount Causes BackupPC fileListReceive() Failure"
