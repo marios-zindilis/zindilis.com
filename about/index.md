@@ -49,12 +49,16 @@ I currently hold the following certifications:
 
 ### Other ###
 
-I am an amateur musician. If you are looking for a peaceful apartment, 
-stay away from my building. I also like to aggregate useless stuff, I 
-now have about 400 miniature cars, 100 [vinyl records][vinyl-collection] and 
-non-counted-yet books. Unfortunately, due to moving between apartments, I had 
-to throw away my collections of old magazines, and kept only the most 
-interesting.
+I am an amateur musician. Over the years I have owned and tried to learn to 
+play a bunch of instruments (acoustic, classic and electric guitar, guitar 
+bass, bouzouki, zither, bayan and possibly others that I forget. At some point 
+I sold or gave away everything but my first guitar, an Ibanez PF-10, bought 
+in 1999. 
+
+I also once liked to aggregate useless stuff, but more recently I find more 
+meaning in owning as less stuff as possible. I gave away my small collection 
+of about 100 [vinyl records][vinyl-collection], and still looking into getting 
+rid of about 400 miniature cars, and non-counted-yet books. 
 
 ### Digital Footprint ###
 
