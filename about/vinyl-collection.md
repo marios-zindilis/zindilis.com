@@ -1,6 +1,10 @@
 Δίσκοι βινυλίου
 ===============
 
+<p class='lead'>This page is (mostly) in Greek! This used to be my small
+collection of vinyl records, before I gave them to someone who found more
+meaning in accumulatign useless stuff.</p>
+
 Ξένα
 ----
 
