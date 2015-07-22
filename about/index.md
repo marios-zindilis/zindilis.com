@@ -2,7 +2,7 @@
 Title: About me, and this website
 Description: Some information about me and my website
 First Published: 2011-03-07
-Last Updated: 2015-02-28
+Last Updated: 2015-07-22
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -16,14 +16,19 @@ About me, and this website
 About me
 --------
 
-Born in 1979, living in [Limassol, Cyprus][wikipedia-limassol].
+Born in 1979, currently living in [Dublin, Ireland][wikipedia-dublin]. 
+Previously, I lived for 10 years in [Athens, Greece][wikipedia-athens], and 
+the rest at my hometown of [Limassol, Cyprus][wikipedia-limassol].
 
 ### Work ###
 
-I currently work as a Linux Systems Administrator at [PrimeTel][primetel]. I 
-have previously worked at PrimeTel's <abbr title='Network Operations Center'>NOC</abbr>, 
-and at [Lapso Co Ltd][lapso], [MasterSoft](http://www.mastersoft.com.cy/), 
-[DomCons Ltd](http://www.domcons.com/) and [Entropy Data Ltd](http://www.entropydata.com/).
+I currently work as a System Engineer at [Amazon][amazon]. I have previously 
+worked as a Senior Systems Administrator and prior to that as a Linux Systems 
+Administrator at [PrimeTel][primetel], and earlier at PrimeTel's 
+<abbr title='Network Operations Center'>NOC</abbr>, at [Lapso Co Ltd][lapso], 
+[MasterSoft](http://www.mastersoft.com.cy/), 
+[DomCons Ltd](http://www.domcons.com/) and 
+[Entropy Data Ltd](http://www.entropydata.com/).
 
 I have also done some web development as a freelancer (hasn't everybody?), and 
 I currently manage a few servers, offering shared and dedicated web hosting.
@@ -51,14 +56,15 @@ I currently hold the following certifications:
 
 I am an amateur musician. Over the years I have owned and tried to learn to 
 play a bunch of instruments (acoustic, classic and electric guitar, guitar 
-bass, bouzouki, zither, bayan and possibly others that I forget. At some point 
+bass, bouzouki, zither, bayan and possibly others that I forget). At some point 
 I sold or gave away everything but my first guitar, an Ibanez PF-10, bought 
 in 1999. 
 
 I also once liked to aggregate useless stuff, but more recently I find more 
 meaning in owning as less stuff as possible. I gave away my small collection 
-of about 100 [vinyl records][vinyl-collection], and still looking into getting 
-rid of about 400 miniature cars, and non-counted-yet books. 
+of about 100 [vinyl records][vinyl-collection], gifted another collection of 
+about 400 miniature cars to friends with kids, and donated or recycled a few 
+hundreds of books.
 
 ### Digital Footprint ###
 
@@ -108,7 +114,10 @@ this website are released under the Creative Commons Attribution-ShareAlike
 [here](http://creativecommons.org/licenses/by-sa/4.0/).
 
 <!-- Links -->
-[wikipedia-limassol]: http://en.wikipedia.org/wiki/Limassol "WikiPedia page for Limassol, Cyprus"
+[wikipedia-athens]: https://en.wikipedia.org/wiki/Athens "WikiPedia page for Athens, Greece"
+[wikipedia-dublin]: https://en.wikipedia.org/wiki/Dublin "WikiPedia page for Dublin, Ireland"
+[wikipedia-limassol]: https://en.wikipedia.org/wiki/Limassol "WikiPedia page for Limassol, Cyprus"
+[amazon]: http://www.amazon.com/ "Amazon"
 [primetel]: http://primetel.com.cy/ "PrimeTel"
 [lapso]: http://lapsoco.com/ "Lapso Co Ltd"
 [vinyl-collection]: /about/vinyl-collection.html "My collection of vinyl records"
