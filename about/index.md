@@ -62,9 +62,9 @@ in 1999.
 
 I also once liked to aggregate useless stuff, but more recently I find more 
 meaning in owning as less stuff as possible. I gave away my small collection 
-of about 100 [vinyl records][vinyl-collection], gifted another collection of 
-about 400 miniature cars to friends with kids, and donated or recycled a few 
-hundreds of books.
+of about 100 [vinyl records][vinyl-collection] (page in Greek), gifted another 
+collection of about 400 miniature cars to friends with kids, and donated or 
+recycled a few hundreds of books.
 
 ### Digital Footprint ###
 
