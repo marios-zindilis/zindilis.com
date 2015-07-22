@@ -2,7 +2,7 @@
 Title: My Books Wishlist
 Description: Marios Zindilis's Books' Wishlist
 First Published: 2013-10-11
-Last Updated: 2015-03-26
+Last Updated: 2015-06-23
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -14,8 +14,9 @@ Last Updated: 2015-03-26
 Books Wishlist
 ==============
 
-Here's a list of books I would like to read, in case the urge to buy me 
-a gift overcomes you.
+Here's a list of books I would like to read, in case the urge to buy me a gift 
+overcomes you. Note that after years of hoarding dead trees, I now prefer 
+ebooks.
 
 Fiction
 -------
@@ -56,7 +57,6 @@ Non-Fiction
 *   *High Performance MySQL: Optimization, Backups, and Replication*
 *   *Nmap Network Scanning*, Gordon Fyodor Lyon
 *   *Self-Service Linux: Mastering the Art of Problem Determination*, Mark Wilding, Dan Behman (2005)
-*   *The Practice of System and Network Administration*, Thomas Limoncelli, Christina Hogan, Strata Chalup
 *   *The Visible Ops Handbook*, Kevin Behr, Gene Kim, George Spafford
 *   *Time Management for System Administrators*, Thomas Limoncelli
 *   *UNIX and Linux System Administration Handbook*
@@ -96,3 +96,4 @@ obtained.
 
 *   [*2001: A Space Odyssey*](https://openlibrary.org/works/OL17365W/), Arthur Clarke
 *   [*Atlas Shrugged*](https://openlibrary.org/works/OL731735W/), Ayn Rand
+*   [*The Practice of System and Network Administration*](https://openlibrary.org/works/OL12272525W/), Thomas Limoncelli, Christina Hogan, Strata Chalup
