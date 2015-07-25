@@ -22,6 +22,7 @@ MySQL Docs
 *   [MySQL Workbench](/docs/mysql/mysql-workbench.html)
 *   [Skip one record on MySQL replication slave](/docs/mysql/mysql-replication-skip-one.html)
 *   [Show privileges for all users][show-privileges-for-all-users]
+*   [Example queries on the Sakila MySQL database][sakila-example-queries]
 
 MySQL Variables
 ---------------
@@ -36,3 +37,4 @@ See also
 
 <!-- Links -->
 [show-privileges-for-all-users]: /docs/mysql/show-privileges-for-all-users.html "Show privileges for all users in MySQL"
+[sakila-example-queries]: /docs/mysql/sakila-example-queries.html "Example queries on the Sakila MySQL database"
