@@ -1,3 +1,9 @@
+<!-- -
+Title: Show privileges for all users in MySQL
+Description: Bash script for displaying privileges for all users in MySQL
+First Published: 2015-07-25
+- -->
+
 Show privileges for all users in MySQL
 ======================================
 
@@ -12,4 +18,4 @@ Example script:
             echo "==========================="; 
         done
 
-The `mysqldumper` needs only read-only permissions on the databases.
+The `mysqldumper` user only requires read permissions on the databases.
