@@ -2,6 +2,7 @@
 Title: Example queries on the Sakila MySQL database
 Description: A small collection of example MySQL queries on the Sakila database
 First Published: 2015-07-25
+Last Updated: 2015-07-25
 - -->
 
 Example queries on the Sakila MySQL database
@@ -24,3 +25,11 @@ WHERE film_actor.actor_id = actor.actor_id
 AND film_actor.film_id = film.film_id;
 ```
 
+Get the same result with double `INNER JOIN`:
+
+```mysql
+SELECT actor.first_name, actor.last_name, film.title 
+FROM film_actor 
+INNER JOIN actor ON film_actor.actor_id = actor.actor_id 
+INNER JOIN film ON film_actor.film_id = film.film_id;
+```
