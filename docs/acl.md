@@ -1,7 +1,8 @@
 <!-- -
-Title: ACLs
-Description: Notes and links on Access Control Lists
+Title: Linux ACLs
+Description: Notes and links on Access Control Lists on Linux
 First Published: 2014-04-26
+Last Updated: 2015-07-25
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
