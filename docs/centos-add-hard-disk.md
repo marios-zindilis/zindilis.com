@@ -2,7 +2,7 @@
 Title: Add a hard disk on a CentOS 6 system
 Description: How to add an new hard disk on an existing CentOS 6 system
 First Published: 2013-11-02
-Last Updated: 2013-11-23
+Last Updated: 2015-07-25
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -17,7 +17,8 @@ Add a Hard Disk on a CentOS 6 System
 This document shows how to add a 50GB hard disk on a CentOS 6 system, 
 prepare it for usage with <abbr title='Logical Volume Management'>LVM</abbr>, 
 and mount it as the MySQL data directory. This was tested on a VMware 
-Player virtual machine, with CentOS 6.4.
+Player virtual machine, with CentOS 6.4, and should be safe to run on any 
+6.x CentOS version.
 
 Addition of new hard disk
 -------------------------
