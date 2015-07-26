@@ -1,5 +1,6 @@
 <!-- -
 Title: smbpasswd
+Description: Notes on the smbpasswd Samba password tool
 First Published: 2013-10-25
 - -->
 
