@@ -1,7 +1,8 @@
 <!-- -
 Title: Create an encrypted directory on Ubuntu
+Description: How to create an encrypted directory with encfs on Ubuntu
 First Published: 2014-02-04
-Last Updated: 2014-09-16
+Last Updated: 2015-07-25
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
