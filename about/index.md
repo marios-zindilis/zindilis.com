@@ -2,7 +2,7 @@
 Title: About me, and this website
 Description: Some information about me and my website
 First Published: 2011-03-07
-Last Updated: 2015-07-22
+Last Updated: 2015-07-30
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -22,7 +22,7 @@ the rest at my hometown of [Limassol, Cyprus][wikipedia-limassol].
 
 ### Work ###
 
-I currently work as a System Engineer at [Amazon][amazon]. I have previously 
+I currently work as a Systems Engineer at [Amazon][amazon]. I have previously 
 worked as a Senior Systems Administrator and prior to that as a Linux Systems 
 Administrator at [PrimeTel][primetel], and earlier at PrimeTel's 
 <abbr title='Network Operations Center'>NOC</abbr>, at [Lapso Co Ltd][lapso], 
