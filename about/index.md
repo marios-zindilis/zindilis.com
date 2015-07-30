@@ -68,6 +68,7 @@ recycled a few hundreds of books.
 
 ### Digital Footprint ###
 
+*   [LinkedIn][profile-linkedin]
 *   Greek and English WikiPedia contributor.
 *   GNOME and Ubuntu Translator.
 *   Flickr
@@ -121,3 +122,4 @@ this website are released under the Creative Commons Attribution-ShareAlike
 [primetel]: http://primetel.com.cy/ "PrimeTel"
 [lapso]: http://lapsoco.com/ "Lapso Co Ltd"
 [vinyl-collection]: /about/vinyl-collection.html "My collection of vinyl records"
+[profile-linkedin]: https://ie.linkedin.com/in/zindilis "Marios Zindilis LinkedIn Profile"
