@@ -2,7 +2,7 @@
 Title: About me, and this website
 Description: Some information about me and my website
 First Published: 2011-03-07
-Last Updated: 2015-07-30
+Last Updated: 2015-08-02
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -69,6 +69,7 @@ recycled a few hundreds of books.
 ### Digital Footprint ###
 
 *   [LinkedIn][profile-linkedin]
+*   [Facebook][profile-facebook]
 *   Greek and English WikiPedia contributor.
 *   GNOME and Ubuntu Translator.
 *   Flickr
@@ -123,3 +124,4 @@ this website are released under the Creative Commons Attribution-ShareAlike
 [lapso]: http://lapsoco.com/ "Lapso Co Ltd"
 [vinyl-collection]: /about/vinyl-collection.html "My collection of vinyl records"
 [profile-linkedin]: https://ie.linkedin.com/in/zindilis "Marios Zindilis LinkedIn Profile"
+[profile-facebook]: https://www.facebook.com/zindilis "Marios Zindilis Facebook Profile"
