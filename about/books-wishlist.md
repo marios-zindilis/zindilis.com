@@ -2,7 +2,7 @@
 Title: My Books Wishlist
 Description: Marios Zindilis's Books' Wishlist
 First Published: 2013-10-11
-Last Updated: 2015-06-23
+Last Updated: 2015-08-08
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -53,10 +53,18 @@ Non-Fiction
 
 *   *Computer Networking - A top-down Approach*, James Kurose, Keith Ross
 *   [*Computer Networks*](https://openlibrary.org/works/OL1970691W/), Andrew Tanenbaum
+*   [*Countdown to Zero Day*][countdown-to-zero-day], Kim Zetter
+*   [*Data and Goliath*][data-and-goliath], Bruce Schneier
 *   *Essential System Administration*, Aeleen Frisch
+*   [*Future Crimes*][future-crimes], Marc Goodman
+*   [*Ghost in the Wires*][ghost-in-the-wires], Kevin Mitnick
 *   *High Performance MySQL: Optimization, Backups, and Replication*
 *   *Nmap Network Scanning*, Gordon Fyodor Lyon
+*   [*Secrets and Lies*][secrets-and-lies], Bruce Schneier
 *   *Self-Service Linux: Mastering the Art of Problem Determination*, Mark Wilding, Dan Behman (2005)
+*   [*Spam Nation*][spam-nation], Brian Krebs
+*   [*The art of Deception*][the-art-of-deception], Kevin Mitnick
+*   [*The Atrocity Archives*][the-atrocity-archives], Charles Stross
 *   *The Visible Ops Handbook*, Kevin Behr, Gene Kim, George Spafford
 *   *Time Management for System Administrators*, Thomas Limoncelli
 *   *UNIX and Linux System Administration Handbook*
@@ -82,7 +90,6 @@ Non-Fiction
 *   *The Infinity of Lists*, Umberto Eco
 *   *The Peter Principle: Why Things Always Go Wrong*, Laurence Peter, Raymond Hull
 *   *The Soul of a New Machine*, Tracy Kidder
-*   *Spam Nation: The Inside Story of Organized Cybercrime-from Global Epidemic to Your Front Door*, Brian Krebs
 *   *The Toyota Way*, Jeffrey Liker
 *   [*The Library at Night*](https://openlibrary.org/works/OL42559W/), Alberto Manguel
 *   *xkcd, Volume 0*, Randall Munroe
@@ -97,3 +104,13 @@ obtained.
 *   [*2001: A Space Odyssey*](https://openlibrary.org/works/OL17365W/), Arthur Clarke
 *   [*Atlas Shrugged*](https://openlibrary.org/works/OL731735W/), Ayn Rand
 *   [*The Practice of System and Network Administration*](https://openlibrary.org/works/OL12272525W/), Thomas Limoncelli, Christina Hogan, Strata Chalup
+
+<!-- Links -->
+[countdown-to-zero-day]: http://www.goodreads.com/book/show/18465875 "Countdown to Zero Day"
+[data-and-goliath]:      http://www.goodreads.com/book/show/22253747 "Data and Goliath"
+[future-crimes]:         http://www.goodreads.com/book/show/22318398 "Future Crimes"
+[ghost-in-the-wires]:    http://www.goodreads.com/book/show/10256723 "Ghost in the Wires"
+[secrets-and-lies]:      http://www.goodreads.com/book/show/304482   "Secrets and Lies"
+[spam-nation]:           http://www.goodreads.com/book/show/18509663 "Spam Nation"
+[the-art-of-deception]:  http://www.goodreads.com/book/show/18160    "The Art of Deception"
+[the-atrocity-archives]: http://www.goodreads.com/book/show/101869   "The Atrocity Archives"
