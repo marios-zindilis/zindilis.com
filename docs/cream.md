@@ -2,7 +2,7 @@
 Title: Cream
 Description: Cream advanced text editor
 First Published: 2012-02-08
-Last Updated: 2013-11-24
+Last Updated: 2015-08-10
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -14,10 +14,15 @@ Last Updated: 2013-11-24
 Cream 
 =====
 
-**Cream** is an advanced text editor. It is created on top of [Vim](/docs/vim.html), 
-and works on Windows, Linux and FreeBSD.
+**Cream** is an advanced text editor, created on top of [Vim](/docs/vim.html), 
+and works on Windows, Linux and FreeBSD. As of the latest update of this 
+document (see bottom of page for date), the [code commits][cream-cvs] suggest 
+that the project has been abandoned.
 
 See Also
 --------
 
 *   [Project Page on Sourceforge](http://cream.sourceforge.net/)
+
+<!-- Links -->
+[cream-cvs]: http://cream.cvs.sourceforge.net/viewvc/cream/cream/ "Cream CVS"
