@@ -2,6 +2,7 @@
 Title: Wowza
 Description: Wowza Transcoder
 First Published: 2013-11-20
+Last Updated: 2015-08-26
 - -->
 
 <ol class="breadcrumb" itemprop="breadcrumb">
@@ -13,5 +14,9 @@ First Published: 2013-11-20
 Wowza
 =====
 
-*   [New traffic record for GRNET NOC streaming service](http://www.void.gr/kargig/blog/2013/11/13/new-traffic-record-for-grnet-noc-streaming-service/), 
-    or *Scaling Wowza with Varnish proxies*.
+*   [New traffic record for GRNET NOC streaming service][1], or *Scaling Wowza with Varnish proxies*
+*   [How to set up Wowza Transcoder NVIDIA NVENC accelerated encoding on CentOS][2]
+
+<!-- Links -->
+[1]: http://www.void.gr/kargig/blog/2013/11/13/new-traffic-record-for-grnet-noc-streaming-service/
+[2]: http://www.wowza.com/forums/content.php?510
