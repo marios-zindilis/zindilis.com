@@ -17,9 +17,8 @@ Bash Special Variables
 `$0`: Name of the script
 ------------------------
 
-The special variable `$0` contains the name of the script. It is useful 
-when returning usage instructions to the user that run the script. For 
-example:
+The special variable `$0` contains the name of the script. It is useful when 
+returning usage instructions to the user that run the script. For example:
 
 ```bash
 echo "Usage: $0 --option-1 --option-2";
@@ -28,10 +27,10 @@ echo "Usage: $0 --option-1 --option-2";
 `$#`: Number of arguments
 -------------------------
 
-The special variable `$#` contains the number of arguments passed to 
-the script. If no arguments are passed, it is equal to 0. It is useful 
-to examine the value of this variable before taking further actions, if 
-a script *must* be run with a minimum number of arguments. 
+The special variable `$#` contains the number of arguments passed to the 
+script. If no arguments are passed, it is equal to 0. It is useful to examine 
+the value of this variable before taking further actions, if a script *must* 
+be run with a minimum number of arguments. 
 
 Here is an example of `$#` used together with `$0`:
 
