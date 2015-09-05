@@ -72,6 +72,7 @@ Non-Fiction
 ### Work-Unrelated ###
 
 *   *A Brief History of Time*, Stephen Hawking
+*   [*Battle of Wits: The Complete Story of Codebreaking in World War II*][battle-of-wits], Stephen Budiansky
 *   *Fahrenheit 451*, Ray Bradbury
 *   *Geek Logik: 50 Foolproof Equations for Everyday Life*, Garth Sundem
 *   *God Created the Integers*, Stephen Hawking
@@ -106,11 +107,12 @@ obtained.
 *   [*The Practice of System and Network Administration*](https://openlibrary.org/works/OL12272525W/), Thomas Limoncelli, Christina Hogan, Strata Chalup
 
 <!-- Links -->
-[countdown-to-zero-day]: http://www.goodreads.com/book/show/18465875 "Countdown to Zero Day"
-[data-and-goliath]:      http://www.goodreads.com/book/show/22253747 "Data and Goliath"
-[future-crimes]:         http://www.goodreads.com/book/show/22318398 "Future Crimes"
-[ghost-in-the-wires]:    http://www.goodreads.com/book/show/10256723 "Ghost in the Wires"
-[secrets-and-lies]:      http://www.goodreads.com/book/show/304482   "Secrets and Lies"
-[spam-nation]:           http://www.goodreads.com/book/show/18509663 "Spam Nation"
-[the-art-of-deception]:  http://www.goodreads.com/book/show/18160    "The Art of Deception"
-[the-atrocity-archives]: http://www.goodreads.com/book/show/101869   "The Atrocity Archives"
+[battle-of-wits]:        https://www.goodreads.com/book/show/171202   "Battle of Wits"
+[countdown-to-zero-day]: https://www.goodreads.com/book/show/18465875 "Countdown to Zero Day"
+[data-and-goliath]:      https://www.goodreads.com/book/show/22253747 "Data and Goliath"
+[future-crimes]:         https://www.goodreads.com/book/show/22318398 "Future Crimes"
+[ghost-in-the-wires]:    https://www.goodreads.com/book/show/10256723 "Ghost in the Wires"
+[secrets-and-lies]:      https://www.goodreads.com/book/show/304482   "Secrets and Lies"
+[spam-nation]:           https://www.goodreads.com/book/show/18509663 "Spam Nation"
+[the-art-of-deception]:  https://www.goodreads.com/book/show/18160    "The Art of Deception"
+[the-atrocity-archives]: https://www.goodreads.com/book/show/101869   "The Atrocity Archives"
