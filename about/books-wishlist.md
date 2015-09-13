@@ -26,6 +26,7 @@ Fiction
 *   [*Brave New World*](https://openlibrary.org/books/OL25434316M/), Aldous Huxley
 *   *Catch-22*, Joseph Heller
 *   [*Contact*](https://openlibrary.org/works/OL2950953W/), Carl Sagan
+*   [*Cryptonomicon*][cryptonomicon], Neal Stephenson
 *   *Do Androids Dream of Electric Sheep?*, Philip K. Dick
 *   [*Foundation*](https://openlibrary.org/works/OL46125W/), Isaak Asimov
 *   [*I, Robot*](https://openlibrary.org/works/OL46404W/), Isaak Asimov
@@ -39,7 +40,6 @@ Fiction
 *   [*The City & The City*](https://openlibrary.org/works/OL14990802W/), China Mielville
 *   [*The cuckoo's egg*](https://openlibrary.org/works/OL3741565W/), Clifford Stoll
 *   *The Goal*, Eliyahu M. Goldratt
-*   [*The hitchhiker's guide to the galaxy*](https://openlibrary.org/works/OL2163721W/), Douglas Adams
 *   *The Phoenix Project*, Gene Kim, Kevin Behr and George Spafford
 *   [*The road ahead*](https://openlibrary.org/works/OL53676W/), Bill Gates (Note: not decided which edition yet, preferably both)
 *   *The time machine*, H.G. Wells
@@ -100,18 +100,21 @@ Ex-Wishlist
 -----------
 
 These are ex-members of this wishlist, i.e. books that I eventually 
-obtained.
+obtained:
 
 *   [*2001: A Space Odyssey*](https://openlibrary.org/works/OL17365W/), Arthur Clarke
 *   [*Atlas Shrugged*](https://openlibrary.org/works/OL731735W/), Ayn Rand
+*   [*The hitchhiker's guide to the galaxy*][hitchhikers-guide], Douglas Adams
 *   [*The Practice of System and Network Administration*](https://openlibrary.org/works/OL12272525W/), Thomas Limoncelli, Christina Hogan, Strata Chalup
 
 <!-- Links -->
 [battle-of-wits]:        https://www.goodreads.com/book/show/171202   "Battle of Wits"
 [countdown-to-zero-day]: https://www.goodreads.com/book/show/18465875 "Countdown to Zero Day"
+[cryptonomicon]:         https://www.goodreads.com/book/show/816      "Cryptonomicon"
 [data-and-goliath]:      https://www.goodreads.com/book/show/22253747 "Data and Goliath"
 [future-crimes]:         https://www.goodreads.com/book/show/22318398 "Future Crimes"
 [ghost-in-the-wires]:    https://www.goodreads.com/book/show/10256723 "Ghost in the Wires"
+[hitchhikers-guide]:     https://www.goodreads.com/book/show/11       "The Hitchhiker's Guide to the Galaxy"
 [secrets-and-lies]:      https://www.goodreads.com/book/show/304482   "Secrets and Lies"
 [spam-nation]:           https://www.goodreads.com/book/show/18509663 "Spam Nation"
 [the-art-of-deception]:  https://www.goodreads.com/book/show/18160    "The Art of Deception"
