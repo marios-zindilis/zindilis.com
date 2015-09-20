@@ -6,7 +6,7 @@ Description: A beginner level guide to installing Python
 <ol class="breadcrumb">
   <li><a href="/">Home</a></li>
   <li><a href="/docs/">Docs</a></li>
-  <li><a href="/docs/a-python-2-tutorial-for-beginners/">A Python Tutorial for Beginners</a></li>
+  <li><a href="/docs/a-python-2-tutorial-for-beginners/">A Python 2 Tutorial for Beginners</a></li>
   <li><a href="/docs/a-python-2-tutorial-for-beginners/installing-python/">Installing Python</a></li>
 </ol>
 
@@ -97,6 +97,18 @@ prompts.
 After installing you will need to add the installation path to the `PATH` 
 system variable if you wish to use it from the command prompt instead of the 
 IDLE editor.
+
+<ul class='pager'>
+  <li class='previous'>
+    <a href='/docs/a-python-2-tutorial-for-beginners/'>
+      &larr; Previous: Table of Contents</a>
+  </li>
+  <li class='next'>
+    <a href='/docs/a-python-2-tutorial-for-beginners/very-simple-programs/'>
+      Next: Very Simple Programs &rarr;
+    </a>
+  </li>
+</ul>
 
 <!-- Links -->
 [1]: https://en.wikipedia.org/wiki/interpreted_programming_language "Interpreted Programming Language"
