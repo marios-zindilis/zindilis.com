@@ -17,7 +17,7 @@ Last Updated: 2014-07-05
 Preface
 =======
 
-Python is probably one of the few programming languages that are both simple 
+**Python** is probably one of a few programming languages that are both simple 
 and powerful. This is good for both beginners as well as experts, and more 
 importantly, it is fun to program with. This book aims to help you learn this 
 wonderful language and show you how to get things done quickly and painlessly. 
