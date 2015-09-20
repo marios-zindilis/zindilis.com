@@ -35,12 +35,17 @@ after `print` but in Python 3.0 they are required.
 
 #### Code Example 1: Hello, World! ####
 ```python
->>> print ("Hello, World!")
+&gt;&gt;&gt; print ("Hello, World!")
 ```
-<!--
-What happened? You just created a program, that prints the words 'Hello, world'. The IDLE environment that you are in immediately compiles whatever you have typed in. This is useful for testing things, e.g., defining a few variables, and then testing to see if a certain line will work. That will come in a later lesson though.
 
-== Math in Python ==
+What happened? You just created a program, that prints the words 'Hello, 
+World!'. The IDLE environment that you are in immediately compiles whatever you 
+have typed in. This is useful for testing things, e.g., defining a few 
+variables, and then testing to see if a certain line will work. That will come 
+in a later lesson though.
+<!--
+Math in Python
+--------------
 
 Now try the following examples. I've given explanations in parentheses.
 
