@@ -6,7 +6,7 @@ Description: A beginner level tutorial for programming in Python 2
 <ol class="breadcrumb">
   <li><a href="/">Home</a></li>
   <li><a href="/docs/">Docs</a></li>
-  <li><a href="/docs/a-python-tutorial-for-beginners/">A Python 2 Tutorial for Beginners</a></li>
+  <li><a href="/docs/a-python-2-tutorial-for-beginners/">A Python 2 Tutorial for Beginners</a></li>
 </ol>
 
 A Python 2 Tutorial for Beginners
@@ -24,6 +24,7 @@ Table of Contents
 -----------------
 
 1.  [Installing Python][1]
+2.  [Very Simple Programs][2]
 
 <ul class='pager'>
   <li class='next'>
@@ -34,3 +35,4 @@ Table of Contents
 <!-- Links -->
 [CC-BY-SA]: https://creativecommons.org/licenses/by-sa/3.0/ "Creative Commons Attribution-ShareAlike 3.0 Unported"
 [1]: /docs/a-python-2-tutorial-for-beginners/installing-python/ "Installing Python"
+[2]: /docs/a-python-2-tutorial-for-beginners/very-simple-programs/ "Very Simple Programs"
