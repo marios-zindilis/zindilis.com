@@ -33,4 +33,4 @@ Table of Contents
 
 <!-- Links -->
 [CC-BY-SA]: https://creativecommons.org/licenses/by-sa/3.0/ "Creative Commons Attribution-ShareAlike 3.0 Unported"
-[1]: /docs/a-python-tutorial-for-beginners/installing-python/ "Installing Python"
+[1]: /docs/a-python-2-tutorial-for-beginners/installing-python/ "Installing Python"
