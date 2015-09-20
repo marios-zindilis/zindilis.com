@@ -6,8 +6,8 @@ Description: A beginner level guide to installing Python
 <ol class="breadcrumb">
   <li><a href="/">Home</a></li>
   <li><a href="/docs/">Docs</a></li>
-  <li><a href="/docs/a-python-tutorial-for-beginners/">A Python Tutorial for Beginners</a></li>
-  <li><a href="/docs/a-python-tutorial-for-beginners/installing-python/">Installing Python</a></li>
+  <li><a href="/docs/a-python-2-tutorial-for-beginners/">A Python Tutorial for Beginners</a></li>
+  <li><a href="/docs/a-python-2-tutorial-for-beginners/installing-python/">Installing Python</a></li>
 </ol>
 
 Installing Python
