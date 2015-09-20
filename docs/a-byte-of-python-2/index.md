@@ -18,8 +18,8 @@ A Byte of Python 2
 ==================
 
 This book on Python 2 was first written by [Swaroop C H](http://swaroopch.com/) 
-in 2003, and was initially just titled *A Byte of Python*. However, since the 
-author then wrote another book with the same title, for Python 3, it's worth 
+in 2003, and it was initially just titled *A Byte of Python*. However, since 
+the author then wrote another book with the same title for Python 3, it's worth 
 separating the two by appending Python's version number in the end.
 
 The book is copyrighted by its original author, 
@@ -237,3 +237,5 @@ Table of Contents
         <a href='/docs/a-byte-of-python-2/preface/'>Next: Who This Book is For &rarr;</a>
     <li>
 </ul>
+
+<!-- Links -->
