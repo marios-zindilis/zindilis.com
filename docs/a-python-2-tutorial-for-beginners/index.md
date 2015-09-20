@@ -1,16 +1,16 @@
 <!-- -
-Title: A Python Tutorial for Beginners
-Description: A beginner level tutorial for programming in Python
+Title: A Python 2 Tutorial for Beginners
+Description: A beginner level tutorial for programming in Python 2
 - -->
 
 <ol class="breadcrumb">
   <li><a href="/">Home</a></li>
   <li><a href="/docs/">Docs</a></li>
-  <li><a href="/docs/a-python-tutorial-for-beginners/">A Python Tutorial for Beginners</a></li>
+  <li><a href="/docs/a-python-tutorial-for-beginners/">A Python 2 Tutorial for Beginners</a></li>
 </ol>
 
-A Python Tutorial for Beginners
-===============================
+A Python 2 Tutorial for Beginners
+=================================
 
 This short book is a mirror of *A Beginner's Python Tutorial* that is published 
 on Wikibooks under the [Creative Commons Attribution ShareAlike][CC-BY-SA] 
@@ -27,7 +27,7 @@ Table of Contents
 
 <ul class='pager'>
   <li class='next'>
-    <a href='/docs/python-tutorial-for-beginners/installing-python/'>Next: Installing Python &rarr;</a>
+    <a href='/docs/a-python-2-tutorial-for-beginners/installing-python/'>Next: Installing Python &rarr;</a>
   <li>
 </ul>
 
