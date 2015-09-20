@@ -17,13 +17,14 @@ Last Updated: 2014-07-05
 A Byte of Python 2
 ==================
 
-This book on Python 2 was first written by [Swaroop C H](http://swaroopch.com/) 
+This book on Python 2 was first written by 
+[Swaroop C H](http://www.swaroopch.com/) 
 in 2003, and it was initially just titled *A Byte of Python*. However, since 
 the author then wrote another book with the same title for Python 3, it's worth 
 separating the two by appending Python's version number in the end.
 
 The book is copyrighted by its original author, 
-[Swaroop C H](http://swaroopch.com/) and is released under the 
+[Swaroop C H](http://www.swaroopch.com/) and is released under the 
 [Creative Commons Attribution-NonCommercial-ShareAlike License 2.0](http://creativecommons.org/licenses/by-nc-sa/2.0/). 
 
 Abstract
