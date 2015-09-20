@@ -29,11 +29,11 @@ is the place you will be spending most time in. Here you can open a new window
 to write a program, or you can simply mess around with single lines of code, 
 which is what we are going to do. 
 
-Type the following and press <kbd>Enter</kdb>. Don't type the `>>>` part, as it 
+Type the following and press <kbd>Enter</kbd>. Don't type the `>>>` part, as it 
 will already be there. Also note that in Python 2 the parentheses are optional 
 after `print` but in Python 3.0 they are required.
 
-#### Code Example 1: Hello, World!
+#### Code Example 1: Hello, World! ####
 ```python
 >>> print ("Hello, World!")
 ```
