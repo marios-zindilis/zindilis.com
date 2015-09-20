@@ -34,6 +34,7 @@ will already be there. Also note that in Python 2 the parentheses are optional
 after `print` but in Python 3.0 they are required.
 
 #### Code Example 1: Hello, World! ####
+
 ```python
 &gt;&gt;&gt; print ("Hello, World!")
 ```
@@ -43,8 +44,8 @@ World!'. The IDLE environment that you are in immediately compiles whatever you
 have typed in. This is useful for testing things, e.g., defining a few 
 variables, and then testing to see if a certain line will work. That will come 
 in a later lesson though.
-<!--
-Math in Python
+
+<!-- Math in Python
 --------------
 
 Now try the following examples. I've given explanations in parentheses.
