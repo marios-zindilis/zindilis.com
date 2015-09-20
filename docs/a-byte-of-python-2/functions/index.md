@@ -160,7 +160,7 @@ function. So, when we change the value of `x` in the function, the `x`
 defined in the main block remains unaffected.
 
 In the last `print` statement, we confirm that the value of `x` in the 
-main block is actually unaffected. 			
+main block is actually unaffected.
 
 Using the global statement
 --------------------------
