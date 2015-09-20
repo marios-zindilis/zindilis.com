@@ -3,6 +3,12 @@ Title: A Python Tutorial for Beginners
 Description: A beginner level tutorial for programming in Python
 - -->
 
+<ol class="breadcrumb">
+  <li><a href="/">Home</a></li>
+  <li><a href="/docs/">Docs</a></li>
+  <li><a href="/docs/a-python-tutorial-for-beginners/">A Python Tutorial for Beginners</a></li>
+</ol>
+
 A Python Tutorial for Beginners
 ===============================
 
@@ -19,6 +25,12 @@ Table of Contents
 
 1.  [Installing Python][1]
 
+<ul class='pager'>
+  <li class='next'>
+    <a href='/docs/python-tutorial-for-beginners/installing-python/'>Next: Installing Python &rarr;</a>
+  <li>
+</ul>
+
 <!-- Links -->
 [CC-BY-SA]: https://creativecommons.org/licenses/by-sa/3.0/ "Creative Commons Attribution-ShareAlike 3.0 Unported"
-[1]: /docs/a-python-tutorial-for-beginners/installing-python/
+[1]: /docs/a-python-tutorial-for-beginners/installing-python/ "Installing Python"
