@@ -106,6 +106,24 @@ As you can see, there is a comment that explains the code that follows it, then
 there is the code, and finally the result of that code. These are the basic 
 commands of Python, and what they do. Here is a table to clarify them:
 
+<table class='table'>
+  <thead>
+    <tr>
+      <th>Command</th>
+      <th>Name</th>
+      <th>Example</th>
+      <th>Output</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>+</td>
+      <td>Addition</td>
+      <td><code>4 + 5</code></td>
+      <td><code>9</code></td>
+    </tr>
+  </tbody>
+</table>
 <!--
 
 {| width=40% border=1
