@@ -134,93 +134,124 @@ commands of Python, and what they do. Here is a table to clarify them:
       <td><code>4 * 5</code></td>
       <td><code>20</code></td>
     </tr>
+    <tr>
+      <td>/</td>
+      <td>Division</td>
+      <td><code>19 / 3</code></td>
+      <td><code>6</code></td>
+    </tr>
+    <tr>
+      <td>%</td>
+      <td>Modulo</td>
+      <td><code>19 % 3</code></td>
+      <td><code>1</code></td>
+    </tr>
+    <tr>
+      <td>**</tr>
+      <td>Exponent</td>
+      <td><code>2 ** 4</code></td>
+      <td><code>14</code></td>
+    </tr>
   </tbody>
 </table>
-<!--
 
-|/
-|Division
-|19 / 3
-|6
-|-
-|%
-|Remainder ([[w:modulous|modulo]])
-|19 % 3
-|1
-|-
-|**
-|Exponent
-|2 ** 4
-|16
-|}
+Remember that thing called **order of operations** that they taught in maths? 
+Well, it applies in Python, too. Here it is, if you need reminding:
 
-Remember that thing called [[w:order of operations|order of operations]] that they taught in maths? Well, it applies in Python, too. Here it is, if you need reminding:
+1.  parentheses ()
+2.  exponents **
+3.  multiplication *, division /, and remainder %
+4.  addition + and subtraction -
 
-# parentheses ()
-# exponents **
-# multiplication *, division /, and remainder %
-# addition + and subtraction -
-
-== Order of Operations ==
+Order of Operations
+-------------------
 
 Here are some examples that you might want to try, if you're rusty on this:
 
-;Code Example 3 – Order of operations
-<pre lang="python">
->>> 1 + 2 * 3
+#### Code Example 3: Order of operations ####
+
+```python
+&gt;&gt;&gt; 1 + 2 * 3
 7
->>> (1 + 2) * 3
+&gt;&gt;&gt; (1 + 2) * 3
 9
-</pre>
+```
 
-In the first example, the computer calculates 2 * 3 first, then adds 1 to it. This is because multiplication has the higher priority (at 3) and addition is below that (at a lowly 4).
+In the first example, the computer calculates <code>2 * 3</code> first, then 
+adds <code>1</code> to it. This is because multiplication has the higher 
+priority (at 3) and addition is below that (at a lowly 4).
 
-In the second example, the computer calculates 1 + 2 first, then multiplies it by 3. This is because parentheses (brackets, like the ones that are surrounding this interluding text ;) ) have the higher priority (at 1), and addition comes in later than that.
+In the second example, the computer calculates <code>1 + 2</code> first, then 
+multiplies it by 3. This is because parentheses (brackets, like the ones that 
+are surrounding this interluding text) have the higher priority (at 1), and 
+addition comes in later than that.
 
-Also remember that the math is calculated from left to right, ''unless'' you put in parentheses. The innermost parentheses are calculated first. Watch these examples:
+Also remember that the math is calculated from left to right, *unless* you put 
+in parentheses. The innermost parentheses are calculated first. Watch these 
+examples:
 
-;Code Example 4 – Parentheses
-<pre lang="python">
->>> 4 - 40 - 3
+#### Code Example 4: Parentheses ####
+
+```python
+&gt;&gt;&gt; 4 - 40 - 3
 -39
->>> 4 - (40 - 3)
+&gt;&gt;&gt; 4 - (40 - 3)
 -33
-</pre>
+```
 
-In the first example, 4 - 40 is calculated,then - 3 is done.
+In the first example, <code>4 - 40</code> is calculated,then <code>- 3</code> 
+is done.
 
-In the second example, 40 - 3 is calculated, then it is subtracted from 4.
+In the second example, <code>40 - 3</code> is calculated, then it is subtracted 
+from <code>4</code>.
 
-== Comments, Please ==
+Comments, Please
+----------------
 
-The final thing you'll need to know to move on to multi-line programs is the [[w:comment (computer programming)|comment]]. You should always add comments to code to show others who might be reading your code what you've done and why. Type the following (and yes, the output is shown):
+The final thing you'll need to know to move on to multi-line programs is the 
+**comment**. You should always add comments to code to show others who might be 
+reading your code what you've done and why. Type the following (and yes, the 
+output is shown):
 
-;Code Example 5 – Comments
-<pre lang="python">
->>> #I am a comment. Fear my wrath!
+#### Code Example 5: Comments ####
 
->>>
-</pre>
+```python
+&gt;&gt;&gt; #I am a comment. Fear my wrath!
 
-A comment is a piece of code that is not run. In Python, you make something a comment by putting a hash (#) in front of it. A hash comments everything after it in the line, and nothing before it. So you could type this:
+&gt;&gt;&gt;
+```
 
-;Code Example 6 – Comment examples
-<pre>
->>> print ("food is very nice") #eat me
+A comment is a piece of code that is not run. In Python, you make something a 
+comment by putting a hash (<code>#</code>) in front of it. A hash comments 
+everything after it in the line, and nothing before it. So you could type this:
+
+#### Code Example 6: Comment examples ####
+
+```python
+&gt;&gt;&gt; print ("food is very nice") #eat me
 food is very nice
-(A normal output, without the smutty comment,
-thank you very much)
+```
 
->>># print "food is very nice"
+&hellip;then you only get the output of <code>print</code>, without the 
+comment. However when you type the following:
 
-(Nothing happens, because the code was after a comment)
+```python
+&gt;&gt;&gt; # print "food is very nice"
+```
 
->>> print "food is very nice" eat me
+&hellip;then nothing happens, because the code was after a comment. Finally, 
+if you run the following:
 
-(You'll get a fairly harmless error message,
-because you didn't put your comment after a hash)
-</pre>
 
-Comments are important for adding necessary information for another programmer to read, but not the computer; for example, an explanation of a section of code, saying what it does, or what is wrong with it. You can also comment out bits of code if you don't want them to compile, but can't delete them because you might need them later.
+```python
+&gt;&gt;&gt; print "food is very nice" eat me
+```
 
--->
+&hellip;then you'll get a fairly harmless error message, because you didn't put 
+your comment after a hash.
+
+Comments are important for adding necessary information for another programmer 
+to read, but not the computer; for example, an explanation of a section of 
+code, saying what it does, or what is wrong with it. You can also comment out 
+bits of code if you don't want them to compile, but can't delete them because 
+you might need them later.
