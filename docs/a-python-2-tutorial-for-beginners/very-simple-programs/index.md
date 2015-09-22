@@ -45,66 +45,68 @@ have typed in. This is useful for testing things, e.g., defining a few
 variables, and then testing to see if a certain line will work. That will come 
 in a later lesson though.
 
-<!-- Math in Python
+Math in Python
 --------------
 
-Now try the following examples. I've given explanations in parentheses.
+Now try the following examples. The lines that start with `#` are comments, and 
+they are used to explain the code that follows them.
 
-;Code Example 2 – Maths
-<pre>
->>> 1 + 1
+#### Code Example 2: Math ####
+
+```python
+&gt;&gt;&gt; # These are additions:
+&gt;&gt;&gt; 1 + 1
 2
-
->>> 20 + 80
+&gt;&gt;&gt; 20 + 80
 100
-
->>> 18294 + 449566
+&gt;&gt;&gt; 18294 + 449566
 467860
-(These are additions.)
-
->>> 6 - 5
+&gt;&gt;&gt;
+&gt;&gt;&gt; # This is a subtraction:
+&gt;&gt;&gt; 6 - 5
 1
-(Subtraction)
-
->>> 2 * 5
+&gt;&gt;&gt;
+&gt;&gt;&gt; # A multiplication:
+&gt;&gt;&gt; 2 * 5
 10
-(Multiplication)
-
->>> 5 ** 2
+&gt;&gt;&gt;
+&gt;&gt;&gt; # An exponential, this is 5 squared:
+&gt;&gt;&gt; 5 ** 2
 25
-(Exponentials; e.g., this one is 5 squared)
-
->>> print ("1 + 2 is an addition")
+&gt;&gt;&gt; # A print statement, that writes something onscreen. Notice that 
+&gt;&gt;&gt; # 1 + 2 is not evaluated:
+&gt;&gt;&gt; print ("1 + 2 is an addition")
 1 + 2 is an addition
-(The print statement, which writes something onscreen. Notice that 1 + 2 is left unevaluated.)
-
->>> print ("One kilobyte is 2^10 bytes, or", 2 ** 10, "bytes.")
+&gt;&gt;&gt;
+&gt;&gt;&gt; # You can print sums and variables in a sentence. The commas 
+&gt;&gt;&gt; # separating each section are a way of	separating clearly 
+&gt;&gt;&gt; # different things that you are printing:
+&gt;&gt;&gt; print ("One kilobyte is 2^10 bytes, or", 2 ** 10, "bytes.")
 One kilobyte is 2^10 bytes, or 1024 bytes.
-(You can print sums and variables in a sentence.
-	The commas separating each section are a way of
-	separating clearly different things that you are printing.)
-
->>> 21 / 3
+&gt;&gt;&gt;
+&gt;&gt;&gt; # Note how Python ignores remainders/decimals in divisions:
+&gt;&gt;&gt; 21 / 3
 7
-
->>> 23 / 3
+&gt;&gt;&gt; 23 / 3
 7
-(Division; note that Python ignores remainders/decimals.)
-
->>> 23.0 / 3.0
+&gt;&gt;&gt;
+&gt;&gt;&gt; # This time, since the numbers are decimals themselves, the answer
+&gt;&gt;&gt; # will be a decimal:
+&gt;&gt;&gt; 23.0 / 3.0
 7.666666666666667
-(This time, since the numbers are decimals themselves, the answer
-	will be a decimal.)
-
->>> 23 % 3
+&gt;&gt;&gt;
+&gt;&gt;&gt; # The remainder from a division:
+&gt;&gt;&gt; 23 % 3
 2
-
->>> 49 % 10
+&gt;&gt;&gt; 49 % 10
 9
-(The remainder from a division)
-</pre>
+```
 
-As you see, there is the code, then the result of that code. I then explain them in brackets. These are the basic commands of Python, and what they do. Here is a table to clarify them.
+As you can see, there is a comment that explains the code that follows it, then 
+there is the code, and finally the result of that code. These are the basic 
+commands of Python, and what they do. Here is a table to clarify them:
+
+<!--
 
 {| width=40% border=1
   |+ Table 1 – Python operators
