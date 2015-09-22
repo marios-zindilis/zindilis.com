@@ -122,33 +122,22 @@ commands of Python, and what they do. Here is a table to clarify them:
       <td><code>4 + 5</code></td>
       <td><code>9</code></td>
     </tr>
+    <tr>
+      <td>-</td>
+      <td>Subtraction</td>
+      <td><code>8 - 5</code></td>
+      <td><code>3</code></td>
+    </tr>
+    <tr>
+      <td>*</td>
+      <td>Multiplication</td>
+      <td><code>4 * 5</code></td>
+      <td><code>20</code></td>
+    </tr>
   </tbody>
 </table>
 <!--
 
-{| width=40% border=1
-  |+ Table 1 – Python operators
-|-
-  ! Command
-  ! Name
-  ! Example
-  ! Output
-|-
-|<nowiki>+</nowiki>
-|Addition
-|4 + 5
-|9
-|-
-|<nowiki>-</nowiki>
-|Subtraction
-|8 - 5
-|3
-|-
-|*
-|Multiplication
-|4 * 5
-|20
-|-
 |/
 |Division
 |19 / 3
