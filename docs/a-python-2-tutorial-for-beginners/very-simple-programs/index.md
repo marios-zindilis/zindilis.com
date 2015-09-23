@@ -255,3 +255,15 @@ to read, but not the computer; for example, an explanation of a section of
 code, saying what it does, or what is wrong with it. You can also comment out 
 bits of code if you don't want them to compile, but can't delete them because 
 you might need them later.
+
+<ul class='pager'>
+  <li class='previous'>
+    <a href='/docs/a-python-2-tutorial-for-beginners/installing-python/'>
+      &larr; Previous: Installing Python</a>
+  </li>
+  <li class='next'>
+    <a href='/docs/a-python-2-tutorial-for-beginners/very-simple-programs/'>
+      Next: Variables and Scripts &rarr;
+    </a>
+  </li>
+</ul>
