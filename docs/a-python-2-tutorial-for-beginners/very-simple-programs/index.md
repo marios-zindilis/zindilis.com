@@ -147,7 +147,7 @@ commands of Python, and what they do. Here is a table to clarify them:
       <td><code>1</code></td>
     </tr>
     <tr>
-      <td>**</tr>
+      <td>**</td>
       <td>Exponent</td>
       <td><code>2 ** 4</code></td>
       <td><code>14</code></td>
