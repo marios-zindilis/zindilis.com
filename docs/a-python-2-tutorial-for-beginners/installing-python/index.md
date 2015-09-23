@@ -1,6 +1,10 @@
 <!-- -
 Title: Installing Python
 Description: A beginner level guide to installing Python
+Prev Title: Table of Contents
+Prev URL: /docs/a-python-2-tutorial-for-beginners/
+Next Title: Very Simple Programs
+Next URL: /docs/a-python-2-tutorial-for-beginners/very-simple-programs/
 - -->
 
 <ol class="breadcrumb">
