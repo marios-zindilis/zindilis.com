@@ -262,7 +262,7 @@ you might need them later.
       &larr; Previous: Installing Python</a>
   </li>
   <li class='next'>
-    <a href='/docs/a-python-2-tutorial-for-beginners/very-simple-programs/'>
+    <a href='/docs/a-python-2-tutorial-for-beginners/variables-and-scripts/'>
       Next: Variables and Scripts &rarr;
     </a>
   </li>
