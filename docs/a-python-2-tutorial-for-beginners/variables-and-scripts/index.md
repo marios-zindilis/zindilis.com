@@ -51,7 +51,7 @@ and everywhere that Mary went her lamb was sure to go.
 ```
 
 You can also use IDLE to create Python programs, like what you did in Notepad. 
-Simply click 'File > New'. We will be writing all of our programs now in the 
+Simply click 'File &gt; New'. We will be writing all of our programs now in the 
 Python IDLE program - the Notepad thing is just a demonstration to tell you 
 that a `.py` file is just a simple text file, which anyone can see.
 
