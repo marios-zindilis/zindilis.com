@@ -28,6 +28,7 @@ Knowledge & Practice
 *   [Penetration Testing Practice Labs, Vulnerable Apps and Systems][6]
 *   [Wargames][7]
 *   [InfosecLabs](http://www.thehonz.com/infoseclabs/)
+*   [PenTester Lab](https://pentesterlab.com/)
 
 Security Job Boards
 -------------------
