@@ -25,6 +25,7 @@ Table of Contents
 
 1.  [Installing Python][1]
 2.  [Very Simple Programs][2]
+3.  [Variables and Scripts][3]
 
 <ul class='pager'>
   <li class='next'>
@@ -36,3 +37,4 @@ Table of Contents
 [CC-BY-SA]: https://creativecommons.org/licenses/by-sa/3.0/ "Creative Commons Attribution-ShareAlike 3.0 Unported"
 [1]: /docs/a-python-2-tutorial-for-beginners/installing-python/ "Installing Python"
 [2]: /docs/a-python-2-tutorial-for-beginners/very-simple-programs/ "Very Simple Programs"
+[3]: /docs/a-python-2-tutorial-for-beginners/variables-and-scripts/ "Variables and Scripts"
