@@ -8,7 +8,7 @@ Webinar recording from Imperva
 ==============================
 
 This is a recording of a webinar that I watched this week, titled 
-*"Balancing Ecommerce Security with Performance"*. The talks refer to two 
+*"Balancing Ecommerce Security with Performance"*. The talks refer to 
 companies Imperva, American Eagle and Incapsula, and there is some product 
 plugging going on during the talks, however there is a some amount of 
 introductory web application security information.
