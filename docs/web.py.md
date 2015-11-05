@@ -24,7 +24,7 @@ sudo reboot
 After the reboot:
 
 ```bash
-sudo apt-get install --yes apache2
+sudo apt-get install --yes apache2 libapache2-mod-wsgi
 sudo apt-get install --yes git
 sudo mkdir /opt/web.py
 sudo chown `whoami`:`whoami` /opt/web.py
