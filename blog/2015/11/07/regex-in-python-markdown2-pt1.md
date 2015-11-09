@@ -4,7 +4,7 @@ Description: Study of the regular expressions used in python-markdown2 library
 First Published: 2015-11-07
 - -->
 
-Regular Expressions in python-markdown2 (part 1)
+Regular expressions in python-markdown2 (part 1)
 ================================================
 
 This article is a look into one of the regular expressions used in the 
@@ -21,10 +21,11 @@ This regular expression appears very early in the conversion process:
 text = re.sub("\r\n|\r", "\n", text)
 ```
 
-Its use is fairly obvious, it changes all single carriage returns (`\r`) and 
+Its use is fairly obvious: it changes all single carriage returns (`\r`) and 
 all carriage returns followed by a newline (`\r\n`) to single newlines (`\n`).
 The same effect can be achieved in Python with two `str.replace()` statements 
-and in fact that would be much faster. For example:
+and in fact that would be much faster. The following example uses `timeit`, 
+which comes with the IPython shell:
 
 ```python
 %timeit 'Apples\r\nOranges\r\nKiwis\rGrapes\r'.replace('\r\n', '\n')
@@ -61,22 +62,3 @@ answer is: Go with `str.replace()`. For the rest of us it's still 42.
 
 <!-- Links -->
 [python-markdown2]: https://github.com/trentm/python-markdown2 "python-markdown2 on Github"
-
-<div id="disqus_thread"></div>
-<script>
-
-var disqus_config = function () {
-this.page.url = 'https://zindilis.com/blog/2015/11/07/regex-in-python-markdown2-pt1.html'; // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = '/blog/2015/11/07/regex-in-python-markdown2-pt1.html'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-
-s.src = '//marios-zindilis.disqus.com/embed.js';
-
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
