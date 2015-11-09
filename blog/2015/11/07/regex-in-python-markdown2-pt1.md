@@ -61,3 +61,22 @@ answer is: Go with `str.replace()`. For the rest of us it's still 42.
 
 <!-- Links -->
 [python-markdown2]: https://github.com/trentm/python-markdown2 "python-markdown2 on Github"
+
+<div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+this.page.url = 'https://zindilis.com/blog/2015/11/07/regex-in-python-markdown2-pt1.html'; // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = '/blog/2015/11/07/regex-in-python-markdown2-pt1.html'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//marios-zindilis.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
