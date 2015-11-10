@@ -70,7 +70,7 @@ recycled a few hundreds of books.
 
 *   [LinkedIn][profile-linkedin]
 *   [Facebook][profile-facebook]
-*   Greek and English WikiPedia contributor.
+*   Greek and [English WikiPedia][english-wikipedia] contributor.
 *   GNOME and Ubuntu Translator.
 *   Flickr
 
@@ -125,3 +125,4 @@ this website are released under the Creative Commons Attribution-ShareAlike
 [vinyl-collection]: /about/vinyl-collection.html "My collection of vinyl records"
 [profile-linkedin]: https://ie.linkedin.com/in/zindilis "Marios Zindilis LinkedIn Profile"
 [profile-facebook]: https://www.facebook.com/zindilis "Marios Zindilis Facebook Profile"
+[english-wikipedia]: https://en.wikipedia.org/wiki/Special:Contributions/Marios_Zindilis "Marios Zindilis contributions on English Wikipedia"
