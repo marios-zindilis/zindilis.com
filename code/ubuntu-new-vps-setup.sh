@@ -44,7 +44,6 @@ sudo service iptables save
 ################################################################################
 sudo apt-get install fail2ban
 sudo cp /etc/fail2ban/jail.conf /etc/fail2ban/jail.local
-frumpalla
 
 ################################################################################
 
