@@ -20,6 +20,8 @@ Scanning Tools
     SMB/CIFS Shares.
 *   [SoftPerfect NetworkScanner](https://www.softperfect.com/products/networkscanner/) for 
     IP reachability and a handful of well-known ports.
+*   Search engines: [shodan.io](https://www.shodan.io/), [scans.io](https://scans.io/), 
+    [censys.io](https://www.censys.io/).
 
 Knowledge & Practice
 --------------------
@@ -29,6 +31,8 @@ Knowledge & Practice
 *   [Wargames][7]
 *   [InfosecLabs](http://www.thehonz.com/infoseclabs/)
 *   [PenTester Lab](https://pentesterlab.com/)
+*   [demo.testfire.net](http://demo.testfire.net/) is a web application that 
+    is intentionally vulnerable to SQLi on the login form.
 
 Security Job Boards
 -------------------
@@ -46,6 +50,7 @@ Certifications
 --------------
 
 *   [Non Vendor-Specific Information Security Certifications][5]
+*   [10 Security Certifications To Boost Your Career][8]
 
 <!-- Links -->
 [1]: http://www.tripwire.com/state-of-security/off-topic/the-top-10-highest-paying-jobs-in-information-security-part-1/
@@ -55,3 +60,4 @@ Certifications
 [5]: https://www.concise-courses.com/security/certifications-industry-list/
 [6]: http://www.amanhardikar.com/mindmaps/Practice.html
 [7]: http://overthewire.org/wargames/
+[8]: http://www.darkreading.com/risk/10-security-certifications-to-boost-your-career/d/d-id/1322449?_mc=RSS_DR_EDT
