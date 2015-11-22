@@ -1,6 +1,7 @@
 <!-- -
 Title: A Python 2 Tutorial for Beginners
 Description: A beginner level tutorial for programming in Python 2
+First Published: 2015-10-03
 - -->
 
 <ol class="breadcrumb">
