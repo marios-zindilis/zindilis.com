@@ -2,6 +2,7 @@
 Title: Regular expressions in python-markdown2 (part 2)
 Description: Study of the regular expressions used in python-markdown2 library
 First Published: 2015-11-22
+Last Updated: 2015-11-30
 - -->
 
 Regular expressions in python-markdown2 (part 2)
@@ -100,7 +101,7 @@ def _detab_no_re(text):
     if not '\t' in text:
         return text
     output = []
-    for line in text.split('\n'):
+    for line in text.splitlines():
         output.append(_detab_no_re_sub(line))
     return '\n'.join(output)
 ```
@@ -110,7 +111,7 @@ def _detab_no_re(text):
 In the [previous article on regular expressions in python-markdown2][prev] I 
 dismissed the difference between a substring substitution with `re.sub()` 
 versus `str.replace()` as being negligible, but in this case it seems that it 
-is more substantial. A simple example does already indicates some difference:
+is more substantial. This simple example already indicates some difference:
 
 ```python
 text = '''
