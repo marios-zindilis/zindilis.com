@@ -7,10 +7,11 @@ First Published: 2015-10-25
 Notes and links from PyCon 2015
 ===============================
 
-These are random links and notes from PyCon 2015, which took place in Dublin in 
-October 2015. There were two tracks of talks and two tracks of workshops. One 
-of the non-workshop tracks was almost dedicated to data processing with Python, 
-and the other had various subjects. I followed the latter track.
+These are a couple of random links from things mentioned in talks during PyCon 
+2015, which took place in Dublin in October 2015. There were two tracks of 
+talks and two tracks of workshops. One of the non-workshop tracks was almost 
+dedicated to data processing with Python, and the other had various subjects. 
+I followed the latter track.
 
 [PyCon 2015][pycon-2015] was organized by [Python Ireland][python-ireland], and 
 took place on the 24<sup>th</sup> and 25<sup>th</sup> of October 2015.
