@@ -48,6 +48,10 @@ else
         --jump          ACCEPT
     sudo iptables                           \
         --append        INPUT               \
+        --protocol      icmp                \
+        --jump          ACCEPT
+    sudo iptables                           \
+        --append        INPUT               \
         --match         state               \
         --state         NEW                 \
         --protocol      tcp                 \
