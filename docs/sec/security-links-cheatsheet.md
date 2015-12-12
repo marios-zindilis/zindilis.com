@@ -33,6 +33,11 @@ Knowledge & Practice
 *   [PenTester Lab](https://pentesterlab.com/)
 *   [demo.testfire.net](http://demo.testfire.net/) is a web application that 
     is intentionally vulnerable to SQLi on the login form.
+*   [The Matasano Crypto Challenges][]: a set of crypto challenges with 
+    solutions in mainstream programming languages.
+
+  [The Matasano Crypto Challenges]: http://cryptopals.com/
+    "The Matasano Crypto Challenges"
 
 Security Job Boards
 -------------------
