@@ -128,7 +128,7 @@ TCP Wrappers
 
 Snort
 -----
-# Network Design for SNORT
+* Network Design for SNORT
 
 Fail2Ban
 --------
