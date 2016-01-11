@@ -29,15 +29,22 @@ Knowledge & Practice
 *   [VulnHub](https://www.vulnhub.com/)
 *   [Penetration Testing Practice Labs, Vulnerable Apps and Systems][6]
 *   [Wargames][7]
+*   [CTF365][]
 *   [InfosecLabs](http://www.thehonz.com/infoseclabs/)
 *   [PenTester Lab](https://pentesterlab.com/)
 *   [demo.testfire.net](http://demo.testfire.net/) is a web application that 
     is intentionally vulnerable to SQLi on the login form.
 *   [The Matasano Crypto Challenges][]: a set of crypto challenges with 
     solutions in mainstream programming languages.
+*   [7 Free InfoSec Training Resources For IT Pros][]
+*   [Hack This Site][]
 
+  [CTF365]: https://www.ctf365.com/
   [The Matasano Crypto Challenges]: http://cryptopals.com/
     "The Matasano Crypto Challenges"
+  [7 Free InfoSec Training Resources For IT Pros]: http://www.tomsitpro.com/articles/free-infosec-training-for-it-pros,1-2707.html
+    "7 Free InfoSec Training Resources For IT Pros"
+  [Hack This Site]: https://www.hackthissite.org/
 
 Security Job Boards
 -------------------
