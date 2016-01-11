@@ -2,3 +2,5 @@
 *.swp
 # Ignore Gedit temporary files:
 *.md~
+# Ignore drafts:
+*-DRAFT.md
