@@ -2,6 +2,7 @@
 Title: Security Links Cheatsheet
 Description: A collection of random links related to information security
 First Published: 2015-09-20
+Last Updated: 2016-01-13
 - -->
 
 Security Links Cheatsheet
@@ -38,6 +39,8 @@ Knowledge & Practice
     solutions in mainstream programming languages.
 *   [7 Free InfoSec Training Resources For IT Pros][]
 *   [Hack This Site][]
+*   [OWASP WebGoat][]
+    [Damn Vulnerable Web Application][dvwa]
 
   [CTF365]: https://www.ctf365.com/
   [The Matasano Crypto Challenges]: http://cryptopals.com/
@@ -45,6 +48,8 @@ Knowledge & Practice
   [7 Free InfoSec Training Resources For IT Pros]: http://www.tomsitpro.com/articles/free-infosec-training-for-it-pros,1-2707.html
     "7 Free InfoSec Training Resources For IT Pros"
   [Hack This Site]: https://www.hackthissite.org/
+  [OWASP WebGoat]: https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project
+  [dvwa]: http://www.dvwa.co.uk/
 
 Security Job Boards
 -------------------
