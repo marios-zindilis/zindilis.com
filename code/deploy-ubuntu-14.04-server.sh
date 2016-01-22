@@ -1,6 +1,10 @@
-#!/bin/bash
+#!/bin/sh
 
-# This script prepares a newly spawned Ubuntu 14.04 VPS for usage.
+# This script prepares a freshly installed Ubuntu 14.04 system for usage as a
+# server in my network. Run as root, with:
+#
+#    wget https://zindilis.com/code/deploy-ubuntu-14.04-server.sh
+#    bash deploy-ubuntu-14.04-server.sh
 
 if [ $(id -u) -ne 0 ]
 then
@@ -8,62 +12,55 @@ then
     exit 1
 fi
 
-LOCKFILE=/root/bootstrap-system
+apt-get update;
+apt-get --yes upgrade;
+apt-get --yes dist-upgrade;
+apt-get --yes install vim git nmap whois screen python3-pip;
+timedatectl set-timezone Europe/Dublin
 
-if [ ! -f $LOCKFILE ]
+if [ $(grep marios /etc/passwd | wc -l) -eq 0 ]
 then
-    cd
-    touch $LOCKFILE
-    sudo apt-get update
-    sudo apt-get --yes upgrade
-    sudo apt-get --yes dist-upgrade
-    echo -n "Create new user: "
-    read user_name
-    adduser $user_name
-    echo "$user_name    ALL=(ALL:ALL) ALL" >> /etc/sudoers
-    echo -n "Set hostname: "
-    read host_name
-    echo "$host_name" > /etc/hostname
-    echo "127.0.0.1 $host_name" >> /etc/hosts
-    sudo timedatectl set-timezone Europe/Dublin
-    wget -O /home/$user_name/.vimrc https://zindilis.com/code/vimrc
-    reboot
-else
-    cd
-    sudo rm $LOCKFILE
-    # Security stuff
-    sed -i 's/PermitRootLogin yes/PermitRootLogin no/' /etc/ssh/sshd_config
-    sudo apt-get --yes install iptables-persistent
-    sudo ln -s /etc/init.d/iptables-persistent /etc/init.d/iptables
-    echo -n 'IP of Bastion Host: '
-    read bastion_host
-    sudo iptables                           \
-        --append        INPUT               \
-        --match         state               \
-        --state         ESTABLISHED,RELATED \
-        --jump          ACCEPT
-    sudo iptables                           \
-        --append        INPUT               \
-        --in-interface  lo                  \
-        --jump          ACCEPT
-    sudo iptables                           \
-        --append        INPUT               \
-        --protocol      icmp                \
-        --jump          ACCEPT
-    sudo iptables                           \
-        --append        INPUT               \
-        --match         state               \
-        --state         NEW                 \
-        --protocol      tcp                 \
-        --source        $bastion_host       \
-        --dport         22                  \
-        --jump          ACCEPT
-    sudo iptables                           \
-        --policy        INPUT DROP
-    sudo service iptables save
-    # Install useful utilities:
-    sudo apt-get --yes install vim nmap whois
-    sudo apt-get autoremove
-    sudo apt-get autoclean
-    sudo apt-get clean
+    adduser marios;
+    echo 'marios ALL=(ALL:ALL) ALL' >> /etc/sudoers
 fi
+sed -i 's/PermitRootLogin yes/PermitRootLogin no/' /etc/ssh/sshd_config;
+
+wget -O /home/marios/.vimrc https://zindilis.com/code/vimrc
+chown marios:marios /home/marios/.vimrc
+
+echo -n "Set hostname: "
+read host_name
+echo "$host_name" > /etc/hostname
+echo "127.0.0.1 $host_name" >> /etc/hosts
+
+apt-get --yes install iptables-persistent;
+service iptables-persistent flush;
+iptables --append        INPUT                \
+         --match         state                \
+         --state         ESTABLISHED,RELATED  \
+         --jump          ACCEPT
+iptables --append        INPUT                \
+         --in-interface  lo                   \
+         --jump          ACCEPT
+iptables --append        INPUT                \
+         --protocol      icmp                 \
+         --jump          ACCEPT
+iptables --append        INPUT                \
+         --match         state                \
+         --state         NEW                  \
+         --protocol      tcp                  \
+         --source        bastion.zindilis.com \
+         --dport         22                   \
+         --jump          ACCEPT
+iptables --policy        INPUT DROP
+service iptables-persistent save
+
+echo 'sshd,sshdfwd-X11: ALL' > /etc/hosts.deny
+echo 'sshd,sshdfwd-X11: bastion.zindilis.com' > /etc/hosts.allow
+
+apt-get autoremove
+apt-get autoclean
+apt-get clean
+
+echo "Done. Press Enter to reboot..."; read;
+reboot
