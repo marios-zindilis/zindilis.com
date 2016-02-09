@@ -15,7 +15,7 @@ fi
 apt-get update;
 apt-get --yes upgrade;
 apt-get --yes dist-upgrade;
-apt-get --yes install vim git nmap whois screen python3-pip;
+apt-get --yes install vim git nmap whois screen python3-pip encfs;
 timedatectl set-timezone Europe/Dublin
 
 if [ $(grep marios /etc/passwd | wc -l) -eq 0 ]
