@@ -15,7 +15,7 @@ fi
 apt-get update;
 apt-get --yes upgrade;
 apt-get --yes dist-upgrade;
-apt-get --yes install vim git nmap whois screen python3-pip;
+apt-get --yes install vim git nmap whois screen python3-pip encfs;
 timedatectl set-timezone Europe/Dublin
 
 if [ $(grep marios /etc/passwd | wc -l) -eq 0 ]
@@ -51,7 +51,11 @@ iptables --append        INPUT               \
          --protocol      tcp                 \
          --dport         22                  \
          --jump          ACCEPT
-iptables --policy        INPUT DROP
+iptables  --policy       INPUT   DROP
+iptables  --policy       FORWARD DROP
+ip6tables --policy       INPUT   DROP
+ip6tables --policy       FORWARD DROP
+ip6tables --policy       OUTPUT  DROP
 service netfilter-persistent save;
 
 apt-get --yes install fail2ban
