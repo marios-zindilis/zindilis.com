@@ -2,6 +2,7 @@
 Title: Regular expressions in python-markdown2 (part 1)
 Description: Study of the regular expressions used in python-markdown2 library
 First Published: 2015-11-07
+Last Updated: 2016-05-08
 - -->
 
 Regular expressions in python-markdown2 (part 1)
@@ -11,6 +12,9 @@ This article is a look into one of the regular expressions used in the
 [python-markdown2][python-markdown2] Python module for converting Markdown 
 syntax to HTML. It was written for pure fun, and in celebration of its own 
 pointlessness.
+
+  [python-markdown2]: https://github.com/trentm/python-markdown2
+    "python-markdown2 on Github"
 
 Standardize line endings
 ------------------------
@@ -60,5 +64,7 @@ half to do it with `str.replace()`. Thus, for the Python developer out there
 who is pondering on converting 30 million books from Markdown to HTML, the 
 answer is: Go with `str.replace()`. For the rest of us it's still 42.
 
-<!-- Links -->
-[python-markdown2]: https://github.com/trentm/python-markdown2 "python-markdown2 on Github"
+**Edit on 2016-05-08**: This change was merged in [PR204][].
+
+  [PR204]: https://github.com/trentm/python-markdown2/pull/204
+
