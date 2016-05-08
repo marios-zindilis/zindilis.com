@@ -8,13 +8,17 @@ Last Updated: 2016-05-08
 Regular expressions in python-markdown2 (part 1)
 ================================================
 
+<p class="lead">
 This article is a look into one of the regular expressions used in the 
-[python-markdown2][python-markdown2] Python module for converting Markdown 
-syntax to HTML. It was written for pure fun, and in celebration of its own 
-pointlessness.
+[python-markdown2][] Python module for converting Markdown syntax to HTML. It
+was initially written for pure fun, and in celebration of its own
+pointlessness, but eventually the changes proposed here made it upstream in
+[pull request 204][PR204].
 
   [python-markdown2]: https://github.com/trentm/python-markdown2
     "python-markdown2 on Github"
+  [PR204]: https://github.com/trentm/python-markdown2/pull/204
+</p>
 
 Standardize line endings
 ------------------------
@@ -63,8 +67,3 @@ would take you a week to do that with `re.sub()`, but only a day and a
 half to do it with `str.replace()`. Thus, for the Python developer out there 
 who is pondering on converting 30 million books from Markdown to HTML, the 
 answer is: Go with `str.replace()`. For the rest of us it's still 42.
-
-**Edit on 2016-05-08**: This change was merged in [PR204][].
-
-  [PR204]: https://github.com/trentm/python-markdown2/pull/204
-
