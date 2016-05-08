@@ -49,4 +49,8 @@ sudo echo '127.0.0.1 s1.2mdn.net' >> /etc/hosts
 
 git config --global user.email "marios@zindilis.com"
 git config --global user.name "Marios Zindilis"
+git config --global push.default simple
 
+# install nemo (Cinnamon File Manager)
+# install Flatabulous theme, activate with unity-tweak-tool
+# install ultraflat icon theme
