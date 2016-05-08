@@ -40,7 +40,8 @@ Knowledge & Practice
 *   [7 Free InfoSec Training Resources For IT Pros][]
 *   [Hack This Site][]
 *   [OWASP WebGoat][]
-    [Damn Vulnerable Web Application][dvwa]
+*   [Damn Vulnerable Web Application][dvwa]
+*   [10 Easy Ways to Increase Your Application Security Knowledge][9]
 
   [CTF365]: https://www.ctf365.com/
   [The Matasano Crypto Challenges]: http://cryptopals.com/
@@ -78,3 +79,4 @@ Certifications
 [6]: http://www.amanhardikar.com/mindmaps/Practice.html
 [7]: http://overthewire.org/wargames/
 [8]: http://www.darkreading.com/risk/10-security-certifications-to-boost-your-career/d/d-id/1322449?_mc=RSS_DR_EDT
+[9]: https://www.checkmarx.com/2016/03/18/p17160/
