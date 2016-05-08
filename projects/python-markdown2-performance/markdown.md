@@ -296,6 +296,10 @@ up as the value of the `title` attribute of the `a` element in HTML, e.g:
 
     [Markdown](https://daringfireball.net/projects/markdown/ "Markdown Website")
 
+This renders as:
+
+[Markdown](https://daringfireball.net/projects/markdown/ "Markdown Website")
+
 The other way to define links, is to specify a reference ID in brackets, after
 the linked text. Those IDs reference link definitions that can be in any place
 inside the Markdown document. This allows you to aggregate all your links at 
@@ -313,7 +317,7 @@ the bottom of your document, if you want, or pretty much anywhere else. E.g:
     [github]: https://github.com/ "GitHub"
     [gitlab]: https://gitlab.com/ "GitLab"
 
-That becomes:
+That converts to HTML as:
 
     <p>You can learn more about Git
     at <a title="Git Website" href="https://git-scm.com/">the Git Website</a>,
@@ -321,6 +325,20 @@ That becomes:
     You can then try it out online at
     <a title="GitHub" href="https://github.com">GitHub</a> or install your
     own server with <a title="GitLab" href="https://gitlab.com">GitLab</a>.</p>
+
+That same text renders as the following paragraph:
+
+You can learn more about Git 
+at [the Git website][git-website], 
+and in the [Pro Bit book][pro-git]. 
+You can then try it out online at 
+[GitHub][github] or install your 
+own server with [GitLab][gitlab].
+
+[git-website]: https://git-scm.com/ "Git Website"
+[pro-git]: https://progit.org/ "Pro Git Book"
+[github]: https://github.com/ "GitHub"
+[gitlab]: https://gitlab.com/ "GitLab"
 
 A common usage of this style is to specify the IDs of the link references as 
 numbers. Finally, you can just drop URLs in your Markdown document, and the 
