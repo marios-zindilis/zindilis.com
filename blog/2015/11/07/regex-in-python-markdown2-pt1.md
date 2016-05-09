@@ -8,16 +8,12 @@ Last Updated: 2016-05-08
 Regular expressions in python-markdown2 (part 1)
 ================================================
 
-<p class="lead">
-This article is a look into one of the regular expressions used in the 
-[python-markdown2][] Python module for converting Markdown syntax to HTML. It
-was initially written for pure fun, and in celebration of its own
+<p class="lead">This article is a look into one of the regular expressions
+used in the <a href="https://github.com/trentm/python-markdown2" title="python-markdown2 on Github">
+python-markdown2</a> Python module for converting Markdown syntax to HTML. It
+was initially written for pure fun, and in celebration of its own 
 pointlessness, but eventually the changes proposed here made it upstream in
-[pull request 204][PR204].
-
-  [python-markdown2]: https://github.com/trentm/python-markdown2
-    "python-markdown2 on Github"
-  [PR204]: https://github.com/trentm/python-markdown2/pull/204
+<a href="https://github.com/trentm/python-markdown2/pull/204">pull request 204</a>.
 </p>
 
 Standardize line endings
