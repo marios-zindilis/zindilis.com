@@ -2,16 +2,21 @@
 Title: Regular expressions in python-markdown2 (part 2)
 Description: Study of the regular expressions used in python-markdown2 library
 First Published: 2015-11-22
-Last Updated: 2015-11-30
+Last Updated: 2016-05-15
 - -->
 
 Regular expressions in python-markdown2 (part 2)
 ================================================
 
-This article is a look into one of the regular expressions used in the 
-[python-markdown2][python-markdown2] Python module for converting Markdown 
-syntax to HTML. It was written for pure fun, and in celebration of its own 
-pointlessness.
+<p class="lead">This article is a look into the performance of one of the
+regular expressions used in the
+<a href="https://github.com/trentm/python-markdown2" 
+title="python-markdown2 on Github"> python-markdown2</a> Python module for
+converting Markdown syntax to HTML. It was initially written for pure fun, and
+in celebration of its own pointlessness, but eventually the changes proposed
+here made it upstream in
+<a href="https://github.com/trentm/python-markdown2/pull/207" 
+title="python-markdown2 pull request 207">pull request 207</a>.</p>
 
 Replace tabs with spaces
 ------------------------
