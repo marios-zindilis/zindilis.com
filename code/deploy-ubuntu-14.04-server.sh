@@ -49,14 +49,14 @@ iptables --append        INPUT                \
          --match         state                \
          --state         NEW                  \
          --protocol      tcp                  \
-         --source        bastion.zindilis.com \
+         --source        zero.zindilis.com    \
          --dport         22                   \
          --jump          ACCEPT
 iptables --policy        INPUT DROP
 service iptables-persistent save
 
 echo 'sshd,sshdfwd-X11: ALL' > /etc/hosts.deny
-echo 'sshd,sshdfwd-X11: bastion.zindilis.com' > /etc/hosts.allow
+echo 'sshd,sshdfwd-X11: zero.zindilis.com' > /etc/hosts.allow
 
 apt-get autoremove
 apt-get autoclean
