@@ -35,6 +35,13 @@ echo "127.0.0.1 $host_name" >> /etc/hosts
 
 apt-get --yes install iptables-persistent;
 service netfilter-persistent flush;
+iptables --new-chain     repeat-offenders-22
+iptables --append        repeat-offenders-22 \
+         --jump          RETURN
+iptables --insert        INPUT 1             \
+         --protocol      tcp                 \
+         --dport         22                  \
+         --jump          repeat-offenders-22
 iptables --append        INPUT               \
          --match         state               \
          --state         ESTABLISHED,RELATED \
@@ -56,6 +63,7 @@ iptables  --policy       FORWARD DROP
 ip6tables --policy       INPUT   DROP
 ip6tables --policy       FORWARD DROP
 ip6tables --policy       OUTPUT  DROP
+
 service netfilter-persistent save;
 
 apt-get --yes install fail2ban
