@@ -12,3 +12,4 @@ set shiftwidth=4
 set smarttab
 " TAB is 4 SPACES instead of one \t:
 set expandtab
+set modeline
