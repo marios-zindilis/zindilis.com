@@ -9,10 +9,16 @@ First Published: 2016-10-23
 [**VLC**](http://www.videolan.org/vlc/) is an amazing media player, or rather a
 media-related Swiss army knife. It has a surprising number of different control
 [interfaces](https://wiki.videolan.org/Interfaces/), some of which allow 
-access over a network, such as the HTTP, Telnet and RC interfaces.
+access over a network, such as the HTTP, Telnet and RC interfaces. It also has
+a [Python API](https://www.olivieraubert.net/vlc/python-ctypes/doc/) but just
+looking at the documentation is terrifying...
 
-I did some experimenting with controlling VLC from Python, and wrote a small
+I did some experimenting with controlling VLC from Python using VLC's
+[Remote Control Interface][RCI] (see [this][this] as well), and wrote a small 
 proof-of-concept code snippet. Here's how to use it:
+
+  [RCI]: https://wiki.videolan.org/documentation:modules/rc/
+  [this]: http://getluky.net/2006/04/19/vlcs-awesome-rc-interface/
 
 ```python
 from vlc import VLC
