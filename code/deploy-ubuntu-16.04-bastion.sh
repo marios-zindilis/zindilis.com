@@ -35,13 +35,11 @@ echo "127.0.0.1 $host_name" >> /etc/hosts
 
 apt-get --yes install iptables-persistent;
 service netfilter-persistent flush;
-iptables --new-chain     repeat-offenders-22
-iptables --append        repeat-offenders-22 \
+iptables --new-chain     repeat-offenders
+iptables --append        repeat-offenders    \
          --jump          RETURN
 iptables --insert        INPUT 1             \
-         --protocol      tcp                 \
-         --dport         22                  \
-         --jump          repeat-offenders-22
+         --jump          repeat-offenders
 iptables --append        INPUT               \
          --match         state               \
          --state         ESTABLISHED,RELATED \
